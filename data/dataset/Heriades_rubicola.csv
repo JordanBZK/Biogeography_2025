@@ -1,0 +1,1003 @@
+occurrenceID,datasetName,datasetProvider,scientificName,sex,individualCountEnd,plantScientificName,endYear,endMonth,endDay,verbatimEventDate,startYear,country,decimalLatitude,decimalLongitude,coordinateUncertaintyInMetersEnd,manualGeoreferencing,geometry,lat,lon
+AM_Osmiini_RL_3035,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1989,7,27,27/07/1989,,Austria,"16,86831","47,92525",,not_provided,4833727.97614082|2780696.6356364,47.92525,16.86831
+AM_Osmiini_RL_3036,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1989,8,10,10/08/1989,,Austria,"16,88054","47,89834",,not_provided,4834908.54412885|2777801.54663025,47.89834,16.88054
+AM_Osmiini_RL_3032,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1991,9,22,22/09/1991,,Austria,"16,80018","47,76222",,not_provided,4830277.62821702|2762170.99043299,47.76222,16.80018
+AM_Osmiini_RL_14019,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1991,9,3,03/09/1991,,Austria,"16,83047","47,7459",,not_provided,4832701.34947227|2760572.87434186,47.7459,16.83047
+AM_Osmiini_RL_3033,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1991,9,3,03/09/1991,,Austria,"16,83047","47,7459",,not_provided,4832701.34947227|2760572.87434186,47.7459,16.83047
+OOLAM_OZOBODAT_bees_RL_11063,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,M,1,,1992,,,19920600,,Austria,"16,8400001525879","47,7400016784668",500,provided,4833471.8154678|2759985.72091087,47.7400016784668,16.8400001525879
+OOLAM_OZOBODAT_bees_RL_11064,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,2,,1992,,,19920600,,Austria,"16,8400001525879","47,7400016784668",500,provided,4833471.8154678|2759985.72091087,47.7400016784668,16.8400001525879
+AM_Osmiini_RL_14020,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2007,7,18,18.07.2007,,Austria,"16,76665","47,76666",,not_provided,4827730.72922124|2762432.25897271,47.76666,16.76665
+AM_Osmiini_RL_3034,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2007,7,18,18.07.2007,,Austria,"16,76665","47,76666",,not_provided,4827730.72922124|2762432.25897271,47.76666,16.76665
+DZ_bees_AU_RL_167,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,30,30/06/2016,,Austria,"16,3913","48,2299",200,provided,4795372.90077289|2811256.30586944,48.2299,16.3913
+DZ_bees_AU_RL_219,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2016,7,11,11/07/2016,,Austria,"16,3833","48,2166",200,provided,4794905.35489635|2809731.16524173,48.2166,16.3833
+DZ_bees_AU_RL_199,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2016,7,5,05/07/2016,,Austria,"16,3938","48,2259",200,provided,4795595.43772088|2810829.1477576,48.2259,16.3938
+DZ_bees_AU_RL_289,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2016,8,2,02/08/2016,,Austria,"16,3255","48,1838",200,provided,4790930.56040598|2805727.03128419,48.1838,16.3255
+DZ_bees_AU_RL_490,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2016,8,25,25/08/2016,,Austria,"16,3938","48,2259",200,provided,4795595.43772088|2810829.1477576,48.2259,16.3938
+DZ_bees_AU_RL_301,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2016,8,9,09/08/2016,,Austria,"16,3833","48,2166",200,provided,4794905.35489635|2809731.16524173,48.2166,16.3833
+OOLAM_OZOBODAT_bees_RL_12581,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,M,2,,2017,6,24,20170624,,Austria,"16,516666666667","48,2",100,provided,4804936.1094254|2808757.25720281,48.2,16.516666666667
+OOLAM_OZOBODAT_bees_RL_14633,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,1,,2017,8,29,20170829,,Austria,"16,516666666667","48,2",100,provided,4804936.1094254|2808757.25720281,48.2,16.516666666667
+OOLAM_OZOBODAT_bees_RL_10778,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,M,2,,2018,6,16,20180616,,Austria,"16,7600002288818","47,7599983215332",500,provided,4827300.05257187|2761648.92562347,47.7599983215332,16.7600002288818
+OOLAM_OZOBODAT_bees_RL_14845,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,1,,2019,6,26,20190626,,Austria,"16,2647228240967","48,1163902282715",500,provided,4787046.77813706|2797871.77292628,48.1163902282715,16.2647228240967
+OOLAM_OZOBODAT_bees_RL_14828,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,M,1,,2019,8,10,20190810,,Austria,"16,8005561828613","47,7613906860352",5000,provided,4830313.93909276|2762081.74118713,47.7613906860352,16.8005561828613
+OOLAM_OZOBODAT_bees_RL_14829,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,2,,2019,8,10,20190810,,Austria,"16,8005561828613","47,7613906860352",5000,provided,4830313.93909276|2762081.74118713,47.7613906860352,16.8005561828613
+OOLAM_OZOBODAT_bees_RL_14827,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,2,,2019,9,15,20190915,,Austria,"16,8005561828613","47,7613906860352",5000,provided,4830313.93909276|2762081.74118713,47.7613906860352,16.8005561828613
+OOLAM_OZOBODAT_bees_RL_14379,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,M,3,,2020,6,30,20200630,,Austria,"16,8005561828613","47,7613906860352",5000,provided,4830313.93909276|2762081.74118713,47.7613906860352,16.8005561828613
+OOLAM_OZOBODAT_bees_RL_14380,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,4,,2020,6,30,20200630,,Austria,"16,8005561828613","47,7613906860352",5000,provided,4830313.93909276|2762081.74118713,47.7613906860352,16.8005561828613
+DZ_bees_AU_RL_3394,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2020,7,30,30/07/2020,,Austria,"16,304722","48,181111",200,provided,4789416.10254953|2805296.98863992,48.181111,16.304722
+OOLAM_OZOBODAT_bees_RL_14381,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,5,,2020,7,31,20200731,,Austria,"16,866666666667","47,783333333333",100,provided,4835029.0338272|2764969.33386916,47.783333333333,16.866666666667
+DZ_bees_AU_RL_3393,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2020,8,11,11/08/2020,,Austria,"16,304722","48,181666",200,provided,4789410.97236341|2805358.4908771,48.181666,16.304722
+DZ_bees_AU_RL_3166,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2020,8,26,26/08/2020,,Austria,"16,307777","48,181388",200,provided,4789639.88168983|2805347.07496371,48.181388,16.307777
+DZ_bees_AU_RL_3167,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2021,7,27,27/07/2021,,Austria,"16,304722","48,181666",200,provided,4789410.97236341|2805358.4908771,48.181666,16.304722
+DZ_bees_AU_RL_3165,ZimmermannD_NHMW_2023,John Macaroni,Heriades rubicola,F,1,,2021,7,7,07/07/2021,,Austria,"16,304722","48,181666",200,provided,4789410.97236341|2805358.4908771,48.181666,16.304722
+AM_Osmiini_RL_3166,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1904,1,31,31/01/1904,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3139,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1904,1,8,08/01/1904,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_3147,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1904,1,8,08/01/1904,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3149,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1904,1,8,08/01/1904,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3142,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1966,7,18,18.7.1966,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_14030,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1966,7,25,25.7.1966,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_3141,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1966,7,25,25.7.1966,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_14021,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1966,,,?.7.1966,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_3041,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1966,,,?.7.1966,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_3140,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1967,5,31,31.5.1967,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_3156,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,7,16,16.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3152,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,7,18,18.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3161,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1968,7,18,18.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3165,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1968,7,19,19.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3164,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1968,7,20,20.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3151,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1968,7,21,21.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3163,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1968,7,21,21.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3168,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1968,7,22,22.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3154,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,7,23,23.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3162,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1968,7,23,23.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3045,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,7,25,25/07/1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3157,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,7,25,25.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3046,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,7,26,26.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3167,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1968,7,26,26.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3158,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,7,31,31.7.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3155,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,8,1,1.8.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3153,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,8,2,2.8.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3170,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,8,2,02/08/1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3047,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1968,8,3,3.8.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3169,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1968,8,3,3.8.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3159,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,6,,1968,8,31,1.-31.8.1968,1968,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3171,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,8,8,08/08/1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_14031,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,4,,1968,,,00.08.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3146,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1968,,,00.08.1968,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3143,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1969,6,30,1.-30.6.1969,1969,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_3148,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1970,6,1,01/06/1970,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_14023,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1970,8,12,6.-12.8.1970,1970,Bulgaria,"27,90033","42,11995",,not_provided,5790702.86982724|2288617.61695764,42.11995,27.90033
+AM_Osmiini_RL_3048,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,9,,1970,8,12,6.-12.8.1970,1970,Bulgaria,"27,90033","42,11995",,not_provided,5790702.86982724|2288617.61695764,42.11995,27.90033
+AM_Osmiini_RL_3049,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,6,,1970,8,12,6.-12.8.1970,1970,Bulgaria,"27,90033","42,11995",,not_provided,5790702.86982724|2288617.61695764,42.11995,27.90033
+AM_Osmiini_RL_3160,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1970,8,16,16.8.1970,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3150,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1970,8,17,17.8.18970,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3172,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1970,8,17,17/08/1970,,Bulgaria,"27,71387","42,68827",,not_provided,5761985.08580075|2346626.75501093,42.68827,27.71387
+AM_Osmiini_RL_3133,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1970,8,31,1.-31.8.1970,1970,Bulgaria,"27,72056","42,66013",,not_provided,5763200.24321459|2343703.04883887,42.66013,27.72056
+AM_Osmiini_RL_3040,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1979,5,18,18.5.1979,,Bulgaria,"23,28036","41,56783",,not_provided,5426608.94127883|2149313.05487767,41.56783,23.28036
+AM_Osmiini_RL_3043,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1982,6,28,28/06/1982,,Bulgaria,"27,72056","42,66014",,not_provided,5763200.00072763|2343704.13356276,42.66014,27.72056
+AM_Osmiini_RL_3134,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1982,6,29,29.6.1982,,Bulgaria,"27,72056","42,66013",,not_provided,5763200.24321459|2343703.04883887,42.66013,27.72056
+AM_Osmiini_RL_3173,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1993,8,13,13/08/1993,,Bulgaria,"23,3915","41,5246",,not_provided,5436534.63647383|2146221.9785846,41.5246,23.3915
+AM_Osmiini_RL_3174,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,5,,1993,8,13,13/08/1993,,Bulgaria,"23,23084","41,73819",,not_provided,5419481.68222108|2167226.68092093,41.73819,23.23084
+AM_Osmiini_RL_3175,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1993,8,14,14/08/1993,,Bulgaria,"23,23084","41,73819",,not_provided,5419481.68222108|2167226.68092093,41.73819,23.23084
+AM_Osmiini_RL_3185,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1993,8,14,14.8.1993,,Bulgaria,"23,23054","41,74002",,not_provided,5419424.23857665|2167422.53341761,41.74002,23.23054
+AM_Osmiini_RL_3186,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1993,8,14,14.8.1993,,Bulgaria,"23,23054","41,74002",,not_provided,5419424.23857665|2167422.53341761,41.74002,23.23054
+AM_Osmiini_RL_3176,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1996,7,20,20/07/1996,,Bulgaria,"24,74529","42,1354",,not_provided,5535535.96590123|2233912.30991613,42.1354,24.74529
+AM_Osmiini_RL_3177,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1996,8,15,15/08/1996,,Bulgaria,"24,68905","42,1243",,not_provided,5531192.61804427|2231793.80690642,42.1243,24.68905
+AM_Osmiini_RL_3144,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,6,5,05/06/1997,,Bulgaria,"26,93612","43,27125",,not_provided,5686400.97560901|2395349.90024589,43.27125,26.93612
+AM_Osmiini_RL_3145,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,6,6,06/06/1997,,Bulgaria,"26,93612","43,27125",,not_provided,5686400.97560901|2395349.90024589,43.27125,26.93612
+AM_Osmiini_RL_3135,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1997,7,1,01/07/1997,,Bulgaria,"24,74529","42,1354",,not_provided,5535535.96590123|2233912.30991613,42.1354,24.74529
+AM_Osmiini_RL_3138,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,7,1,01/07/1997,,Bulgaria,"24,74529","42,1354",,not_provided,5535535.96590123|2233912.30991613,42.1354,24.74529
+AM_Osmiini_RL_3178,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,7,10,10/07/1997,,Bulgaria,"24,68905","42,1243",,not_provided,5531192.61804427|2231793.80690642,42.1243,24.68905
+AM_Osmiini_RL_3181,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,7,20,"20,7.97",,Bulgaria,"24,72434","42,23112",,not_provided,5531915.15751306|2244021.62657371,42.23112,24.72434
+AM_Osmiini_RL_3136,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1997,7,5,05/07/1997,,Bulgaria,"24,74529","42,1354",,not_provided,5535535.96590123|2233912.30991613,42.1354,24.74529
+AM_Osmiini_RL_3137,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,7,5,05/07/1997,,Bulgaria,"24,74529","42,1354",,not_provided,5535535.96590123|2233912.30991613,42.1354,24.74529
+AM_Osmiini_RL_3179,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,8,15,15/08/1997,,Bulgaria,"24,68905","42,1243",,not_provided,5531192.61804427|2231793.80690642,42.1243,24.68905
+AM_Osmiini_RL_3180,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,8,20,20/08/1997,,Bulgaria,"24,72434","42,23112",,not_provided,5531915.15751306|2244021.62657371,42.23112,24.72434
+AM_Osmiini_RL_3182,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,9,5,05/09/1997,,Bulgaria,"24,72434","42,23112",,not_provided,5531915.15751306|2244021.62657371,42.23112,24.72434
+AM_Osmiini_RL_3183,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,9,5,05/09/1997,,Bulgaria,"25,54672","41,85791",,not_provided,5606369.69240016|2216974.96723578,41.85791,25.54672
+AM_Osmiini_RL_3184,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,9,5,05/09/1997,,Bulgaria,"25,54672","41,85791",,not_provided,5606369.69240016|2216974.96723578,41.85791,25.54672
+AM_Osmiini_RL_3044,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2008,6,16,16.6.2008,,Bulgaria,"27,78333","42,21666",,provided,5778962.14407133|2296820.51065351,42.21666,27.78333
+AM_Osmiini_RL_14022,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,2008,6,18,18.6.2008,,Bulgaria,"27,8","42,18333",,provided,5781106.981104|2293530.53617584,42.18333,27.8
+AM_Osmiini_RL_3042,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2008,6,18,18.6.2008,,Bulgaria,"27,8","42,18333",,provided,5781106.981104|2293530.53617584,42.18333,27.8
+AM_Osmiini_RL_3037,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2008,6,19,19.6.2008,,Bulgaria,"26,50278","42,11244",,provided,5678313.81687813|2261489.04923613,42.11244,26.50278
+AM_Osmiini_RL_3274,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1904,1,7,07/01/1904,,Croatia,"17,02139","43,2938",,not_provided,4891404.55916803|2269550.09863132,43.2938,17.02139
+AM_Osmiini_RL_14055,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,1966,7,18,18/07/1966,,Croatia,"15,20636","44,06375",,not_provided,4738691.4204537|2342720.75532363,44.06375,15.20636
+AM_Osmiini_RL_3365,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1966,7,18,18/07/1966,,Croatia,"15,20636","44,06375",,not_provided,4738691.4204537|2342720.75532363,44.06375,15.20636
+AM_Osmiini_RL_3366,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,3,,1966,7,18,18.7.1966,,Croatia,"15,20636","44,06375",,not_provided,4738691.4204537|2342720.75532363,44.06375,15.20636
+AM_Osmiini_RL_3283,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1966,7,31,1.-31.7.1966,1966,Croatia,"17,64934","43,05328",,not_provided,4944769.25037865|2247990.23868296,43.05328,17.64934
+AM_Osmiini_RL_3114,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1966,,,`08.1966,,Croatia,"17,64932","43,05327",,not_provided,4944767.73146209|2247988.96914048,43.05327,17.64932
+AM_Osmiini_RL_3284,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1966,,,00.07.1966,,Croatia,"17,43102","43,05631",,not_provided,4927002.04119891|2246537.9039322,43.05631,17.43102
+PR_Megachilidae_RL_37613,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,25,19690725,1969,Croatia,"16,55083","43,38417",,provided,4852471.02743321|2276079.35317578,43.38417,16.55083
+ULB_RL_1214458,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1969,,,19690000,,Croatia,"16,55083","43,38417",,provided,4852471.02743321|2276079.35317578,43.38417,16.55083
+AM_Osmiini_RL_3272,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1973,6,30,8.-30.6.1973,1973,Croatia,"14,75007","44,9711",,not_provided,4696083.6620515|2440759.75002781,44.9711,14.75007
+AM_Osmiini_RL_3039,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1984,7,7,07/07/1984,,Croatia,"14,7522","44,97106",,not_provided,4696251.86492438|2440766.02143267,44.97106,14.7522
+AM_Osmiini_RL_3038,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1986,6,10,10/06/1986,,Croatia,"14,75007","44,9711",,not_provided,4696083.6620515|2440759.75002781,44.9711,14.75007
+ADD_BDT_2070,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,1991,8,24,,,Croatia,"13,66134","45,452226",,not_provided,4607706.11921986|2489251.2272161,45.452226,13.66134
+AM_Osmiini_RL_3286,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3287,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3288,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3289,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3290,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3291,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3292,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3293,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3294,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3295,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3296,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1994,8,11,11/08/1994,,Croatia,"13,6387","45,08117",,not_provided,4607850.31660287|2448029.90785914,45.08117,13.6387
+AM_Osmiini_RL_3297,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1994,8,12,12/08/1994,,Croatia,"13,91089","44,78304",,not_provided,4630933.85287603|2416076.78090899,44.78304,13.91089
+AM_Osmiini_RL_14044,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1998,8,27,25.-27.8.1998,1998,Croatia,"13,83843","44,95607",,not_provided,4624259.48576351|2434953.77822195,44.95607,13.83843
+AM_Osmiini_RL_3279,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1998,8,27,25.-27.8.1998,1998,Croatia,"13,83843","44,95607",,not_provided,4624259.48576351|2434953.77822195,44.95607,13.83843
+AM_Osmiini_RL_3281,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2000,6,16,16.6.2000,,Croatia,"17,24632","43,15605",,not_provided,4910994.95025551|2256077.71401894,43.15605,17.24632
+AM_Osmiini_RL_14043,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2001,6,10,10/06/2001,,Croatia,"14,73089","44,83041",,not_provided,4695511.48733206|2425080.52868098,44.83041,14.73089
+AM_Osmiini_RL_3275,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2001,6,10,10/06/2001,,Croatia,"14,73089","44,83041",,not_provided,4695511.48733206|2425080.52868098,44.83041,14.73089
+AM_Osmiini_RL_3276,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2001,6,7,07/06/2001,,Croatia,"14,73089","44,83041",,not_provided,4695511.48733206|2425080.52868098,44.83041,14.73089
+AM_Osmiini_RL_14047,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2001,7,20,20.7.2001,,Croatia,"17,04599","43,30622",,not_provided,4893275.17775368|2271108.91618275,43.30622,17.04599
+AM_Osmiini_RL_3299,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2001,7,20,20/07/2001,,Croatia,"17,04599","43,30622",,not_provided,4893275.17775368|2271108.91618275,43.30622,17.04599
+AM_Osmiini_RL_3300,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2001,7,20,20.7.2001,,Croatia,"17,04599","43,30622",,not_provided,4893275.17775368|2271108.91618275,43.30622,17.04599
+AM_Osmiini_RL_3277,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2002,7,20,20/07/2002,,Croatia,"13,90537","44,91633",,not_provided,4629762.0217677|2430824.03994013,44.91633,13.90537
+AM_Osmiini_RL_14046,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2004,7,4,04/07/2004,,Croatia,"13,68313","45,08167",,provided,4611347.04826994|2448257.09464902,45.08167,13.68313
+AM_Osmiini_RL_3298,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2004,7,4,04/07/2004,,Croatia,"13,68313","45,08167",,provided,4611347.04826994|2448257.09464902,45.08167,13.68313
+AM_Osmiini_RL_3285,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2004,7,9,09/07/2004,,Croatia,"13,68333","45,43333",,provided,4609525.42641549|2487241.08340162,45.43333,13.68333
+AM_Osmiini_RL_14026,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,4,,2009,7,12,5.-12.7.2009,2009,Croatia,"13,52574","45,43717",,not_provided,4597172.45066236|2487070.04886784,45.43717,13.52574
+AM_Osmiini_RL_3112,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,3,,2009,7,12,5.-12.7.2009,2009,Croatia,"13,52574","45,43717",,not_provided,4597172.45066236|2487070.04886784,45.43717,13.52574
+AM_Osmiini_RL_3278,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2009,8,12,5.-12.8.2009,2009,Croatia,"13,52574","45,43717",,not_provided,4597172.45066236|2487070.04886784,45.43717,13.52574
+AM_Osmiini_RL_14045,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2011,6,27,27/06/2011,,Croatia,"17,02152","43,29377",,not_provided,4891415.37682931|2269547.77321574,43.29377,17.02152
+AM_Osmiini_RL_3282,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2011,6,27,27/06/2011,,Croatia,"17,02152","43,29377",,not_provided,4891415.37682931|2269547.77321574,43.29377,17.02152
+AM_Osmiini_RL_3115,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,3,,2012,,,x. 9.2012,,Croatia,"16,97228","43,33518",,provided,4887028.41854635|2273748.42531714,43.33518,16.97228
+AM_Osmiini_RL_14027,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2014,7,17,17.7.2014,,Croatia,"14,74","44,96",,provided,4695364.08072705|2439479.71834196,44.96,14.74
+AM_Osmiini_RL_3113,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2014,7,17,17.7.2014,,Croatia,"14,74","44,96",,provided,4695364.08072705|2439479.71834196,44.96,14.74
+AM_Osmiini_RL_3273,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,,,,,,Croatia,"18,09443","42,65066",,not_provided,4985396.50504079|2207391.12275829,42.65066,18.09443
+AM_Osmiini_RL_3189,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,6,23,23/06/1971,,Cyprus,"32,82823","34,9916",,not_provided,6393458.47543725|1636418.34984808,34.9916,32.82823
+AM_Osmiini_RL_3190,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,6,23,23/06/1971,,Cyprus,"32,82823","34,9916",,not_provided,6393458.47543725|1636418.34984808,34.9916,32.82823
+AM_Osmiini_RL_3192,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,7,3,03/07/1971,,Cyprus,"33,57273","34,84648",,not_provided,6462920.19330017|1641405.35499566,34.84648,33.57273
+AM_Osmiini_RL_3193,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,7,3,03/07/1971,,Cyprus,"33,57273","34,84648",,not_provided,6462920.19330017|1641405.35499566,34.84648,33.57273
+AM_Osmiini_RL_3187,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2004,7,10,10.07.2004,,Cyprus,"33,97778","34,99051",,not_provided,6494136.64439544|1668137.15891732,34.99051,33.97778
+AM_Osmiini_RL_3188,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2004,7,10,10.07.2004,,Cyprus,"33,97778","34,99051",,not_provided,6494136.64439544|1668137.15891732,34.99051,33.97778
+AM_Osmiini_RL_3191,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2004,7,7,07.07.2004,,Cyprus,"33,2084","34,92646",,not_provided,6428667.72362338|1639831.99913844,34.92646,33.2084
+AM_Osmiini_RL_3054,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,11,9,09/11/2016,,Cyprus,"32,97141","34,60065",,provided,6417079.42180973|1598603.1196862,34.60065,32.97141
+AM_Osmiini_RL_3061,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2016,12,8,08/12/2016,,Cyprus,"32,99091","34,65096",,provided,6417378.76514425|1604500.52518135,34.65096,32.99091
+AM_Osmiini_RL_3051,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,3,7,07/03/2016,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3060,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,5,22,22/05/2016,,Cyprus,"32,97423","34,65306",,provided,6415849.35535174|1604269.19655786,34.65306,32.97423
+AM_Osmiini_RL_3056,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,11,11/06/2016,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3063,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,11,11/06/2016,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3052,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,31,31/07/2016,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3055,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2016,8,10,10/08/2016,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3053,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2016,8,26,26/08/2016,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3062,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2016,8,26,26/08/2016,,Cyprus,"32,99091","34,65096",,provided,6417378.76514425|1604500.52518135,34.65096,32.99091
+AM_Osmiini_RL_3058,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2017,3,7,07/03/2017,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3059,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2017,3,7,07/03/2017,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AM_Osmiini_RL_3057,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2017,4,21,21/04/2017,,Cyprus,"32,94066","34,62881",,provided,6413573.70916949|1600767.605102,34.62881,32.94066
+AV_bees_CY_316,VarnavaA_Cyprus_2023,John Macaroni,Heriades rubicola,,1,,,,,,,Cyprus,"32,941031","34,628771",,provided,6413607.52325893|1600773.5562228,34.628771,32.941031
+AV_bees_CY_317,VarnavaA_Cyprus_2023,John Macaroni,Heriades rubicola,,1,,,,,,,Cyprus,"32,974233","34,653067",,provided,6415849.4221818|1604270.02491697,34.653067,32.974233
+AV_bees_CY_318,VarnavaA_Cyprus_2023,John Macaroni,Heriades rubicola,,1,,,,,,,Cyprus,"32,9952","34,6432",,provided,6417976.07390257|1603790.16581089,34.6432,32.9952
+AV_bees_CY_319,VarnavaA_Cyprus_2023,John Macaroni,Heriades rubicola,,1,,,,,,,Cyprus,"32,99091","34,65096",,provided,6417378.76514425|1604500.52518135,34.65096,32.99091
+AV_bees_CY_320,VarnavaA_Cyprus_2023,John Macaroni,Heriades rubicola,,1,,,,,,,Cyprus,"32,940667","34,628817",,provided,6413574.12920659|1600768.54242171,34.628817,32.940667
+AM_Osmiini_RL_3050,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,2013,6,20,20.6.2013,,Cyprus,"32,31067","34,95735",,provided,6348915.91584556|1618929.57344243,34.95735,32.31067
+AM_Osmiini_RL_3064,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,10,30,30/10/2016,,Cyprus,"32,35119","35,05353",,provided,6349827.37719719|1630276.62272479,35.05353,32.35119
+AM_Osmiini_RL_3065,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,10,30,30/10/2016,,Cyprus,"32,35119","35,05353",,provided,6349827.37719719|1630276.62272479,35.05353,32.35119
+AM_Osmiini_RL_3066,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,10,30,30/10/2016,,Cyprus,"32,35119","35,05353",,provided,6349827.37719719|1630276.62272479,35.05353,32.35119
+AM_Osmiini_RL_3067,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,10,30,30/10/2016,,Cyprus,"32,35119","35,05353",,provided,6349827.37719719|1630276.62272479,35.05353,32.35119
+AM_Osmiini_RL_3068,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,10,30,30/10/2016,,Cyprus,"32,35119","35,05353",,provided,6349827.37719719|1630276.62272479,35.05353,32.35119
+AM_Osmiini_RL_3069,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,10,30,30/10/2016,,Cyprus,"32,35119","35,05353",,provided,6349827.37719719|1630276.62272479,35.05353,32.35119
+AV_bees_CY_321,VarnavaA_Cyprus_2023,John Macaroni,Heriades rubicola,,1,,,,,,,Cyprus,"32,351197","35,053539",,provided,6349827.74384074|1630277.7694013,35.053539,32.351197
+PR_Megachilidae_RL_37826,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2008,7,30,20080730,2008,Czech Republic,"16,08","48,85",,provided,4766779.22376797|2878043.60341055,48.85,16.08
+ULB_RL_1214448,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2008,,,20080000,,Czech Republic,"16,08","48,85",,provided,4766779.22376797|2878043.60341055,48.85,16.08
+PB_bees_CR_RL_3769,BoguschP_CzechRepublic_2023,John Macaroni,Heriades rubicola,,1,,2013,7,2,,2013,Czech Republic,"16,70221889","48,77618139",,provided,4812992.0883487|2873823.24455673,48.77618139,16.70221889
+PB_bees_CR_RL_3773,BoguschP_CzechRepublic_2023,John Macaroni,Heriades rubicola,,1,,2013,7,2,,2013,Czech Republic,"16,70221889","48,77618139",,provided,4812992.0883487|2873823.24455673,48.77618139,16.70221889
+OOLAM_OZOBODAT_bees_RL_11062,Zobodat_Austria_2023,John Macaroni,Heriades rubicola,F,2,,2014,7,26,20140726,,Czech Republic,"16,15","48,75",100,provided,4772805.83236783|2867384.18352422,48.75,16.15
+PB_bees_CR_RL_3348,BoguschP_CzechRepublic_2023,John Macaroni,Heriades rubicola,,1,,2015,,,,,Czech Republic,"16,15120444","50,42742361",,provided,4757529.76562345|3053386.46999279,50.42742361,16.15120444
+PR_Megachilidae_RL_37827,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,,,,,,Czech Republic,"15,25443","50,23712",,provided,4695526.6089207|3027309.25574593,50.23712,15.25443
+SURMZ_bees_RL_4129,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,1,,,,,NA,,Czech Republic,"15,25443","50,2371222",100,provided,4695526.59158285|3027309.4999195,50.2371222,15.25443
+AM_Osmiini_RL_3234,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1956,7,12,12/07/1956,,France,"9,305253","42,68288",,not_provided,4263881.55821771|2175459.82144226,42.68288,9.305253
+AM_Osmiini_RL_3235,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1956,7,12,12/07/1956,,France,"9,305253","42,68288",,not_provided,4263881.55821771|2175459.82144226,42.68288,9.305253
+AM_Osmiini_RL_3236,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1956,7,12,12/07/1956,,France,"9,305253","42,68288",,not_provided,4263881.55821771|2175459.82144226,42.68288,9.305253
+AM_Osmiini_RL_3224,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1956,7,14,14/07/1956,,France,"9,480168","42,8361",,not_provided,4278371.49793646|2192312.147748,42.8361,9.480168
+AM_Osmiini_RL_3232,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1956,7,15,15/07/1956,,France,"9,303806","42,67936",,not_provided,4263759.22688716|2175071.13065791,42.67936,9.303806
+AM_Osmiini_RL_3233,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1956,7,15,15/07/1956,,France,"9,303806","42,67936",,not_provided,4263759.22688716|2175071.13065791,42.67936,9.303806
+AM_Osmiini_RL_3228,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1956,7,17,17/07/1956,,France,"8,995942","42,57308",,not_provided,4238301.55611031|2163588.8628211,42.57308,8.995942
+AM_Osmiini_RL_3220,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1956,7,24,24/07/1956,,France,"9,149032","42,30941",,not_provided,4250602.35372674|2134242.53322089,42.30941,9.149032
+AM_Osmiini_RL_3229,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,8,22,22/08/1971,,France,"9,20709","42,4636",,not_provided,4255572.61855886|2151259.93550941,42.4636,9.20709
+AM_Osmiini_RL_3230,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,22,22/08/1971,,France,"9,20709","42,4636",,not_provided,4255572.61855886|2151259.93550941,42.4636,9.20709
+AM_Osmiini_RL_3231,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,22,22/08/1971,,France,"9,20709","42,4636",,not_provided,4255572.61855886|2151259.93550941,42.4636,9.20709
+AM_Osmiini_RL_3213,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,8,27,25-27.8.1971,1971,France,"8,757198","42,56766",,not_provided,4218630.17248439|2163282.02258464,42.56766,8.757198
+AM_Osmiini_RL_3214,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,8,27,25-27.8.1971,1971,France,"8,757198","42,56766",,not_provided,4218630.17248439|2163282.02258464,42.56766,8.757198
+AM_Osmiini_RL_3215,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,27,25-27.8.1971,1971,France,"8,757198","42,56766",,not_provided,4218630.17248439|2163282.02258464,42.56766,8.757198
+AM_Osmiini_RL_3216,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,27,25-27.8.1971,1971,France,"8,757198","42,56766",,not_provided,4218630.17248439|2163282.02258464,42.56766,8.757198
+AM_Osmiini_RL_3217,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,27,25-27.7.1971,1971,France,"8,757198","42,56766",,not_provided,4218630.17248439|2163282.02258464,42.56766,8.757198
+AM_Osmiini_RL_3218,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,27,25-27.8.1971,1971,France,"8,757198","42,56766",,not_provided,4218630.17248439|2163282.02258464,42.56766,8.757198
+AM_Osmiini_RL_3219,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,27,25-27.8.1971,1971,France,"8,757198","42,56766",,not_provided,4218630.17248439|2163282.02258464,42.56766,8.757198
+AM_Osmiini_RL_3225,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,8,29,28-29.8.1971,1971,France,"8,799673","42,55992",,not_provided,4222115.74525554|2162368.33625686,42.55992,8.799673
+AM_Osmiini_RL_3226,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,29,28-29.8.1971,1971,France,"8,799673","42,55992",,not_provided,4222115.74525554|2162368.33625686,42.55992,8.799673
+AM_Osmiini_RL_3227,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1971,8,29,28-29.8.1971,1971,France,"8,799673","42,55992",,not_provided,4222115.74525554|2162368.33625686,42.55992,8.799673
+PR_Megachilidae_RL_37840,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1982,5,28,19820528,1982,France,"8,761427","42,56289",,provided,4218970.36653362|2162748.16566935,42.56289,8.761427
+ULB_RL_1214454,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1982,,,19820000,,France,"8,761426783","42,56289264",,provided,4218970.35315021|2162748.45825541,42.56289264,8.761426783
+AM_Osmiini_RL_3222,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,8,,1996,6,17,17/06/1996,,France,"8,798502","41,72871",,not_provided,4220654.89216824|2070374.9437089,41.72871,8.798502
+AM_Osmiini_RL_3223,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,11,,1996,6,17,17/06/1996,,France,"8,798502","41,72871",,not_provided,4220654.89216824|2070374.9437089,41.72871,8.798502
+AM_Osmiini_RL_3221,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1996,6,18,18/06/1996,,France,"9,080434","41,77186",,not_provided,4244253.33696917|2074818.57958565,41.77186,9.080434
+ADD_MA_765,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Chrysanthemum coronatum,2002,6,11,,,France,"9,185682637","41,43502272",,provided,4252664.74608119|2037454.76637837,41.43502272,9.185682637
+ADD_MA_766,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Chrysanthemum coronatum,2002,6,11,,,France,"9,185682637","41,43502272",,provided,4252664.74608119|2037454.76637837,41.43502272,9.185682637
+ADD_MA_767,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Chrysanthemum coronatum,2002,6,11,,,France,"9,185682637","41,43502272",,provided,4252664.74608119|2037454.76637837,41.43502272,9.185682637
+ADD_MA_773,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Chrysanthemum coronatum,2002,6,11,,,France,"9,185682637","41,43502272",,provided,4252664.74608119|2037454.76637837,41.43502272,9.185682637
+ADD_MA_774,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Chrysanthemum coronatum,2002,6,11,,,France,"9,185682637","41,43502272",,provided,4252664.74608119|2037454.76637837,41.43502272,9.185682637
+ADD_MA_775,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Chrysanthemum coronatum,2002,6,11,,,France,"9,185682637","41,43502272",,provided,4252664.74608119|2037454.76637837,41.43502272,9.185682637
+ADD_MA_745,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2009,8,19,,,France,"8,803889","42,501389",,provided,4222366.92367351|2155882.59059867,42.501389,8.803889
+ADD_MA_751,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2010,7,25,,,France,"9,428889","42,821944",,provided,4274155.34305406|2190774.83493888,42.821944,9.428889
+PR_Megachilidae_RL_37836,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1956,7,26,19560726,1956,France,"4,706109","43,72997",,provided,3893833.83330437|2306282.89355314,43.72997,4.706109
+ULB_RL_1214450,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1956,,,19560000,,France,"4,706108384","43,72997392",,provided,3893833.81259096|2306283.33072543,43.72997392,4.706108384
+PR_Megachilidae_RL_37837,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1959,7,15,19590715,1959,France,"4,893151","44,9244",,provided,3917455.02533693|2437447.78423026,44.9244,4.893151
+ULB_RL_1214451,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1959,,,19590000,,France,"4,893150806","44,9243994",,provided,3917455.00570571|2437447.71883738,44.9243994,4.893150806
+PR_Megachilidae_RL_37616,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1968,8,1,19680801,1968,France,"4,66667","43,8",,provided,3891177.88211576|2314255.6790763,43.8,4.66667
+ULB_RL_1214457,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,1968,,,19680000,,France,"4,66667","43,8",,provided,3891177.88211576|2314255.6790763,43.8,4.66667
+PR_Megachilidae_RL_37614,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,1971,6,21,19710621,1971,France,"6,93333","43,51667",,provided,4072483.95534563|2272638.70303369,43.51667,6.93333
+PR_Megachilidae_RL_37615,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1971,6,27,19710627,1971,France,"6,93333","43,51667",,provided,4072483.95534563|2272638.70303369,43.51667,6.93333
+ULB_RL_1214456,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,1971,,,19710000,,France,"6,93333","43,51667",,provided,4072483.95534563|2272638.70303369,43.51667,6.93333
+PR_Megachilidae_RL_37838,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1976,,,19760600,1976,France,"6,216226","43,62782",,provided,4015006.73971134|2287596.21163408,43.62782,6.216226
+ULB_RL_1214452,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1976,,,19760000,,France,"6,21622606","43,62782297",,provided,4015006.76019195|2287596.54023048,43.62782297,6.21622606
+ADD_MA_768,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1994,7,27,,,France,"3,072648992","42,51300768",,provided,3750756.15056499|2182630.82998416,42.51300768,3.072648992
+ADD_MA_758,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,1995,7,25,,,France,"3,072648992","42,51300768",,provided,3750756.15056499|2182630.82998416,42.51300768,3.072648992
+ADD_MA_769,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1995,7,8,,,France,"3,008502245","42,75386137",,provided,3747805.80407771|2209705.16755268,42.75386137,3.008502245
+AM_Osmiini_RL_3209,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,5,4,4.5.1997,,France,"3,443069","43,31432",,not_provided,3788400.736451|2268405.05298067,43.31432,3.443069
+AM_Osmiini_RL_3210,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,6,8,08/06/1997,,France,"4,971893","43,70728",,provided,3915083.68988629|2302296.2714267,43.70728,4.971893
+AM_Osmiini_RL_3211,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,6,8,08/06/1997,,France,"5,003951","43,69645",,provided,3917592.02450041|2300924.99143266,43.69645,5.003951
+AM_Osmiini_RL_3212,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,6,8,08/06/1997,,France,"5,003951","43,69645",,provided,3917592.02450041|2300924.99143266,43.69645,5.003951
+AM_Osmiini_RL_3208,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1998,5,21,21/05/1998,,France,"5,033889","44,11861",,provided,3922931.22815578|2347483.94226863,44.11861,5.033889
+ADD_MA_770,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Ononis repens,1998,7,19,,,France,"2,915869951","42,83721445",,provided,3741049.36305338|2219616.87132826,42.83721445,2.915869951
+ADD_MA_771,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Centaurea paniculata,1998,7,25,,,France,"3,025947838","42,89957782",,provided,3750630.58427336|2225659.77092778,42.89957782,3.025947838
+ADD_MA_759,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Centaurea solsticialis,1999,7,19,,,France,"4,952184965","43,7621016",,provided,3913880.79018463|2308469.02340628,43.7621016,4.952184965
+ADD_MA_760,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Verbana officinalis,1999,7,22,,,France,"5,681884937","44,08124592",,provided,3974576.55026847|2340126.92861915,44.08124592,5.681884937
+ADD_MA_761,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Senecio congestus,1999,7,29,,,France,"5,234739322","44,13735099",,provided,3939130.52618805|2348512.55916417,44.13735099,5.234739322
+ADD_MA_762,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Senecio congestus,1999,7,29,,,France,"5,234739322","44,13735099",,provided,3939130.52618805|2348512.55916417,44.13735099,5.234739322
+ADD_MA_763,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Senecio congestus,1999,7,29,,,France,"5,234739322","44,13735099",,provided,3939130.52618805|2348512.55916417,44.13735099,5.234739322
+ADD_MA_756,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Centaurea paniculata,2000,7,11,,,France,"4,166392411","43,50728821",,provided,3848572.79667538|2284890.82611367,43.50728821,4.166392411
+ADD_MA_757,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Centaurea paniculata,2000,7,11,,,France,"4,166392411","43,50728821",,provided,3848572.79667538|2284890.82611367,43.50728821,4.166392411
+ADD_MA_764,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Arctium minus,2000,7,27,,,France,"2,707112915","42,76794295",,provided,3723323.8656408|2213605.24240538,42.76794295,2.707112915
+ADD_MA_772,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Arctium minus,2000,7,27,,,France,"2,707112915","42,76794295",,provided,3723323.8656408|2213605.24240538,42.76794295,2.707112915
+ADD_MA_753,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2008,9,28,,,France,"2,914836184","42,74912677",,provided,3740106.09899655|2209901.04520911,42.74912677,2.914836184
+ADD_MA_747,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2010,7,28,,,France,"5,3975","43,26833",,provided,3946586.07268483|2251516.67126734,43.26833,5.3975
+ADD_MA_752,ADD_PULSE_2024,John Macaroni,Heriades rubicola,,2,,2012,7,30,,,France,"2,909","42,651",,provided,3738672.71899128|2199114.98901004,42.651,2.909
+ADD_MA_754,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2013,5,6,,,France,"3,2732","43,266",,provided,3774194.1205892|2264287.93015658,43.266,3.2732
+ADD_MA_750,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2016,5,26,,,France,"2,653","42,695",,provided,3718168.15449815|2205987.20375516,42.695,2.653
+ADD_MA_749,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2016,5,27,,,France,"2,806","42,99",,provided,3733600.49492946|2237336.27475112,42.99,2.806
+ADD_MA_748,ADD_PULSE_2024,John Macaroni,Heriades rubicola,,2,,2016,6,5,,,France,"6,158","43,941",,provided,4011979.66520178|2322514.18377199,43.941,6.158
+ADD_MA_755,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2016,7,29,,,France,"2,350268551","43,20506396",,provided,3698803.28475611|2264743.70008269,43.20506396,2.350268551
+ADD_MA_779,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2020,6,19,,,France,"2,766666667","43,13861111",,provided,3731884.35956319|2254050.50336585,43.13861111,2.766666667
+ADD_MA_777,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2020,6,20,,,France,"2,735","43,1325",,provided,3729253.03960159|2253624.74533951,43.1325,2.735
+PR_Megachilidae_RL_37833,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,,,,,,France,"5,384558","43,30365",,provided,3945760.5506529|2255489.0780969,43.30365,5.384558
+AM_Osmiini_RL_3240,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1973,10,19,19/10/1973,,Greece,"26,4385","39,11128",,not_provided,5738976.15899804|1934190.21660975,39.11128,26.4385
+AM_Osmiini_RL_3241,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1973,10,19,19/10/1973,,Greece,"26,4385","39,11128",,not_provided,5738976.15899804|1934190.21660975,39.11128,26.4385
+AM_Osmiini_RL_3242,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1973,10,19,19/10/1973,,Greece,"26,4385","39,11128",,not_provided,5738976.15899804|1934190.21660975,39.11128,26.4385
+AM_Osmiini_RL_3243,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1973,10,19,19/10/1973,,Greece,"26,4385","39,11128",,not_provided,5738976.15899804|1934190.21660975,39.11128,26.4385
+AM_Osmiini_RL_3270,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1989,5,17,4.-17.5.1989,1989,Greece,"27,18281","36,88927",,not_provided,5851214.39446052|1707726.86999601,36.88927,27.18281
+AM_Osmiini_RL_3264,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2004,10,6,06/10/2004,,Greece,"26,44833","39,11361",,provided,5739758.95090748|1934626.84378861,39.11361,26.44833
+TP_bees_GR_RL_15083,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2004,,,2004,,Greece,"26,4007337974617","39,2133750421694",,provided,5733581.84112685|1944571.07695263,39.2133750421694,26.4007337974617
+TP_bees_GR_RL_15084,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2004,,,2004,,Greece,"26,4129742057528","39,0189557422651",,provided,5738795.87527835|1923690.14870002,39.0189557422651,26.4129742057528
+TP_bees_GR_RL_15085,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2004,,,2004,,Greece,"26,3737436993979","39,1662199099548",,provided,5732309.91892401|1938948.60240138,39.1662199099548,26.3737436993979
+TP_bees_GR_RL_15086,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2004,,,2004,,Greece,"26,4194182627834","39,0991657673847",,provided,5737619.55479742|1932518.73268684,39.0991657673847,26.4194182627834
+TP_bees_GR_RL_15087,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2004,,,2004,,Greece,"26,4066477652639","39,011351416097",,provided,5738422.11737097|1922746.47350375,39.011351416097,26.4066477652639
+TP_bees_GR_RL_15088,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2004,,,2004,,Greece,"26,414154809108","39,1107088044751",,provided,5736925.36471713|1933673.79149907,39.1107088044751,26.414154809108
+TP_bees_GR_RL_15093,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2004,,,2004,,Greece,"26,3269040412037","39,1561426762026",,provided,5728558.54630965|1936984.55079951,39.1561426762026,26.3269040412037
+AM_Osmiini_RL_3263,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,,1,,2007,,,2004-2007,2004,Greece,"26,2777","39,2645",,not_provided,5722077.5436055|1947842.22845111,39.2645,26.2777
+TP_bees_GR_RL_15073,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2013,,,2013,,Greece,"26,4363727079704","39,1227453947067",,provided,5738549.13653294|1935395.26877731,39.1227453947067,26.4363727079704
+TP_bees_GR_RL_15074,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2013,,,2013,,Greece,"26,3281065849587","39,2540014167549",,provided,5726565.6754218|1947634.22113873,39.2540014167549,26.3281065849587
+TP_bees_GR_RL_15075,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2013,,,2013,,Greece,"26,4131214728113","39,1935860238038",,provided,5735055.80390303|1942653.04796279,39.1935860238038,26.4131214728113
+TP_bees_GR_RL_15068,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2015,,,2015,,Greece,"26,5408063928829","39,0201569419121",,provided,5749616.23657292|1926216.38990905,39.0201569419121,26.5408063928829
+TP_bees_GR_RL_15069,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2015,,,2015,,Greece,"26,326640168624","39,041023649415",,provided,5730996.75390992|1924478.74716043,39.041023649415,26.326640168624
+TP_bees_GR_RL_15081,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2016,,,2016,,Greece,"26,3307130590081","39,008405105467",,provided,5732039.07127532|1921012.51217777,39.008405105467,26.3307130590081
+TP_bees_GR_RL_15082,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2016,,,2016,,Greece,"26,436311379401","39,1307208794402",,provided,5738372.27163448|1936260.01913038,39.1307208794402,26.436311379401
+TP_bees_GR_RL_15078,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,F,1,,2017,,,2017,,Greece,"26,4156952139223","38,9715526923304",,provided,5740044.10110641|1918594.69298428,38.9715526923304,26.4156952139223
+AM_Osmiini_RL_3261,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1962,9,30,30/09/1962,,Greece,"22,60704","36,8098",,not_provided,5449885.74833962|1619629.90262052,36.8098,22.60704
+AM_Osmiini_RL_3262,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1965,8,11,7-11.8.1965,1965,Greece,"23,05413","39,32653",,not_provided,5447017.56558584|1900952.04719635,39.32653,23.05413
+AM_Osmiini_RL_3244,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1965,8,23,23/08/1965,,Greece,"22,04394","40,80166",,not_provided,5337147.9044601|2048060.06975068,40.80166,22.04394
+AM_Osmiini_RL_3265,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1977,5,10,10/05/1977,,Greece,"22,44329","38,78952",,not_provided,5403627.8742703|1833403.85834798,38.78952,22.44329
+AM_Osmiini_RL_3109,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1987,4,23,23/04/1987,,Greece,"22,93117","37,93608",,not_provided,5459950.62484549|1747302.62870666,37.93608,22.93117
+AM_Osmiini_RL_14035,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,4,,1993,9,8,08/09/1993,,Greece,"23,4129","40,04733",,not_provided,5464837.78462844|1985063.3307241,40.04733,23.4129
+AM_Osmiini_RL_3237,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,1993,9,8,08/09/1993,,Greece,"23,4129","40,04733",,not_provided,5464837.78462844|1985063.3307241,40.04733,23.4129
+AM_Osmiini_RL_3111,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1996,7,3,03/07/1996,,Greece,"22,43667","37,78815",,not_provided,5419210.07249589|1723914.55352513,37.78815,22.43667
+AM_Osmiini_RL_14041,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,1996,7,4,4.7.1996.,,Greece,"22,72342","37,40274",,not_provided,5450571.72679991|1686023.73762344,37.40274,22.72342
+AM_Osmiini_RL_3267,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1996,7,4,4.7.1996.,,Greece,"22,72342","37,40274",,not_provided,5450571.72679991|1686023.73762344,37.40274,22.72342
+AM_Osmiini_RL_14040,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,12,,1996,7,5,5.7.1996,,Greece,"22,62257","37,02622",,not_provided,5447784.74070554|1643462.75190602,37.02622,22.62257
+AM_Osmiini_RL_3266,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1996,7,5,5.7.1996,,Greece,"22,62257","37,02622",,not_provided,5447784.74070554|1643462.75190602,37.02622,22.62257
+AM_Osmiini_RL_14038,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1996,7,8,08/07/1996,,Greece,"21,36791","38,1749",,not_provided,5319972.5040171|1751516.25393809,38.1749,21.36791
+AM_Osmiini_RL_3255,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1996,7,8,08/07/1996,,Greece,"21,36791","38,1749",,not_provided,5319972.5040171|1751516.25393809,38.1749,21.36791
+AM_Osmiini_RL_3256,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,6,16,16/06/1997,,Greece,"21,37249","38,15962",,not_provided,5320596.71522536|1749904.62244579,38.15962,21.37249
+AM_Osmiini_RL_3257,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,6,16,16/06/1997,,Greece,"21,37249","38,15962",,not_provided,5320596.71522536|1749904.62244579,38.15962,21.37249
+AM_Osmiini_RL_3249,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,6,25,25/06/1997,,Greece,"20,75179","38,95926",,not_provided,5255260.05109748|1829582.41467511,38.95926,20.75179
+AM_Osmiini_RL_3250,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,6,,1997,6,25,25/06/1997,,Greece,"20,75179","38,95926",,not_provided,5255260.05109748|1829582.41467511,38.95926,20.75179
+AM_Osmiini_RL_14042,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1997,7,1,01/07/1997,,Greece,"22,52762","36,69595",,not_provided,5444656.88917679|1606047.91661025,36.69595,22.52762
+AM_Osmiini_RL_3269,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,7,1,01/07/1997,,Greece,"22,52762","36,69595",,not_provided,5444656.88917679|1606047.91661025,36.69595,22.52762
+AM_Osmiini_RL_14036,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,8,29,29.8.1997,,Greece,"20,75583","39,13244",,not_provided,5253166.9180755|1848608.74530225,39.13244,20.75583
+AM_Osmiini_RL_14037,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1997,8,29,29.8.1997,,Greece,"20,75583","39,13244",,not_provided,5253166.9180755|1848608.74530225,39.13244,20.75583
+AM_Osmiini_RL_3245,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1997,8,29,29/08/1997,,Greece,"20,75583","39,13244",,not_provided,5253166.9180755|1848608.74530225,39.13244,20.75583
+AM_Osmiini_RL_3246,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1997,8,29,29.8.1997,,Greece,"20,75583","39,13244",,not_provided,5253166.9180755|1848608.74530225,39.13244,20.75583
+AM_Osmiini_RL_3247,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,1997,8,29,29.8.1997,,Greece,"20,75583","39,13244",,not_provided,5253166.9180755|1848608.74530225,39.13244,20.75583
+AM_Osmiini_RL_3248,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1997,8,30,30/08/1997,,Greece,"21,32081","39,65677",,not_provided,5293919.79027025|1913139.86687024,39.65677,21.32081
+AM_Osmiini_RL_3238,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1997,9,9,5.-9.9.1997,1997,Greece,"23,4129","40,04733",,not_provided,5464837.78462844|1985063.3307241,40.04733,23.4129
+AM_Osmiini_RL_3239,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,1997,9,9,5.-9.9.1997,1997,Greece,"23,4129","40,04733",,not_provided,5464837.78462844|1985063.3307241,40.04733,23.4129
+AM_Osmiini_RL_3254,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1998,5,22,22/05/1998,,Greece,"21,36791","38,1749",,not_provided,5319972.5040171|1751516.25393809,38.1749,21.36791
+AM_Osmiini_RL_3253,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1998,6,22,22/06/1998,,Greece,"21,36791","38,1749",,not_provided,5319972.5040171|1751516.25393809,38.1749,21.36791
+AM_Osmiini_RL_3252,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2001,7,12,12/07/2001,,Greece,"21,36791","38,1749",,not_provided,5319972.5040171|1751516.25393809,38.1749,21.36791
+AM_Osmiini_RL_3251,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2001,7,7,07/07/2001,,Greece,"22,31632","37,71794",,not_provided,5409800.09342389|1714526.17195817,37.71794,22.31632
+AM_Osmiini_RL_14039,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,2006,7,5,05/07/2006,,Greece,"21,36732","38,16235",,not_provided,5320105.87604745|1750135.61247222,38.16235,21.36732
+AM_Osmiini_RL_3258,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,3,,2006,7,5,05/07/2006,,Greece,"21,36732","38,16235",,not_provided,5320105.87604745|1750135.61247222,38.16235,21.36732
+AM_Osmiini_RL_3268,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2008,7,6,06/07/2008,,Greece,"22,89236","37,54018",,not_provided,5463139.06134993|1703526.47072137,37.54018,22.89236
+AM_Osmiini_RL_14025,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,11,,2009,,,`07.09,,Greece,"20,41666","38,25",,provided,5235975.63362826|1747816.48960533,38.25,20.41666
+AM_Osmiini_RL_3110,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,8,,2009,,,`07.09,,Greece,"20,41666","38,25",,provided,5235975.63362826|1747816.48960533,38.25,20.41666
+AM_Osmiini_RL_3259,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2009,,,`07.09,,Greece,"20,41666","38,25",,provided,5235975.63362826|1747816.48960533,38.25,20.41666
+AM_Osmiini_RL_3260,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,2009,,,`07.09,,Greece,"20,43333","38,18333",,provided,5238331.45433736|1740713.87931696,38.18333,20.43333
+AM_Osmiini_RL_3271,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1999,7,16,16.07.1999,,Greece,"24,85","35,03333",,provided,5681224.1145445|1462676.90155555,35.03333,24.85
+TP_bees_GR_RL_15072,PetanidouT_Greece_2023,John Macaroni,Heriades rubicola,M,1,,2015,,,2015,,Greece,"25,1828183156205","35,3372199130245",,provided,5705545.37190993|1501566.11903643,35.3372199130245,25.1828183156205
+PR_Megachilidae_RL_37617,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,4,,2000,8,16,20000816,2000,Hungary,"17,8","47,65",,provided,4906133.75973007|2757150.93497473,47.65,17.8
+ADD_BDT_1247,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F&M,3,,2011,8,13,,,Hungary,"19,464484","46,752559",,provided,5042590.70324829|2672676.57112743,46.752559,19.464484
+AM_Osmiini_RL_3116,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1960,6,6,06/06/1960,,Italy,"12,73841","43,96341",,not_provided,4541224.46800525|2321100.32190564,43.96341,12.73841
+AM_Osmiini_RL_3117,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1962,7,7,07/07/1962,,Italy,"9,372862","44,30153",,not_provided,4270849.97475437|2354774.39529718,44.30153,9.372862
+AM_Osmiini_RL_3302,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1965,7,25,22-25.7.1965,1965,Italy,"13,60632","42,85008",,not_provided,4616538.83672743|2200796.51007985,42.85008,13.60632
+AM_Osmiini_RL_3303,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1965,7,25,22-25.7.1965,1965,Italy,"13,60632","42,85008",,not_provided,4616538.83672743|2200796.51007985,42.85008,13.60632
+AM_Osmiini_RL_3304,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1965,7,25,22-25.7.1965,1965,Italy,"13,60632","42,85008",,not_provided,4616538.83672743|2200796.51007985,42.85008,13.60632
+AM_Osmiini_RL_14028,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,5,,1987,8,25,25/08/1987,,Italy,"16,45321","39,74785",,not_provided,4876379.71679497|1874193.81857891,39.74785,16.45321
+AM_Osmiini_RL_3118,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1987,8,25,25/08/1987,,Italy,"16,45321","39,74785",,not_provided,4876379.71679497|1874193.81857891,39.74785,16.45321
+AM_Osmiini_RL_3348,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1991,7,28,28/07/1991,,Italy,"12,58219","41,77041",,not_provided,4536472.29761669|2077873.96528987,41.77041,12.58219
+AM_Osmiini_RL_3315,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1993,7,1,01/07/1993,,Italy,"10,61585","43,29617",,not_provided,4371110.67491765|2243334.73100062,43.29617,10.61585
+AM_Osmiini_RL_3316,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1993,7,1,01/07/1993,,Italy,"10,61585","43,29617",,not_provided,4371110.67491765|2243334.73100062,43.29617,10.61585
+AM_Osmiini_RL_3322,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1993,7,20,20.7.1993,,Italy,"12,65199","41,60133",,not_provided,4542903.14809684|2059377.17053152,41.60133,12.65199
+AM_Osmiini_RL_3323,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1993,7,31,25.-31.7.1993,1993,Italy,"12,65603","41,59439",,not_provided,4543266.04256313|2058621.60855816,41.59439,12.65603
+AM_Osmiini_RL_3349,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1993,8,10,10/08/1993,,Italy,"12,58219","41,77041",,not_provided,4536472.29761669|2077873.96528987,41.77041,12.58219
+AM_Osmiini_RL_3207,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1994,7,1,1.7.1994,,Italy,"10,84306","45,88919",,not_provided,4386520.38588527|2531079.31672067,45.88919,10.84306
+PR_Megachilidae_RL_37804,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1995,9,28,19950928,1995,Italy,"12,68943","41,71653",,provided,4545613.76150476|2072227.36547028,41.71653,12.68943
+SURMZ_bees_RL_4132,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,1,,1995,9,28,19950928,,Italy,"12,6894283","41,7165327",100,provided,4545613.6097269|2072227.65901457,41.7165327,12.6894283
+AM_Osmiini_RL_3347,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1996,6,3,03/06/1996,,Italy,"12,54849","45,47466",,not_provided,4520528.77779196|2488110.24694954,45.47466,12.54849
+PR_Megachilidae_RL_37815,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1997,6,8,19970608,1997,Italy,"12,43524","41,95929",,provided,4523588.76892269|2098359.92165219,41.95929,12.43524
+SURMZ_bees_RL_4136,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,1,,1997,6,8,19970608,,Italy,"12,435236","41,959287",100,provided,4523588.44624866|2098359.57904032,41.959287,12.435236
+AM_Osmiini_RL_3119,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1998,5,26,26.05.1998,,Italy,"10,6031","43,02752",,not_provided,4370297.41763501|2213564.82422927,43.02752,10.6031
+PR_Megachilidae_RL_37812,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1998,6,22,19980622,1998,Italy,"12,58267","41,9022",,provided,4536049.15674535|2092452.37727246,41.9022,12.58267
+SURMZ_bees_RL_4135,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,1,,1998,6,22,19980622,,Italy,"12,582673","41,902198",100,provided,4536049.41346851|2092452.16458725,41.902198,12.582673
+PR_Megachilidae_RL_37816,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1998,8,10,19980810,1998,Italy,"12,43524","41,95929",,provided,4523588.76892269|2098359.92165219,41.95929,12.43524
+PR_Megachilidae_RL_37817,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1998,8,10,19980810,1998,Italy,"12,43524","41,95929",,provided,4523588.76892269|2098359.92165219,41.95929,12.43524
+SURMZ_bees_RL_4137,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,1,,1998,8,10,19980810,,Italy,"12,435236","41,959287",100,provided,4523588.44624866|2098359.57904032,41.959287,12.435236
+SURMZ_bees_RL_4138,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,1,,1998,8,10,19980810,,Italy,"12,435236","41,959287",100,provided,4523588.44624866|2098359.57904032,41.959287,12.435236
+AM_Osmiini_RL_3311,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1999,7,29,29/07/1999,,Italy,"16,28326","38,77238",,not_provided,4869855.82778091|1765567.5259399,38.77238,16.28326
+AM_Osmiini_RL_3312,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1999,7,29,29/07/1999,,Italy,"16,28326","38,77238",,not_provided,4869855.82778091|1765567.5259399,38.77238,16.28326
+AM_Osmiini_RL_3313,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,6,,1999,7,3,03/07/1999,,Italy,"15,84648","38,35759",,not_provided,4834950.93957811|1716886.36610304,38.35759,15.84648
+AM_Osmiini_RL_3314,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,1999,7,3,03/07/1999,,Italy,"15,84648","38,35759",,not_provided,4834950.93957811|1716886.36610304,38.35759,15.84648
+AM_Osmiini_RL_3309,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,38,,1999,8,2,1.-2.8.1999,1999,Italy,"16,15156","38,12934",,not_provided,4863528.89032862|1693885.96298938,38.12934,16.15156
+AM_Osmiini_RL_3310,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1999,8,2,1.-2.8.1999,1999,Italy,"16,15156","38,12934",,not_provided,4863528.89032862|1693885.96298938,38.12934,16.15156
+AM_Osmiini_RL_3305,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1999,8,5,4.-5.8.1999,1999,Italy,"15,5473","40,08132",,not_provided,4796128.25831423|1904801.9076339,40.08132,15.5473
+AM_Osmiini_RL_3306,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,4,,1999,8,5,4.-5.8.1999,1999,Italy,"15,5473","40,08132",,not_provided,4796128.25831423|1904801.9076339,40.08132,15.5473
+AM_Osmiini_RL_3307,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1999,8,5,4.-5.8.1999,1999,Italy,"15,5473","40,08132",,not_provided,4796128.25831423|1904801.9076339,40.08132,15.5473
+AM_Osmiini_RL_3308,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,4,,1999,8,5,4.-5.8.1999,1999,Italy,"15,5473","40,08132",,not_provided,4796128.25831423|1904801.9076339,40.08132,15.5473
+AM_Osmiini_RL_3342,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1999,8,6,06/08/1999,,Italy,"11,21241","42,43964",,not_provided,4421079.68111142|2149067.94936126,42.43964,11.21241
+AM_Osmiini_RL_3343,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,2000,7,6,5.-6.7.2000,2000,Italy,"11,43965","43,88701",,not_provided,4436952.24633379|2309721.20279557,43.88701,11.43965
+AM_Osmiini_RL_3344,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,2000,7,6,5.-6.7.2000,2000,Italy,"11,43965","43,88701",,not_provided,4436952.24633379|2309721.20279557,43.88701,11.43965
+AM_Osmiini_RL_3345,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,2000,7,6,5.-6.7.2000,2000,Italy,"11,44675","43,88544",,not_provided,4437527.1841299|2309558.20133929,43.88544,11.44675
+AM_Osmiini_RL_3346,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,2000,7,6,5.-6.7.2000,2000,Italy,"11,44675","43,88544",,not_provided,4437527.1841299|2309558.20133929,43.88544,11.44675
+AM_Osmiini_RL_3318,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,7,,2000,7,8,08/07/2000,,Italy,"12,1591","44,95865",,not_provided,4491632.75733503|2429911.9504912,44.95865,12.1591
+AM_Osmiini_RL_3319,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,4,,2000,7,8,08/07/2000,,Italy,"12,1591","44,95865",,not_provided,4491632.75733503|2429911.9504912,44.95865,12.1591
+AM_Osmiini_RL_3332,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2000,9,12,12.9.2000,,Italy,"16,75723","41,15613",,not_provided,4889752.46296984|2031650.0132482,41.15613,16.75723
+AM_Osmiini_RL_3320,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2001,7,1,01/07/2001,,Italy,"10,47184","44,72464",,not_provided,4358450.84209594|2401605.8424553,44.72464,10.47184
+AM_Osmiini_RL_3341,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,2002,6,23,23.6.2002,,Italy,"15,80312","39,78385",,not_provided,4820283.93413679|1873652.08201971,39.78385,15.80312
+AM_Osmiini_RL_3301,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,6,26,26.6.2002,,Italy,"13,23557","46,06497",,not_provided,4571562.04666858|2555670.76978009,46.06497,13.23557
+AM_Osmiini_RL_3321,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,2008,7,2,21.06.-02.07.2008,2008,Italy,"11,55122","43,38112",,not_provided,4447028.87005067|2253843.24006432,43.38112,11.55122
+AM_Osmiini_RL_3324,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2012,6,23,23.06.2012,,Italy,"15,31667","40,54995",,not_provided,4773087.56884971|1955078.15112971,40.54995,15.31667
+PR_Megachilidae_RL_37819,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,2012,8,21,20120821,2012,Italy,"12,99307","42,02003",,provided,4569722.07252694|2106746.63783887,42.02003,12.99307
+SURMZ_bees_RL_4130,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,2,,2012,8,21,20120821,,Italy,"12,9930666666667","42,0200333333333",100,provided,4569721.78208623|2106746.99555519,42.0200333333333,12.9930666666667
+PR_Megachilidae_RL_37818,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2013,5,18,20130518,2013,Italy,"12,89016","41,96377",,provided,4561396.83669326|2100190.28565389,41.96377,12.89016
+SURMZ_bees_RL_4131,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,1,,2013,5,18,20130518,,Italy,"12,890161","41,9637727",100,provided,4561396.90918921|2100190.58748322,41.9637727,12.890161
+PR_Megachilidae_RL_37807,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,17,20160717,2016,Italy,"12,56888","41,83125",,provided,4535149.53689927|2084565.3056866,41.83125,12.56888
+PR_Megachilidae_RL_37811,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,17,20160717,2016,Italy,"12,54309","41,87573",,provided,4532846.56664076|2089412.53550934,41.87573,12.54309
+SURMZ_bees_RL_4141,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,17,20160717;20160715,2016,Italy,"12,56887814","41,83125396",100,provided,4535149.36806954|2084565.73842066,41.83125396,12.56887814
+SURMZ_bees_RL_4143,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,17,20160717;20160715,2016,Italy,"12,54309213","41,87573451",100,provided,4532846.72838447|2089413.04035206,41.87573451,12.54309213
+PR_Megachilidae_RL_37809,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,30,20160730,2016,Italy,"12,49564","41,8567",,provided,4528960.14527317|2087175.66935479,41.8567,12.49564
+SURMZ_bees_RL_4144,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,30,20160730;20160728,2016,Italy,"12,49563581","41,8566971",100,provided,4528959.80611819|2087175.3370379,41.8566971,12.49563581
+PR_Megachilidae_RL_37813,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,8,13,20160813,2016,Italy,"12,52897","41,92947",,provided,4531485.73266696|2095317.57849542,41.92947,12.52897
+SURMZ_bees_RL_4142,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,1,,2016,8,13,20160813;20160811,2016,Italy,"12,52897001","41,92946635",100,provided,4531485.74607491|2095317.17476212,41.92946635,12.52897001
+PR_Megachilidae_RL_37814,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,9,18,20160918,2016,Italy,"12,44354","41,95461",,provided,4524294.562785|2097864.50734437,41.95461,12.44354
+SURMZ_bees_RL_4140,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,1,,2016,9,18,20160918;20160916,2016,Italy,"12,44354464","41,95461216",100,provided,4524294.94147201|2097864.75878965,41.95461216,12.44354464
+PR_Megachilidae_RL_37808,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,9,3,20160903,2016,Italy,"12,47192","41,84717",,provided,4527016.43911388|2086056.51207428,41.84717,12.47192
+SURMZ_bees_RL_4139,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,1,,2016,9,3,20160903;20160901,2016,Italy,"12,47191848","41,8471713",100,provided,4527016.30811067|2086056.65172492,41.8471713,12.47191848
+UNIPD_bee_RL_11501,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2017,7,15,2017/07/15;2017/07/17,2017,Italy,"12,54309213","41,87573451",50,provided,4532846.72838447|2089413.04035206,41.87573451,12.54309213
+UNIPD_bee_RL_11502,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2017,7,15,2017/07/15;2017/07/17,2017,Italy,"12,56887814","41,83125396",50,provided,4535149.36806954|2084565.73842066,41.83125396,12.56887814
+UNIPD_bee_RL_11499,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2017,7,28,2017/07/28;2017/07/30,2017,Italy,"12,49563581","41,8566971",50,provided,4528959.80611819|2087175.3370379,41.8566971,12.49563581
+UNIPD_bee_RL_11500,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2017,8,11,2017/08/11;2017/08/13,2017,Italy,"12,52897001","41,92946635",50,provided,4531485.74607491|2095317.17476212,41.92946635,12.52897001
+UNIPD_bee_RL_11498,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2017,9,1,2017/09/01;2017/09/03,2017,Italy,"12,47191848","41,8471713",50,provided,4527016.30811067|2086056.65172492,41.8471713,12.47191848
+UNIPD_bee_RL_11497,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2017,9,16,2017/09/16;2017/09/18,2017,Italy,"12,44354464","41,95461216",50,provided,4524294.94147201|2097864.75878965,41.95461216,12.44354464
+UNIPD_bee_RL_11473,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,Medicago lupulina,2019,6,13,13/06/2019,,Italy,"11,68899","45,711296",50,provided,4452683.1783002|2512455.271367,45.711296,11.68899
+UNIPD_bee_RL_11504,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,Senecio inaequidens,2019,6,13,13/06/2019,,Italy,"11,68899","45,711296",50,provided,4452683.1783002|2512455.271367,45.711296,11.68899
+UNIPD_bee_RL_11503,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,Picris hieracioides,2019,8,19,19/08/2019,,Italy,"10,926014","45,694425",50,provided,4393224.48852774|2509538.81744029,45.694425,10.926014
+UNIPD_bee_RL_11472,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,3,Erigeron annuus,2019,8,20,20/08/2019,,Italy,"12,009987","45,868023",50,provided,4477253.80669139|2530467.91285664,45.868023,12.009987
+UNIPD_bee_RL_11505,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,Senecio inaequidens,2019,8,20,20/08/2019,,Italy,"12,009987","45,868023",50,provided,4477253.80669139|2530467.91285664,45.868023,12.009987
+MS_bees_IT_RL_1727,SelisM_Italy_2023,John Macaroni,Heriades rubicola,F,1,,2020,6,18,18.VI.2020,,Italy,"12,114253","42,123561",500,provided,4496420.3611787|2115730.93963804,42.123561,12.114253
+PR_Megachilidae_RL_37820,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2020,6,18,20200618,2020,Italy,"12,11425","42,12356",,provided,4496420.11522896|2115730.82201032,42.12356,12.11425
+GBIF_bees_SZ_RL_229239,GBIF_Switzerlands_2023,John Macaroni,Heriades rubicola,F,1,,2020,9,1,20200901,,Italy,"8,88658","45,8398",3535,provided,4234390.94329198|2525873.45081119,45.8398,8.88658
+MS_bees_IT_RL_1726,SelisM_Italy_2023,John Macaroni,Heriades rubicola,M,1,,2021,5,30,30.V.2021,,Italy,"11,1797","44,4747",500,provided,4415046.41539816|2374508.70926806,44.4747,11.1797
+PR_Megachilidae_RL_37825,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2021,5,30,20210530,2021,Italy,"11,1797","44,4747",,provided,4415046.41539816|2374508.70926806,44.4747,11.1797
+UNIPD_bee_RL_11474,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2021,7,26,2021/07/26;2021/07/27,2021,Italy,"10,51254192","45,44118275",50,provided,4361161.37042654|2481122.82006827,45.44118275,10.51254192
+UNIPD_bee_RL_11475,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,2,,2021,7,29,2021/07/29;2021/07/31,2021,Italy,"11,71555444","45,76531648",50,provided,4454621.64856013|2518497.28904172,45.76531648,11.71555444
+UNIPD_bee_RL_11480,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,2,,2022,5,31,31/05/2022,,Italy,"11,830003","45,400674",50,provided,4464484.23378839|2478249.95084359,45.400674,11.830003
+UNIPD_bee_RL_11484,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,5,31,31/05/2022,,Italy,"11,8325","45,365387",50,provided,4464771.84772562|2474339.93975346,45.365387,11.8325
+UNIPD_bee_RL_11491,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,3,,2022,6,1,01/06/2022,,Italy,"11,83820212","45,43246639",50,provided,4465043.88145473|2481792.95143013,45.43246639,11.83820212
+UNIPD_bee_RL_11477,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,6,6,06/06/2022,,Italy,"11,88274","45,43059",50,provided,4468538.11356079|2481671.84951716,45.43059,11.88274
+UNIPD_bee_RL_11489,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,6,6,06/06/2022,,Italy,"11,94745267","45,42505212",50,provided,4473623.26397829|2481187.69816886,45.42505212,11.94745267
+UNIPD_bee_RL_11495,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,6,6,06/06/2022,,Italy,"11,8932915","45,44919022",50,provided,4469314.69431283|2483756.3781062,45.44919022,11.8932915
+UNIPD_bee_RL_11481,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,2,,2022,7,11,11/07/2022,,Italy,"11,830211","45,399891",50,provided,4464502.57520246|2478163.48224333,45.399891,11.830211
+UNIPD_bee_RL_11488,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,11,11/07/2022,,Italy,"11,854971","45,387714",50,provided,4466475.59387913|2476860.50116973,45.387714,11.854971
+UNIPD_bee_RL_11476,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,13,13/07/2022,,Italy,"11,877001","45,42808",50,provided,4468095.19155891|2481382.04207224,45.42808,11.877001
+UNIPD_bee_RL_11478,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,3,,2022,7,13,13/07/2022,,Italy,"11,88274","45,43059",50,provided,4468538.11356079|2481671.84951716,45.43059,11.88274
+UNIPD_bee_RL_11479,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,13,13/07/2022,,Italy,"11,879179","45,42368",50,provided,4468277.58809897|2480898.18709595,45.42368,11.879179
+UNIPD_bee_RL_11485,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,13,13/07/2022,,Italy,"11,84073","45,430278",50,provided,4465247.65033139|2481555.04569255,45.430278,11.84073
+UNIPD_bee_RL_11492,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,13,13/07/2022,,Italy,"11,83820212","45,43246639",50,provided,4465043.88145473|2481792.95143013,45.43246639,11.83820212
+PR_Megachilidae_RL_37810,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,2022,7,23,20220723,2022,Italy,"12,52483","41,8623",,provided,4531372.26341298|2087875.95240268,41.8623,12.52483
+SURMZ_bees_RL_4134,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,M,2,,2022,7,23,20220723,,Italy,"12,524831","41,862302",100,provided,4531372.3398253|2087876.17641414,41.862302,12.524831
+UNIPD_bee_RL_11486,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,2,,2022,7,5,05/07/2022,,Italy,"11,92346","45,42888",50,provided,4471732.95296493|2481563.57189334,45.42888,11.92346
+UNIPD_bee_RL_11487,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,5,05/07/2022,,Italy,"11,91758","45,4349",50,provided,4471255.86819969|2482219.58349745,45.4349,11.91758
+UNIPD_bee_RL_11494,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,5,05/07/2022,,Italy,"11,899523","45,450966",50,provided,4469797.93430207|2483965.80732628,45.450966,11.899523
+UNIPD_bee_RL_11496,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,7,5,05/07/2022,,Italy,"11,8932915","45,44919022",50,provided,4469314.69431283|2483756.3781062,45.44919022,11.8932915
+UNIPD_bee_RL_11482,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,8,11,11/08/2022,,Italy,"11,89907344","45,39173196",50,provided,4469922.63054383|2477393.30234807,45.39173196,11.89907344
+UNIPD_bee_RL_11483,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,8,11,11/08/2022,,Italy,"11,87415577","45,37220917",50,provided,4468021.08130978|2475177.99651463,45.37220917,11.87415577
+UNIPD_bee_RL_11493,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,8,11,11/08/2022,,Italy,"11,88841429","45,35971313",50,provided,4469172.86385296|2473819.90596751,45.35971313,11.88841429
+UNIPD_bee_RL_11490,CappellariA_Italy_2023,John Macaroni,Heriades rubicola,,1,,2022,8,16,16/08/2022,,Italy,"11,841276","45,441305",50,provided,4465261.56070017|2482779.50141491,45.441305,11.841276
+ADD_BDT_204,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2023,8,12,,,Italy,"9,371768","46,116765",,provided,4272379.57478209|2556177.17554019,46.116765,9.371768
+AM_Osmiini_RL_3329,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1996,6,21,21/06/1996,,Italy,"8,555687","40,72592",,not_provided,4198422.45624141|1959845.52160699,40.72592,8.555687
+AM_Osmiini_RL_3326,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2000,6,29,29/06/2000,,Italy,"9,541245","39,87881",,not_provided,4281544.87124063|1865202.49874656,39.87881,9.541245
+AM_Osmiini_RL_3327,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2000,6,29,29.6.2000,,Italy,"9,541245","39,87881",,not_provided,4281544.87124063|1865202.49874656,39.87881,9.541245
+AM_Osmiini_RL_3325,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2000,7,1,01/07/2000,,Italy,"9,196629","39,95605",,not_provided,4251989.6154764|1873978.60491751,39.95605,9.196629
+AM_Osmiini_RL_3328,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2000,7,4,04/07/2000,,Italy,"9,496452","40,92357",,not_provided,4278395.48793068|1980669.23627194,40.92357,9.496452
+AM_Osmiini_RL_3330,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,2000,7,4,04/07/2000,,Italy,"9,496443","40,92357",,not_provided,4278394.72646558|1980669.24133199,40.92357,9.496443
+AM_Osmiini_RL_3331,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,2000,7,4,04/07/2000,,Italy,"9,496443","40,92357",,not_provided,4278394.72646558|1980669.24133199,40.92357,9.496443
+AM_Osmiini_RL_3123,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2013,5,29,29/05/2013,,Italy,"9,77603","40,56916",,not_provided,4301943.53648926|1941380.11661108,40.56916,9.77603
+AM_Osmiini_RL_3120,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,2017,7,3,03/07/2017,,Italy,"9,751278","40,6099",,provided,4299851.09624612|1945889.24985755,40.6099,9.751278
+AM_Osmiini_RL_3122,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,7,,2017,7,3,03/07/2017,,Italy,"9,619","40,395",,provided,4288493.99815644|1922187.4973897,40.395,9.619
+AM_Osmiini_RL_3333,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1971,9,25,20-25.9.1971,1971,Italy,"12,82522","37,58337",,not_provided,4572397.25071604|1616542.50101243,37.58337,12.82522
+AM_Osmiini_RL_3334,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,5,29,27.-29.5.2002,2002,Italy,"14,43205","37,35182",,not_provided,4716550.23318091|1597835.85257412,37.35182,14.43205
+AM_Osmiini_RL_14051,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,5,30,30.5.2002,,Italy,"13,57586","37,53366",,not_provided,4639371.64455139|1613858.93117859,37.53366,13.57586
+AM_Osmiini_RL_3340,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2002,5,30,30.5.2002,,Italy,"13,57586","37,53366",,not_provided,4639371.64455139|1613858.93117859,37.53366,13.57586
+AM_Osmiini_RL_14049,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,6,1,1.5.-1.6.2002,2002,Italy,"13,63863","37,6328",,not_provided,4644491.42263882|1625033.03492785,37.6328,13.63863
+AM_Osmiini_RL_3336,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,2002,6,1,1.5.-1.6.2002,2002,Italy,"13,63863","37,6328",,not_provided,4644491.42263882|1625033.03492785,37.6328,13.63863
+AM_Osmiini_RL_14048,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,6,,2002,6,12,9.-12.6.2002,2002,Italy,"13,16374","38,02767",,not_provided,4600687.33369176|1666640.26130988,38.02767,13.16374
+AM_Osmiini_RL_3335,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2002,6,12,9.-12.6.2002,2002,Italy,"13,16374","38,02767",,not_provided,4600687.33369176|1666640.26130988,38.02767,13.16374
+AM_Osmiini_RL_3337,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,6,15,15.6.2002,,Italy,"13,98449","37,92073",,not_provided,4673730.11756855|1658253.68818164,37.92073,13.98449
+AM_Osmiini_RL_3339,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,6,22,18.-22.6.2002,2002,Italy,"14,7254","36,92694",,not_provided,4745262.60750648|1552685.86529616,36.92694,14.7254
+AM_Osmiini_RL_14050,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,5,,2002,6,5,3.-5.6.2002,2002,Italy,"13,93902","37,92331",,not_provided,4669695.72389286|1658329.49387237,37.92331,13.93902
+AM_Osmiini_RL_3338,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,2002,6,5,3.-5.6.2002,2002,Italy,"13,93902","37,92331",,not_provided,4669695.72389286|1658329.49387237,37.92331,13.93902
+AM_Osmiini_RL_3351,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,6,5,3.-5.6.2002,2002,Italy,"13,93902","37,92331",,not_provided,4669695.72389286|1658329.49387237,37.92331,13.93902
+PR_Megachilidae_RL_37695,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2006,7,18,20060718,2006,Italy,"14,96898","38,39059",,provided,4757731.62865928|1715061.70953535,38.39059,14.96898
+SURMZ_bees_RL_4146,MeiM_Sapienza_2023,John Macaroni,Heriades rubicola,F,1,,2006,7,18,20060718;20060628,2006,Italy,"14,9689855","38,390589",100,provided,4757732.11776102|1715061.63086548,38.390589,14.9689855
+AM_Osmiini_RL_3350,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2012,6,21,21.06.2012,,Italy,"14,99341","37,75099",,not_provided,4764011.99091782|1644813.7887482,37.75099,14.99341
+AM_Osmiini_RL_3359,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1985,8,25,25/08/1985,,Montenegro,"18,99925","42,16282",,not_provided,5065293.26885515|2162100.0909508,42.16282,18.99925
+AM_Osmiini_RL_3130,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2008,6,19,19.6.2008,,Montenegro,"18,87446","42,28382",,not_provided,5053560.08629962|2174202.02719099,42.28382,18.87446
+AM_Osmiini_RL_14053,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,2008,6,22,22.6.2008,,Montenegro,"19,19738","41,94414",,not_provided,5084329.82811878|2140007.06099107,41.94414,19.19738
+AM_Osmiini_RL_3131,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,6,,2008,6,22,22.6.2008,,Montenegro,"19,19738","41,94414",,not_provided,5084329.82811878|2140007.06099107,41.94414,19.19738
+AM_Osmiini_RL_3360,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2008,6,22,22.6.2008,,Montenegro,"19,19738","41,94414",,not_provided,5084329.82811878|2140007.06099107,41.94414,19.19738
+IB_bees_ES_RL_62720,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,5,,1985,9,13,13-09-1985;13-06-1985,1985,Portugal,"-9,2","38,65",1000,provided,2658589.81139931|1940289.68500083,38.65,-9.2
+IB_bees_ES_RL_88472,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1985,9,13,13-09-1985;13-06-1985,1985,Portugal,"-9,2","38,65",1000,provided,2658589.81139931|1940289.68500083,38.65,-9.2
+PR_Megachilidae_RL_37707,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,5,,1985,9,13,19850913,1985,Portugal,"-9,2","38,65",,provided,2658589.81139931|1940289.68500083,38.65,-9.2
+PR_Megachilidae_RL_37708,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1985,9,13,19850913,1985,Portugal,"-9,2","38,65",,provided,2658589.81139931|1940289.68500083,38.65,-9.2
+PR_Megachilidae_RL_37709,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,5,,1985,9,13,19850913,1985,Portugal,"-9,2","38,65",,provided,2658589.81139931|1940289.68500083,38.65,-9.2
+PR_Megachilidae_RL_37710,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1985,9,13,19850913,1985,Portugal,"-9,2","38,65",,provided,2658589.81139931|1940289.68500083,38.65,-9.2
+ULB_RL_1214489,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,6,,1985,,,19850000,,Portugal,"-9,2","38,65",,provided,2658589.81139931|1940289.68500083,38.65,-9.2
+IB_bees_ES_RL_62735,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,31/12/1989,,Portugal,"-8,044","37,24",1000,provided,2723709.18558554|1763279.90614085,37.24,-8.044
+IB_bees_ES_RL_62736,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,31/12/1989,,Portugal,"-7,17","38,88",1000,provided,2835922.83659884|1923085.18873391,38.88,-7.17
+IB_bees_ES_RL_62737,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,31/12/1989,,Portugal,"-7,56","41,11",1000,provided,2854695.01446515|2172470.20675246,41.11,-7.56
+IB_bees_ES_RL_62738,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,31/12/1989,,Portugal,"-8,66","40,63",1000,provided,2752925.62132756|2142633.64409499,40.63,-8.66
+IB_bees_ES_RL_62739,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,31/12/1989,,Portugal,"-8,41","40,2",1000,provided,2762927.71743649|2090946.72157648,40.2,-8.41
+IB_bees_ES_RL_62740,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,31/12/1989,,Portugal,"-8,08","41,27",1000,provided,2816091.14316345|2200071.16138635,41.27,-8.08
+PR_Megachilidae_RL_37667,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,044","37,24",,provided,2723709.18558554|1763279.90614085,37.24,-8.044
+PR_Megachilidae_RL_37668,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,044","37,24",,provided,2723709.18558554|1763279.90614085,37.24,-8.044
+PR_Megachilidae_RL_37713,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-7,17","38,88",,provided,2835922.83659884|1923085.18873391,38.88,-7.17
+PR_Megachilidae_RL_37714,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-7,17","38,88",,provided,2835922.83659884|1923085.18873391,38.88,-7.17
+PR_Megachilidae_RL_37788,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,41","40,2",,provided,2762927.71743649|2090946.72157648,40.2,-8.41
+PR_Megachilidae_RL_37789,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,41","40,2",,provided,2762927.71743649|2090946.72157648,40.2,-8.41
+PR_Megachilidae_RL_37790,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,66","40,63",,provided,2752925.62132756|2142633.64409499,40.63,-8.66
+PR_Megachilidae_RL_37791,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,66","40,63",,provided,2752925.62132756|2142633.64409499,40.63,-8.66
+PR_Megachilidae_RL_37793,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-7,56","41,11",,provided,2854695.01446515|2172470.20675246,41.11,-7.56
+PR_Megachilidae_RL_37794,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-7,56","41,11",,provided,2854695.01446515|2172470.20675246,41.11,-7.56
+PR_Megachilidae_RL_37795,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,08","41,27",,provided,2816091.14316345|2200071.16138635,41.27,-8.08
+PR_Megachilidae_RL_37796,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1989,12,31,19891231,1989,Portugal,"-8,08","41,27",,provided,2816091.14316345|2200071.16138635,41.27,-8.08
+ULB_RL_1214477,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1989,,,19890000,,Portugal,"-8,044","37,24",,provided,2723709.18558554|1763279.90614085,37.24,-8.044
+ULB_RL_1214490,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1989,,,19890000,,Portugal,"-7,17","38,88",,provided,2835922.83659884|1923085.18873391,38.88,-7.17
+ULB_RL_1214491,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1989,,,19890000,,Portugal,"-8,41","40,2",,provided,2762927.71743649|2090946.72157648,40.2,-8.41
+ULB_RL_1214492,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1989,,,19890000,,Portugal,"-8,66","40,63",,provided,2752925.62132756|2142633.64409499,40.63,-8.66
+ULB_RL_1214493,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1989,,,19890000,,Portugal,"-7,56","41,11",,provided,2854695.01446515|2172470.20675246,41.11,-7.56
+ULB_RL_1214494,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1989,,,19890000,,Portugal,"-8,08","41,27",,provided,2816091.14316345|2200071.16138635,41.27,-8.08
+AM_Osmiini_RL_14052,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,15,,1995,5,15,15.5.1995,,Portugal,"-8,92738","37,0198",,not_provided,2641959.9002073|1758460.93311296,37.0198,-8.92738
+AM_Osmiini_RL_3354,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,17,,1995,5,15,15.5.1995,,Portugal,"-8,92738","37,0198",,not_provided,2641959.9002073|1758460.93311296,37.0198,-8.92738
+IB_bees_ES_RL_62754,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,17,,1995,5,15,15-05-1995;15-05-1995,1995,Portugal,"-8,92","37,02",1000,provided,2642604.33898563|1758320.26473613,37.02,-8.92
+IB_bees_ES_RL_88473,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,15,,1995,5,15,15-05-1995;15-05-1995,1995,Portugal,"-8,92","37,02",1000,provided,2642604.33898563|1758320.26473613,37.02,-8.92
+PR_Megachilidae_RL_37620,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,17,,1995,5,15,19950515,1995,Portugal,"-8,92","37,02",,provided,2642604.33898563|1758320.26473613,37.02,-8.92
+PR_Megachilidae_RL_37621,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,15,,1995,5,15,19950515,1995,Portugal,"-8,92","37,02",,provided,2642604.33898563|1758320.26473613,37.02,-8.92
+PR_Megachilidae_RL_37622,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,17,,1995,5,15,19950515,1995,Portugal,"-8,92","37,02",,provided,2642604.33898563|1758320.26473613,37.02,-8.92
+PR_Megachilidae_RL_37623,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,15,,1995,5,15,19950515,1995,Portugal,"-8,92","37,02",,provided,2642604.33898563|1758320.26473613,37.02,-8.92
+AM_Osmiini_RL_3353,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1995,5,16,16.5.1995,,Portugal,"-8,87475","37,06498",,not_provided,2647606.74306106|1762178.20511425,37.06498,-8.87475
+IB_bees_ES_RL_62755,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,1995,5,16,16-05-1995;16-05-1995,1995,Portugal,"-8,87","37,06",1000,provided,2647898.63585471|1761536.98444985,37.06,-8.87
+PR_Megachilidae_RL_37626,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1995,5,16,19950516,1995,Portugal,"-8,87","37,06",,provided,2647898.63585471|1761536.98444985,37.06,-8.87
+PR_Megachilidae_RL_37627,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1995,5,16,19950516,1995,Portugal,"-8,87","37,06",,provided,2647898.63585471|1761536.98444985,37.06,-8.87
+IB_bees_ES_RL_62756,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,1995,5,17,17-05-1995;17-05-1995,1995,Portugal,"-8,91","37,08",1000,provided,2644914.79662271|1764571.36268505,37.08,-8.91
+PR_Megachilidae_RL_37636,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1995,5,17,19950517,1995,Portugal,"-8,91","37,08",,provided,2644914.79662271|1764571.36268505,37.08,-8.91
+PR_Megachilidae_RL_37637,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1995,5,17,19950517,1995,Portugal,"-8,91","37,08",,provided,2644914.79662271|1764571.36268505,37.08,-8.91
+AM_Osmiini_RL_3352,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1995,5,7,7.5.1995,,Portugal,"-8,96326","37,02522",,not_provided,2638981.15890368|1759835.03882966,37.02522,-8.96326
+ULB_RL_1214460,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,32,,1995,,,19950000,,Portugal,"-8,92","37,02",,provided,2642604.33898563|1758320.26473613,37.02,-8.92
+ULB_RL_1214462,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,1995,,,19950000,,Portugal,"-8,87","37,06",,provided,2647898.63585471|1761536.98444985,37.06,-8.87
+ULB_RL_1214466,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,1995,,,19950000,,Portugal,"-8,91","37,08",,provided,2644914.79662271|1764571.36268505,37.08,-8.91
+AM_Osmiini_RL_3358,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1996,5,31,30.-31.5.1996,1996,Portugal,"-7,86198","37,27807",,not_provided,2740358.07406904|1763606.4288352,37.27807,-7.86198
+IB_bees_ES_RL_62757,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1996,5,31,31-05-1996;30-05-1996,1996,Portugal,"-7,86","37,27",1000,provided,2740345.65664341|1762693.01454638,37.27,-7.86
+PR_Megachilidae_RL_37669,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1996,5,31,19960531,1996,Portugal,"-7,86","37,27",,provided,2740345.65664341|1762693.01454638,37.27,-7.86
+PR_Megachilidae_RL_37670,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1996,5,31,19960531,1996,Portugal,"-7,86","37,27",,provided,2740345.65664341|1762693.01454638,37.27,-7.86
+ULB_RL_1214478,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1996,,,19960000,,Portugal,"-7,86","37,27",,provided,2740345.65664341|1762693.01454638,37.27,-7.86
+AM_Osmiini_RL_3355,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1999,,,51 999,,Portugal,"-8,14047","37,23535",,not_provided,2715241.92313209|1764801.13247736,37.23535,-8.14047
+AM_Osmiini_RL_3357,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2002,4,30,30.4.2002,,Portugal,"-8,63668","37,59723",,not_provided,2680911.26927711|1814440.66099849,37.59723,-8.63668
+IB_bees_ES_RL_62760,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,2002,4,30,30-04-2002;30-04-2002,2002,Portugal,"-8,64","37,59",1000,provided,2680452.87760711|1813731.60810953,37.59,-8.64
+PR_Megachilidae_RL_37685,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2002,4,30,20020430,2002,Portugal,"-8,64","37,59",,provided,2680452.87760711|1813731.60810953,37.59,-8.64
+PR_Megachilidae_RL_37686,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2002,4,30,20020430,2002,Portugal,"-8,64","37,59",,provided,2680452.87760711|1813731.60810953,37.59,-8.64
+ULB_RL_1214483,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2002,,,20020000,,Portugal,"-8,64","37,59",,provided,2680452.87760711|1813731.60810953,37.59,-8.64
+IB_bees_ES_RL_62762,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2005,5,26,26-05-2005;26-05-2005,2005,Portugal,"-8,08","37,7",1000,provided,2731236.17412421|1813747.4663533,37.7,-8.08
+PR_Megachilidae_RL_37691,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2005,5,26,20050526,2005,Portugal,"-8,08","37,7",,provided,2731236.17412421|1813747.4663533,37.7,-8.08
+PR_Megachilidae_RL_37692,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2005,5,26,20050526,2005,Portugal,"-8,08","37,7",,provided,2731236.17412421|1813747.4663533,37.7,-8.08
+ULB_RL_1214485,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2005,,,20050000,,Portugal,"-8,08","37,7",,provided,2731236.17412421|1813747.4663533,37.7,-8.08
+AM_Osmiini_RL_3356,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2009,5,27,27/05/2009,,Portugal,"-8,02907","37,69068",,provided,2735404.58263281|1811679.15630442,37.69068,-8.02907
+IB_bees_ES_RL_62776,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2009,7,15,15-07-2009;15-07-2009,2009,Portugal,"-8,3","37,13",1000,provided,2698964.99506192|1756793.38828475,37.13,-8.3
+PR_Megachilidae_RL_37650,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2009,7,15,20090715,2009,Portugal,"-8,3","37,13",,provided,2698964.99506192|1756793.38828475,37.13,-8.3
+PR_Megachilidae_RL_37651,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2009,7,15,20090715,2009,Portugal,"-8,3","37,13",,provided,2698964.99506192|1756793.38828475,37.13,-8.3
+AM_Osmiini_RL_3126,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2009,7,19,19.7.2009,,Portugal,"-8,76666","37,71666",,provided,2672607.27309344|1830136.96683853,37.71666,-8.76666
+IB_bees_ES_RL_62775,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2009,7,4,04-07-2009;04-07-2009,2009,Portugal,"-8,77","37,43",1000,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37673,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2009,7,4,20090704,2009,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37677,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2009,7,4,20090704,2009,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+ULB_RL_1214471,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2009,,,20090000,,Portugal,"-8,3","37,13",,provided,2698964.99506192|1756793.38828475,37.13,-8.3
+ULB_RL_1214480,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2009,,,20090000,,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+IB_bees_ES_RL_62781,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,2010,8,2,02-08-2010;02-08-2010,2010,Portugal,"-7,64","37,13",1000,provided,2756273.92681724|1743025.1787053,37.13,-7.64
+PR_Megachilidae_RL_37648,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2010,8,2,20100802,2010,Portugal,"-7,64","37,13",,provided,2756273.92681724|1743025.1787053,37.13,-7.64
+PR_Megachilidae_RL_37649,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2010,8,2,20100802,2010,Portugal,"-7,64","37,13",,provided,2756273.92681724|1743025.1787053,37.13,-7.64
+ULB_RL_1214470,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2010,,,20100000,,Portugal,"-7,64","37,13",,provided,2756273.92681724|1743025.1787053,37.13,-7.64
+IB_bees_ES_RL_62782,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,2011,5,27,27-05-2011;27-05-2011,2011,Portugal,"-8,77","37,43",1000,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+IB_bees_ES_RL_88474,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,2,,2011,5,27,27-05-2011;27-05-2011,2011,Portugal,"-8,77","37,43",1000,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37674,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,2011,5,27,20110527,2011,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37675,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,2011,5,27,20110527,2011,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37678,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,2011,5,27,20110527,2011,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37679,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,2011,5,27,20110527,2011,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+IB_bees_ES_RL_62788,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,3,,2011,6,12,12-06-2011;12-06-2011,2011,Portugal,"-8,44","37,19",1000,provided,2688236.15467995|1766256.2640806,37.19,-8.44
+PR_Megachilidae_RL_37657,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,3,,2011,6,12,20110612,2011,Portugal,"-8,44","37,19",,provided,2688236.15467995|1766256.2640806,37.19,-8.44
+PR_Megachilidae_RL_37658,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,3,,2011,6,12,20110612,2011,Portugal,"-8,44","37,19",,provided,2688236.15467995|1766256.2640806,37.19,-8.44
+IB_bees_ES_RL_62784,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,2,,2011,6,3,03-06-2011;03-06-2011,2011,Portugal,"-9,1","38,45",1000,provided,2662082.81496835|1916523.59153518,38.45,-9.1
+PR_Megachilidae_RL_37700,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,2011,6,3,20110603,2011,Portugal,"-9,1","38,45",,provided,2662082.81496835|1916523.59153518,38.45,-9.1
+PR_Megachilidae_RL_37701,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,2011,6,3,20110603,2011,Portugal,"-9,1","38,45",,provided,2662082.81496835|1916523.59153518,38.45,-9.1
+IB_bees_ES_RL_62789,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2011,7,23,23-07-2011;23-07-2011,2011,Portugal,"-8,77","37,43",1000,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37676,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2011,7,23,20110723,2011,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+PR_Megachilidae_RL_37680,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2011,7,23,20110723,2011,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+ULB_RL_1214474,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,2011,,,20110000,,Portugal,"-8,44","37,19",,provided,2688236.15467995|1766256.2640806,37.19,-8.44
+ULB_RL_1214481,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,5,,2011,,,20110000,,Portugal,"-8,77","37,43",,provided,2665424.95648277|1799272.79745926,37.43,-8.77
+ULB_RL_1214488,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,2011,,,20110000,,Portugal,"-9,1","38,45",,provided,2662082.81496835|1916523.59153518,38.45,-9.1
+IB_bees_ES_RL_62793,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2012,7,18,18-07-2012;18-07-2012,2012,Portugal,"-8,78","37,52",1000,provided,2666726.19902533|1809201.9080375,37.52,-8.78
+IB_bees_ES_RL_88476,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,4,,2012,7,18,18-07-2012;18-07-2012,2012,Portugal,"-8,78","37,52",1000,provided,2666726.19902533|1809201.9080375,37.52,-8.78
+PR_Megachilidae_RL_37681,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2012,7,18,20120718,2012,Portugal,"-8,78","37,52",,provided,2666726.19902533|1809201.9080375,37.52,-8.78
+PR_Megachilidae_RL_37682,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,4,,2012,7,18,20120718,2012,Portugal,"-8,78","37,52",,provided,2666726.19902533|1809201.9080375,37.52,-8.78
+PR_Megachilidae_RL_37683,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2012,7,18,20120718,2012,Portugal,"-8,78","37,52",,provided,2666726.19902533|1809201.9080375,37.52,-8.78
+PR_Megachilidae_RL_37684,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,4,,2012,7,18,20120718,2012,Portugal,"-8,78","37,52",,provided,2666726.19902533|1809201.9080375,37.52,-8.78
+IB_bees_ES_RL_62794,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2012,7,20,20-07-2012;20-07-2012,2012,Portugal,"-8,94","37,01",1000,provided,2640630.09600417|1757681.70167672,37.01,-8.94
+PR_Megachilidae_RL_37618,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2012,7,20,20120720,2012,Portugal,"-8,94","37,01",,provided,2640630.09600417|1757681.70167672,37.01,-8.94
+PR_Megachilidae_RL_37619,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2012,7,20,20120720,2012,Portugal,"-8,94","37,01",,provided,2640630.09600417|1757681.70167672,37.01,-8.94
+ULB_RL_1214459,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2012,,,20120000,,Portugal,"-8,94","37,01",,provided,2640630.09600417|1757681.70167672,37.01,-8.94
+ULB_RL_1214482,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,5,,2012,,,20120000,,Portugal,"-8,78","37,52",,provided,2666726.19902533|1809201.9080375,37.52,-8.78
+IB_bees_ES_RL_62798,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,2014,8,10,10-08-2014;09-08-2014,2014,Portugal,"-6,96","41,34",1000,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+PR_Megachilidae_RL_37797,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,2014,8,10,20140810,2014,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+PR_Megachilidae_RL_37800,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,2014,8,10,20140810,2014,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+ULB_RL_1214495,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,2014,,,20140000,,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+IB_bees_ES_RL_62813,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,2015,10,15,15-10-2015;15-10-2015,2015,Portugal,"-8,9","37,19",1000,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37660,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,2015,10,15,20151015,2015,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37664,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,2015,10,15,20151015,2015,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+IB_bees_ES_RL_62814,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2015,10,22,22-10-2015;22-10-2015,2015,Portugal,"-8,337","37,094",1000,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+PR_Megachilidae_RL_37643,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,10,22,20151022,2015,Portugal,"-8,337","37,094",,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+PR_Megachilidae_RL_37645,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,10,22,20151022,2015,Portugal,"-8,337","37,094",,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+IB_bees_ES_RL_62800,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,2015,6,27,27-06-2015;27-06-2015,2015,Portugal,"-8,617","37,303",1000,provided,2675595.56058514|1782256.10929075,37.303,-8.617
+PR_Megachilidae_RL_37671,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,6,27,20150627,2015,Portugal,"-8,617","37,303",,provided,2675595.56058514|1782256.10929075,37.303,-8.617
+PR_Megachilidae_RL_37672,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,6,27,20150627,2015,Portugal,"-8,617","37,303",,provided,2675595.56058514|1782256.10929075,37.303,-8.617
+IB_bees_ES_RL_62802,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,3,,2015,8,19,19-08-2015;19-08-2015,2015,Portugal,"-8,598","37,161",1000,provided,2673868.2052919|1766519.86277642,37.161,-8.598
+PR_Megachilidae_RL_37655,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,3,,2015,8,19,20150819,2015,Portugal,"-8,598","37,161",,provided,2673868.2052919|1766519.86277642,37.161,-8.598
+PR_Megachilidae_RL_37656,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,3,,2015,8,19,20150819,2015,Portugal,"-8,597797","37,16104",,provided,2673886.73252065|1766519.80007355,37.16104,-8.597797
+IB_bees_ES_RL_55386,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,3,,2015,8,31,31-08-2015;01-06-2015,2015,Portugal,"-6,96","41,34",1000,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+IB_bees_ES_RL_88323,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,3,,2015,8,31,31-08-2015;01-06-2015,2015,Portugal,"-6,96","41,34",1000,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+PR_Megachilidae_RL_37798,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,3,,2015,8,31,20150831,2015,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+PR_Megachilidae_RL_37799,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,3,,2015,8,31,20150831,2015,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+PR_Megachilidae_RL_37801,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,3,,2015,8,31,20150831,2015,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+PR_Megachilidae_RL_37802,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,3,,2015,8,31,20150831,2015,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+IB_bees_ES_RL_62801,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2015,8,4,04-08-2015;04-08-2015,2015,Portugal,"-8,608","37,144",1000,provided,2672599.11997495|1764900.93473546,37.144,-8.608
+PR_Megachilidae_RL_37652,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,8,4,20150804,2015,Portugal,"-8,608","37,144",,provided,2672599.11997495|1764900.93473546,37.144,-8.608
+PR_Megachilidae_RL_37653,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,8,4,20150804,2015,Portugal,"-8,60808","37,14436",,provided,2672600.72689352|1764941.51519404,37.14436,-8.60808
+ADD_BDT_222,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2015,9,17,,,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+IB_bees_ES_RL_62806,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,2015,9,17,17-09-2015;17-09-2015,2015,Portugal,"-8,9","37,19",1000,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37659,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2015,9,17,20150917,2015,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37663,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2015,9,17,20150917,2015,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+ADD_BDT_223,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2015,9,18,,,Portugal,"-8,337","37,094",,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+IB_bees_ES_RL_62808,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,18,18-09-2015;18-09-2015,2015,Portugal,"-8,337","37,094",1000,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+PR_Megachilidae_RL_37642,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,18,20150918,2015,Portugal,"-8,337","37,094",,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+PR_Megachilidae_RL_37644,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,18,20150918,2015,Portugal,"-8,337","37,094",,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+ADD_BDT_224,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2015,9,19,,,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+IB_bees_ES_RL_62809,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,19,19-09-2015;19-09-2015,2015,Portugal,"-8,811","37,068",1000,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+PR_Megachilidae_RL_37630,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,19,20150919,2015,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+PR_Megachilidae_RL_37633,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,19,20150919,2015,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+ADD_BDT_225,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Dittrichia viscosa,2015,9,22,,,Portugal,"-8,84","37,062",,provided,2650545.84003825|1761095.86807526,37.062,-8.84
+IB_bees_ES_RL_40806,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Dittrichia viscosa,2015,9,22,22-09-2015;22-09-2015,2015,Portugal,"-8,84","37,062",1000,provided,2650545.84003825|1761095.86807526,37.062,-8.84
+PR_Megachilidae_RL_37628,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,22,20150922,2015,Portugal,"-8,84","37,062",,provided,2650545.84003825|1761095.86807526,37.062,-8.84
+PR_Megachilidae_RL_37629,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2015,9,22,20150922,2015,Portugal,"-8,84","37,062",,provided,2650545.84003825|1761095.86807526,37.062,-8.84
+ULB_RL_1214463,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2015,,,20150000,,Portugal,"-8,84","37,062",,provided,2650545.84003825|1761095.86807526,37.062,-8.84
+ULB_RL_1214464,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2015,,,20150000,,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+ULB_RL_1214468,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,2015,,,20150000,,Portugal,"-8,337","37,094",,provided,2694915.3089468|1753692.59546213,37.094,-8.337
+ULB_RL_1214472,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2015,,,20150000,,Portugal,"-8,60808","37,14436",,provided,2672600.72689352|1764941.51519404,37.14436,-8.60808
+ULB_RL_1214473,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,2015,,,20150000,,Portugal,"-8,597797","37,16104",,provided,2673886.73252065|1766519.80007355,37.16104,-8.597797
+ULB_RL_1214475,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,2015,,,20150000,,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+ULB_RL_1214479,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2015,,,20150000,,Portugal,"-8,617","37,303",,provided,2675595.56058514|1782256.10929075,37.303,-8.617
+ULB_RL_1214496,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,6,,2015,,,20150000,,Portugal,"-6,96","41,34",,provided,2909067.02871432|2185964.24621622,41.34,-6.96
+IB_bees_ES_RL_62831,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,,2016,10,4,04-10-2016;04-10-2016,2016,Portugal,"-8,9","37,19",1000,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37662,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,2016,10,4,20161004,2016,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37666,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,2016,10,4,20161004,2016,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+IB_bees_ES_RL_62833,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Dittrichia viscosa,2016,11,3,03-11-2016;03-11-2016,2016,Portugal,"-8,811","37,068",1000,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+PR_Megachilidae_RL_37632,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,11,3,20161103,2016,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+PR_Megachilidae_RL_37635,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,11,3,20161103,2016,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+ADD_BDT_226,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F&M,3,Carduus tenuiflorus,2016,4,24,,,Portugal,"-7,662","37,087",,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+IB_bees_ES_RL_62815,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Carduus tenuiflorus,2016,4,24,24-04-2016;24-04-2016,2016,Portugal,"-7,662","37,087",1000,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+IB_bees_ES_RL_88477,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,2,Carduus tenuiflorus,2016,4,24,24-04-2016;24-04-2016,2016,Portugal,"-7,662","37,087",1000,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+PR_Megachilidae_RL_37638,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,4,24,20160424,2016,Portugal,"-7,662","37,087",,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+PR_Megachilidae_RL_37639,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,2016,4,24,20160424,2016,Portugal,"-7,662","37,087",,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+PR_Megachilidae_RL_37640,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,4,24,20160424,2016,Portugal,"-7,662","37,087",,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+PR_Megachilidae_RL_37641,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,2016,4,24,20160424,2016,Portugal,"-7,662","37,087",,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+ADD_BDT_227,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2016,4,28,,,Portugal,"-7,83","37,1",,provided,2739080.6645156|1743694.37470991,37.1,-7.83
+IB_bees_ES_RL_62816,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,2016,4,28,28-04-2016;28-04-2016,2016,Portugal,"-7,83","37,1",1000,provided,2739080.6645156|1743694.37470991,37.1,-7.83
+PR_Megachilidae_RL_37646,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,4,28,20160428,2016,Portugal,"-7,83","37,1",,provided,2739080.6645156|1743694.37470991,37.1,-7.83
+PR_Megachilidae_RL_37647,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,4,28,20160428,2016,Portugal,"-7,83","37,1",,provided,2739080.6645156|1743694.37470991,37.1,-7.83
+IB_bees_ES_RL_62820,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,2,02-06-2016;02-06-2016,2016,Portugal,"-7,66","37,64",1000,provided,2766054.08720663|1798597.05799389,37.64,-7.66
+PR_Megachilidae_RL_37687,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,2,20160602,2016,Portugal,"-7,66","37,64",,provided,2766054.08720663|1798597.05799389,37.64,-7.66
+PR_Megachilidae_RL_37689,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,2,20160602,2016,Portugal,"-7,66","37,64",,provided,2766054.08720663|1798597.05799389,37.64,-7.66
+AM_Osmiini_RL_3124,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,6,4,04/06/2016,,Portugal,"-7,49392","37,66802",,provided,2781016.66407412|1798258.66064321,37.66802,-7.49392
+AM_Osmiini_RL_3125,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,6,4,04/06/2016,,Portugal,"-7,49392","37,66802",,provided,2781016.66407412|1798258.66064321,37.66802,-7.49392
+IB_bees_ES_RL_62821,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,2,,2016,6,4,04-06-2016;04-06-2016,2016,Portugal,"-7,66","37,64",1000,provided,2766054.08720663|1798597.05799389,37.64,-7.66
+PR_Megachilidae_RL_37688,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,2016,6,4,20160604,2016,Portugal,"-7,66","37,64",,provided,2766054.08720663|1798597.05799389,37.64,-7.66
+PR_Megachilidae_RL_37690,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,2016,6,4,20160604,2016,Portugal,"-7,66","37,64",,provided,2766054.08720663|1798597.05799389,37.64,-7.66
+IB_bees_ES_RL_62827,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2016,9,15,15-09-2016;15-09-2016,2016,Portugal,"-8,9","37,19",1000,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37661,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,9,15,20160915,2016,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+PR_Megachilidae_RL_37665,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,9,15,20160915,2016,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+IB_bees_ES_RL_62829,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,,1,Dittrichia viscosa,2016,9,20,20-09-2016;20-09-2016,2016,Portugal,"-8,811","37,068",1000,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+PR_Megachilidae_RL_37631,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,2016,9,20,20160920,2016,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+PR_Megachilidae_RL_37634,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,2016,9,20,20160920,2016,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+ULB_RL_1214465,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,2016,,,20160000,,Portugal,"-8,811","37,068",,provided,2653202.30306577|1761109.14476021,37.068,-8.811
+ULB_RL_1214467,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,2016,,,20160000,,Portugal,"-7,662","37,087",,provided,2753393.82259966|1738826.15048902,37.087,-7.662
+ULB_RL_1214469,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2016,,,20160000,,Portugal,"-7,83","37,1",,provided,2739080.6645156|1743694.37470991,37.1,-7.83
+ULB_RL_1214476,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,2016,,,20160000,,Portugal,"-8,9","37,19",,provided,2648429.30462222|1776216.06319141,37.19,-8.9
+ULB_RL_1214484,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,2016,,,20160000,,Portugal,"-7,66","37,64",,provided,2766054.08720663|1798597.05799389,37.64,-7.66
+IB_bees_ES_RL_62834,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,2017,4,11,11-04-2017;11-04-2017,2017,Portugal,"-7,544","37,157",1000,provided,2765224.69470186|1743984.76748027,37.157,-7.544
+PR_Megachilidae_RL_37654,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,4,11,20170411,2017,Portugal,"-7,544","37,157",,provided,2765224.69470186|1743984.76748027,37.157,-7.544
+IB_bees_ES_RL_62838,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2018,7,17,17-07-2018;17-07-2018,2018,Portugal,"-9,105","38,746",1000,provided,2669004.52448403|1948574.14202921,38.746,-9.105
+PR_Megachilidae_RL_37711,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2018,7,17,20180717,2018,Portugal,"-9,105","38,746",,provided,2669004.52448403|1948574.14202921,38.746,-9.105
+IB_bees_ES_RL_62837,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,2018,7,9,09-07-2018;09-07-2018,2018,Portugal,"-9,107","38,773",1000,provided,2669507.24206154|1951531.51717703,38.773,-9.107
+PR_Megachilidae_RL_37712,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2018,7,9,20180709,2018,Portugal,"-9,107","38,773",,provided,2669507.24206154|1951531.51717703,38.773,-9.107
+PR_Megachilidae_RL_37782,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2019,7,29,20190729,2019,Portugal,"-8,582","39,942",,provided,2742352.49536409|2066613.87823882,39.942,-8.582
+ADD_BDT_228,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2019,8,3,,,Portugal,"-9,1018","38,457456",,provided,2662114.83902972|1917367.41492483,38.457456,-9.1018
+IB_bees_ES_RL_62847,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,2019,8,3,03-08-2019;03-08-2019,2019,Portugal,"-9,102","38,458",1000,provided,2662111.35575999|1917430.4810879,38.458,-9.102
+PR_Megachilidae_RL_37702,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2019,8,3,20190803,2019,Portugal,"-9,102","38,458",,provided,2662111.35575999|1917430.4810879,38.458,-9.102
+HG_bees_PO_RL_863,GasparH_Portugal_2023,John Macaroni,Heriades rubicola,F,1,,2021,5,20,20/05/2021,,Portugal,"-7,404935","40,100584",900,provided,2843941.80157083|2059994.95655388,40.100584,-7.404935
+HG_bees_PO_RL_865,GasparH_Portugal_2023,John Macaroni,Heriades rubicola,M,1,,2021,6,23,23/06/2021,,Portugal,"-7,404935","40,100584",900,provided,2843941.80157083|2059994.95655388,40.100584,-7.404935
+HG_bees_PO_RL_864,GasparH_Portugal_2023,John Macaroni,Heriades rubicola,M,1,,2021,6,24,24/06/2021,,Portugal,"-7,404935","40,100584",900,provided,2843941.80157083|2059994.95655388,40.100584,-7.404935
+HG_bees_PO_RL_866,GasparH_Portugal_2023,John Macaroni,Heriades rubicola,M,1,,2021,7,21,21/07/2021,,Portugal,"-7,404935","40,100584",900,provided,2843941.80157083|2059994.95655388,40.100584,-7.404935
+HG_bees_PO_RL_867,GasparH_Portugal_2023,John Macaroni,Heriades rubicola,F,1,,2021,9,16,16/09/2021,,Portugal,"-7,404935","40,100584",900,provided,2843941.80157083|2059994.95655388,40.100584,-7.404935
+HG_bees_PO_RL_868,GasparH_Portugal_2023,John Macaroni,Heriades rubicola,M,1,,2021,9,17,17/09/2021,,Portugal,"-7,404935","40,100584",900,provided,2843941.80157083|2059994.95655388,40.100584,-7.404935
+IB_bees_ES_RL_62565,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,,,,29/07/2019,,Portugal,"-8,582","39,942",1000,provided,2742352.49536409|2066613.87823882,39.942,-8.582
+ADD_BDT_414,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2023,7,21,,,Romania,"27,406486","47,275708",,provided,5625157.35872414|2839049.36425683,47.275708,27.406486
+ADD_BDT_415,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2023,7,23,,,Romania,"27,567895","47,081677",,provided,5641906.38662974|2820843.22687484,47.081677,27.567895
+AM_Osmiini_RL_3127,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2015,7,25,24-25.7.2015,2015,Russian Federation,"47,08","45,39",,provided,7092179.84876129|3189047.05064546,45.39,47.08
+AM_Osmiini_RL_3128,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2015,7,25,24-25.7.2015,2015,Russian Federation,"47,08","45,39",,provided,7092179.84876129|3189047.05064546,45.39,47.08
+ADD_BDT_1917,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Trifolium campestre,2022,6,15,,,Serbia,"19,83","46,104444",,provided,5079422.70868845|2604829.60215375,46.104444,19.83
+ADD_BDT_1926,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,Trifolium campestre,2022,6,15,,,Serbia,"19,83","46,104444",,provided,5079422.70868845|2604829.60215375,46.104444,19.83
+ADD_MA_3103,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2022,6,15,,,Serbia,"19,8212","46,104",,provided,5078754.51554121|2604690.83886088,46.104,19.8212
+ADD_MA_3102,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2022,9,6,,,Serbia,"18,94","45,839",,provided,5014543.99298852|2566851.32645158,45.839,18.94
+AM_Osmiini_RL_3361,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1904,1,9,09/01/1904,,Slovakia,"17,01825","48,43632",,not_provided,4839625.21716572|2838342.95034303,48.43632,17.01825
+AM_Osmiini_RL_3362,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1904,1,9,09/01/1904,,Slovakia,"17,01825","48,43632",,not_provided,4839625.21716572|2838342.95034303,48.43632,17.01825
+AM_Osmiini_RL_3280,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1904,1,7,07/01/1904,,Slovenia,"13,59085","45,51428",,not_provided,4601874.2959611|2495863.06181482,45.51428,13.59085
+ADD_BDT_2064,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,1925,8,27,,,Slovenia,"15,597362","46,156505",,not_provided,4753414.02616818|2576665.78606271,46.156505,15.597362
+ADD_BDT_2065,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1926,8,27,,,Slovenia,"15,597362","46,156505",,not_provided,4753414.02616818|2576665.78606271,46.156505,15.597362
+ADD_BDT_2067,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,1990,9,12,,,Slovenia,"13,570999","45,527999",,not_provided,4600253.21040071|2497309.62652466,45.527999,13.570999
+ADD_BDT_2068,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,1991,8,24,,,Slovenia,"13,613136","45,478113",,not_provided,4603801.83034495|2491937.25669777,45.478113,13.613136
+ADD_BDT_2071,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1993,6,9,,,Slovenia,"13,900182","45,511788",,not_provided,4626059.70836101|2496802.60156318,45.511788,13.900182
+ADD_BDT_2072,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1993,8,17,,,Slovenia,"13,884902","45,528172",,not_provided,4624775.2276521|2498556.54479874,45.528172,13.884902
+ADD_BDT_2073,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1994,6,22,,,Slovenia,"13,610908","45,52513",,not_provided,4603386.07821882|2497141.87642971,45.52513,13.610908
+ADD_BDT_2074,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1995,6,17,,,Slovenia,"13,682942","45,490735",,not_provided,4609194.43803771|2493604.04232136,45.490735,13.682942
+ADD_BDT_2069,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,1997,5,31,,,Slovenia,"13,613136","45,478113",,not_provided,4603801.83034495|2491937.25669777,45.478113,13.613136
+ADD_BDT_2075,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,1997,8,12,,,Slovenia,"13,610514","45,513851",,not_provided,4603413.23829085|2495889.79607781,45.513851,13.610514
+AM_Osmiini_RL_3363,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,1999,7,10,10/07/1999,,Slovenia,"13,73813","45,50309",,not_provided,4613443.16549305|2495188.78696007,45.50309,13.73813
+AM_Osmiini_RL_14029,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2009,9,5,5.9.2009,,Slovenia,"13,61814","45,4757",,not_provided,4604205.56168679|2491688.71365096,45.4757,13.61814
+AM_Osmiini_RL_14054,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2009,9,5,5.9.2009,,Slovenia,"13,61814","45,4757",,not_provided,4604205.56168679|2491688.71365096,45.4757,13.61814
+AM_Osmiini_RL_3132,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,28,,2009,9,5,5.9.2009,,Slovenia,"13,61814","45,4757",,not_provided,4604205.56168679|2491688.71365096,45.4757,13.61814
+AM_Osmiini_RL_3364,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,10,,2009,9,5,5.9.2009,,Slovenia,"13,61814","45,4757",,not_provided,4604205.56168679|2491688.71365096,45.4757,13.61814
+ADD_BDT_2066,ADD_PULSE_2024,John Macaroni,Heriades rubicola,,1,,2015,2,26,,,Slovenia,"13,585681","45,519091",,not_provided,4601445.79038105|2496377.03552984,45.519091,13.585681
+AM_Osmiini_RL_3206,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1969,8,13,13/08/1969,,Spain,"3,082408","39,9074",,not_provided,3727237.46203949|1895275.53324546,39.9074,3.082408
+AM_Osmiini_RL_3204,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1969,8,14,14/08/1969,,Spain,"3,082408","39,9074",,not_provided,3727237.46203949|1895275.53324546,39.9074,3.082408
+AM_Osmiini_RL_3205,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1969,8,14,14/08/1969,,Spain,"3,082408","39,9074",,not_provided,3727237.46203949|1895275.53324546,39.9074,3.082408
+AM_Osmiini_RL_3197,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1969,8,17,17/08/1969,,Spain,"3,124117","39,85311",,not_provided,3730311.3175711|1888972.13211693,39.85311,3.124117
+AM_Osmiini_RL_3198,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1969,8,17,17/08/1969,,Spain,"3,124117","39,85311",,not_provided,3730311.3175711|1888972.13211693,39.85311,3.124117
+AM_Osmiini_RL_3199,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1969,8,17,17/08/1969,,Spain,"3,124117","39,85311",,not_provided,3730311.3175711|1888972.13211693,39.85311,3.124117
+AM_Osmiini_RL_3101,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1990,6,10,10.6.1990,,Spain,"3,256477","39,41578",,not_provided,3737748.80898369|1839800.77959185,39.41578,3.256477
+AM_Osmiini_RL_3100,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1991,6,21,21.6.1991,,Spain,"2,982498","39,34916",,not_provided,3713510.3406977|1834610.65986973,39.34916,2.982498
+AM_Osmiini_RL_3095,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1991,6,9,9.6.1991,,Spain,"2,717014","39,53726",,not_provided,3692412.05954091|1857466.15555294,39.53726,2.717014
+JDC_bees_ES_RL_1799,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,F,4,,2003,9,21,20030921,,Spain,"3,101","39,788",3000,provided,3727736.20610509|1881982.64378601,39.788,3.101
+AM_Osmiini_RL_3103,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2010,9,17,17/09/2010,,Spain,"3,152491","39,73367",,provided,3731657.82107|1875600.01657682,39.73367,3.152491
+JDC_bees_ES_RL_1803,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,F,1,,2013,6,1,20130601,,Spain,"3,842","39,929",750,provided,3792441.64845233|1892046.06313128,39.929,3.842
+JDC_bees_ES_RL_673,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,M,1,,2013,6,1,20130601,,Spain,"3,842","39,929",750,provided,3792441.64845233|1892046.06313128,39.929,3.842
+JDC_bees_ES_RL_1805,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,F,1,,2013,6,6,20130606,,Spain,"4,105","40,042",700,provided,3815848.36180714|1902710.53707217,40.042,4.105
+JDC_bees_ES_RL_675,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,M,1,,2013,6,6,20130606,,Spain,"4,105","40,042",700,provided,3815848.36180714|1902710.53707217,40.042,4.105
+JDC_bees_ES_RL_1806,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,F,4,,2013,9,18,20130918,,Spain,"4,13","39,871",300,provided,3816652.90054525|1883697.75513236,39.871,4.13
+JDC_bees_ES_RL_676,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,M,2,,2013,9,18,20130918,,Spain,"4,13","39,871",300,provided,3816652.90054525|1883697.75513236,39.871,4.13
+JDC_bees_ES_RL_1808,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,F,4,,2013,9,24,20130924,,Spain,"4,067","39,904",900,provided,3811512.06455558|1887754.65960665,39.904,4.067
+JDC_bees_ES_RL_677,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,M,1,,2014,5,19,20140519,,Spain,"4,171","39,851",600,provided,3820013.16444312|1881222.5315821,39.851,4.171
+JDC_bees_ES_RL_1809,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,F,1,,2014,5,23,20140523,,Spain,"3,922","40,044",400,provided,3800220.15671668|1904166.59167347,40.044,3.922
+JDC_bees_ES_RL_678,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,M,2,,2014,5,26,20140526,,Spain,"4,105","40,042",700,provided,3815848.36180714|1902710.53707217,40.042,4.105
+JDC_bees_ES_RL_679,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,M,1,,2015,5,8,20150508,,Spain,"4,235","39,967",5000,provided,3826389.33181975|1893588.47778511,39.967,4.235
+PR_Megachilidae_RL_37725,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,28,20160628,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37726,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,6,28,20160628,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37728,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,12,20160712,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37729,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2016,7,22,20160722,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37730,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,22,20160722,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37731,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,22,20160722,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37732,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,22,20160722,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37727,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2016,7,4,20160704,2016,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37733,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,4,24,20170424,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37734,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,5,15,20170515,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37735,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,5,15,20170515,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37736,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,5,15,20170515,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37737,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,5,15,20170515,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+JDC_bees_ES_RL_680,CalafatJD_BalearicIslands_2023,John Macaroni,Heriades rubicola,M,1,,2017,5,2,20170502,,Spain,"4,067","39,904",900,provided,3811512.06455558|1887754.65960665,39.904,4.067
+PR_Megachilidae_RL_37738,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,5,23,20170523,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37739,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,5,23,20170523,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37740,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,5,23,20170523,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37741,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,5,29,20170529,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37742,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,5,29,20170529,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37747,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37748,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37749,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37750,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37751,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37752,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37753,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37754,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37755,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37756,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37757,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37758,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37759,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,12,20170612,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37760,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,19,20170619,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37761,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,19,20170619,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37762,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,19,20170619,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37763,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,26,20170626,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37764,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,26,20170626,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37765,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,26,20170626,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37766,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,26,20170626,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37767,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,26,20170626,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37743,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,6,20170606,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37744,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,6,20170606,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37745,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,6,20170606,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37746,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,6,6,20170606,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37771,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,7,10,20170710,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37772,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,10,20170710,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37773,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,10,20170710,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37774,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,10,20170710,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37775,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,17,20170717,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37776,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,17,20170717,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37777,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,17,20170717,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37778,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,25,20170725,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37779,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,25,20170725,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37780,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,25,20170725,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37781,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,25,20170725,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37768,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2017,7,3,20170703,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37769,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,3,20170703,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37770,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,2017,7,3,20170703,2017,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+PR_Megachilidae_RL_37724,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2018,5,28,20180528,2018,Spain,"3,06","39,75",,provided,3723872.23828368|1878119.61123233,39.75,3.06
+IB_bees_ES_RL_40592,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Cichorium intybus,,,,12/07/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_40593,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Foeniculum vulgare,,,,22/07/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62595,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Helichrysum stoechas,,,,28/06/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62596,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,28/06/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62597,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Convolvulus arvensis,,,,04/07/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62600,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Teucrium capitatum,,,,22/07/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62601,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Teucrium capitatum,,,,22/07/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62602,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Teucrium capitatum,,,,22/07/2016,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62603,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Lotus corniculatus,,,,24/04/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62604,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,15/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62605,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Sonchus,,,,15/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62606,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,15/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62607,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Rubus ulmifolius,,,,15/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62608,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,23/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62609,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,23/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62610,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Helichrysum stoechas,,,,23/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62611,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,29/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62612,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,29/05/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62613,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,06/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62614,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,06/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62615,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,06/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62616,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,06/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62617,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62618,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62619,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62620,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62621,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Potentilla reptans,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62622,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Sonchus,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62623,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62624,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62625,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Sonchus,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62626,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62627,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Daucus carota,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62628,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62629,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Helichrysum stoechas,,,,12/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62630,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Helichrysum stoechas,,,,19/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62631,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Helichrysum stoechas,,,,19/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62632,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Helichrysum stoechas,,,,19/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62633,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Verbena officinalis,,,,26/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62634,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Sonchus,,,,26/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62635,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Helichrysum stoechas,,,,26/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62636,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Cichorium intybus,,,,26/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62637,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Teucrium capitatum,,,,26/06/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62638,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Verbena officinalis,,,,03/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62639,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,03/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62640,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,03/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62641,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Cichorium intybus,,,,10/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62642,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Verbena officinalis,,,,10/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62643,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,10/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62644,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,10/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62645,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,17/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62646,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,17/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62647,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Blackstonia perfoliata,,,,17/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62648,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Verbena officinalis,,,,25/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62649,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Sonchus,,,,25/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62650,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Cichorium intybus,,,,25/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62651,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,Scabiosa atropurpurea,,,,25/07/2017,,Spain,"3,129","39,773",,provided,3730000.06705412|1880112.92860687,39.773,3.129
+IB_bees_ES_RL_62854,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,,,,28/05/2018,,Spain,"3,06","39,75",,provided,3723872.23828368|1878119.61123233,39.75,3.06
+IB_bees_ES_RL_62679,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,1968,6,28,28/06/1968,,Spain,"2,7","41,686",1000,provided,3711949.91208688|2094306.9343744,41.686,2.7
+PR_Megachilidae_RL_37803,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1968,6,28,19680628,1968,Spain,"2,7","41,686",,provided,3711949.91208688|2094306.9343744,41.686,2.7
+PR_Megachilidae_RL_37832,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1968,6,28,19680628,1968,Spain,"2,692464","41,68905",,provided,3711353.64633174|2094704.06340285,41.68905,2.692464
+ULB_RL_1214499,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1968,,,19680000,,Spain,"2,692464062","41,68905408",,provided,3711353.69195536|2094704.51278431,41.68905408,2.692464062
+IB_bees_ES_RL_62684,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,14,14/07/1969,,Spain,"-0,173","38,95",1000,provided,3436563.15430591|1821657.72203253,38.95,-0.173
+PR_Megachilidae_RL_37600,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,14,19690714,1969,Spain,"-0,18333","38,96667",,provided,3435893.37666255|1823605.53264666,38.96667,-0.18333
+PR_Megachilidae_RL_37715,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,14,19690714,1969,Spain,"-0,173","38,95",,provided,3436563.15430591|1821657.72203253,38.95,-0.173
+IB_bees_ES_RL_62690,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,1969,7,23,23/07/1969,,Spain,"-0,622","39,32",1000,provided,3402963.94087226|1867539.47932375,39.32,-0.622
+IB_bees_ES_RL_62691,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1969,7,23,23/07/1969,,Spain,"-0,622","39,32",1000,provided,3402963.94087226|1867539.47932375,39.32,-0.622
+IB_bees_ES_RL_62692,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,23,23/07/1969,,Spain,"-0,503","39,408",1000,provided,3414391.41596991|1875760.24230699,39.408,-0.503
+IB_bees_ES_RL_62693,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1969,7,23,23/07/1969,,Spain,"-0,503","39,408",1000,provided,3414391.41596991|1875760.24230699,39.408,-0.503
+PR_Megachilidae_RL_37603,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1969,7,23,19690723,1969,Spain,"-0,61667","39,33333",,provided,3403607.42285064|1868936.49888837,39.33333,-0.61667
+PR_Megachilidae_RL_37604,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1969,7,23,19690723,1969,Spain,"-0,61667","39,33333",,provided,3403607.42285064|1868936.49888837,39.33333,-0.61667
+PR_Megachilidae_RL_37605,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,23,19690723,1969,Spain,"-0,46667","39,43333",,provided,3417854.27802624|1878105.5029902,39.43333,-0.46667
+PR_Megachilidae_RL_37606,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1969,7,23,19690723,1969,Spain,"-0,46667","39,43333",,provided,3417854.27802624|1878105.5029902,39.43333,-0.46667
+PR_Megachilidae_RL_37718,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1969,7,23,19690723,1969,Spain,"-0,622","39,32",,provided,3402963.94087226|1867539.47932375,39.32,-0.622
+PR_Megachilidae_RL_37719,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1969,7,23,19690723,1969,Spain,"-0,622","39,32",,provided,3402963.94087226|1867539.47932375,39.32,-0.622
+PR_Megachilidae_RL_37720,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,23,19690723,1969,Spain,"-0,503","39,408",,provided,3414391.41596991|1875760.24230699,39.408,-0.503
+PR_Megachilidae_RL_37721,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1969,7,23,19690723,1969,Spain,"-0,503","39,408",,provided,3414391.41596991|1875760.24230699,39.408,-0.503
+IB_bees_ES_RL_62695,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,25,25/07/1969,,Spain,"-0,512","39,138",1000,provided,3409888.44852026|1846265.82528885,39.138,-0.512
+PR_Megachilidae_RL_37601,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,25,19690725,1969,Spain,"-0,51667","39,11666",,provided,3409192.07984811|1843982.43865874,39.11666,-0.51667
+PR_Megachilidae_RL_37716,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1969,7,25,19690725,1969,Spain,"-0,512","39,138",,provided,3409888.44852026|1846265.82528885,39.138,-0.512
+IB_bees_ES_RL_62682,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,1969,7,5,05/07/1969,,Spain,"-0,278","39,222",1000,provided,3431163.37024286|1852707.37405196,39.222,-0.278
+PR_Megachilidae_RL_37602,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1969,7,5,19690705,1969,Spain,"-0,23333","39,18333",,provided,3434484.58244628|1847945.38777636,39.18333,-0.23333
+PR_Megachilidae_RL_37717,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1969,7,5,19690705,1969,Spain,"-0,278","39,222",,provided,3431163.37024286|1852707.37405196,39.222,-0.278
+ULB_RL_1214500,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1969,,,19690000,,Spain,"-0,18333","38,96667",,provided,3435893.37666255|1823605.53264666,38.96667,-0.18333
+ULB_RL_1214501,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1969,,,19690000,,Spain,"-0,51667","39,11666",,provided,3409192.07984811|1843982.43865874,39.11666,-0.51667
+ULB_RL_1214502,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,1969,,,19690000,,Spain,"-0,23333","39,18333",,provided,3434484.58244628|1847945.38777636,39.18333,-0.23333
+ULB_RL_1214503,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,1969,,,19690000,,Spain,"-0,61667","39,33333",,provided,3403607.42285064|1868936.49888837,39.33333,-0.61667
+ULB_RL_1214504,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,1969,,,19690000,,Spain,"-0,46667","39,43333",,provided,3417854.27802624|1878105.5029902,39.43333,-0.46667
+IB_bees_ES_RL_62702,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,2,,1970,7,20,20/07/1970,,Spain,"-0,846","39,595",1000,provided,3387681.1863945|1900413.47289173,39.595,-0.846
+IB_bees_ES_RL_62703,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,20,20/07/1970,,Spain,"-0,846","39,595",1000,provided,3387681.1863945|1900413.47289173,39.595,-0.846
+PR_Megachilidae_RL_37607,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1970,7,20,19700720,1970,Spain,"-0,83333","39,6",,provided,3388834.64135571|1900806.05982565,39.6,-0.83333
+PR_Megachilidae_RL_37608,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,20,19700720,1970,Spain,"-0,83333","39,6",,provided,3388834.64135571|1900806.05982565,39.6,-0.83333
+PR_Megachilidae_RL_37722,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,2,,1970,7,20,19700720,1970,Spain,"-0,846","39,595",,provided,3387681.1863945|1900413.47289173,39.595,-0.846
+PR_Megachilidae_RL_37723,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,20,19700720,1970,Spain,"-0,846","39,595",,provided,3387681.1863945|1900413.47289173,39.595,-0.846
+IB_bees_ES_RL_62704,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,24,24/07/1970,,Spain,"-0,072","38,587",1000,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+IB_bees_ES_RL_62705,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,1970,7,24,24/07/1970,,Spain,"-1,181","40,141",1000,provided,3367172.66640965|1964432.79640964,40.141,-1.181
+PR_Megachilidae_RL_37609,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1970,7,24,19700724,1970,Spain,"-1,23333","40,16667",,provided,3363128.72981121|1967906.5035362,40.16667,-1.23333
+PR_Megachilidae_RL_37703,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,24,19700724,1970,Spain,"-0,072","38,587",,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+PR_Megachilidae_RL_37786,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1970,7,24,19700724,1970,Spain,"-1,181","40,141",,provided,3367172.66640965|1964432.79640964,40.141,-1.181
+PR_Megachilidae_RL_37828,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,24,19700724,1970,Spain,"-0,1265223","38,55486",,provided,3435351.66745261|1777799.20513429,38.55486,-0.1265223
+IB_bees_ES_RL_62707,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,25,25/07/1970,,Spain,"-0,072","38,587",1000,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+PR_Megachilidae_RL_37704,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,25,19700725,1970,Spain,"-0,072","38,587",,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+PR_Megachilidae_RL_37829,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1970,7,25,19700725,1970,Spain,"-0,1265223","38,55486",,provided,3435351.66745261|1777799.20513429,38.55486,-0.1265223
+ULB_RL_1214497,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,1970,,,19700000,,Spain,"-0,126522261","38,5548586",,provided,3435351.65237589|1777799.05122673,38.5548586,-0.126522261
+ULB_RL_1214505,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,1970,,,19700000,,Spain,"-0,83333","39,6",,provided,3388834.64135571|1900806.05982565,39.6,-0.83333
+ULB_RL_1214506,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,1970,,,19700000,,Spain,"-1,23333","40,16667",,provided,3363128.72981121|1967906.5035362,40.16667,-1.23333
+IB_bees_ES_RL_62710,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,1971,7,28,28/07/1971,,Spain,"1,015","41,76",1000,provided,3572951.3655289|2117609.99781674,41.76,1.015
+IB_bees_ES_RL_62711,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,1971,7,28,28/07/1971,,Spain,"1,015","41,76",1000,provided,3572951.3655289|2117609.99781674,41.76,1.015
+PR_Megachilidae_RL_37610,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1971,7,28,19710728,1971,Spain,"0,96667","41,8",,provided,3569440.17725853|2122493.4739285,41.8,0.96667
+PR_Megachilidae_RL_37611,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1971,7,28,19710728,1971,Spain,"0,96667","41,8",,provided,3569440.17725853|2122493.4739285,41.8,0.96667
+PR_Megachilidae_RL_37805,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1971,7,28,19710728,1971,Spain,"1,015","41,76",,provided,3572951.3655289|2117609.99781674,41.76,1.015
+PR_Megachilidae_RL_37806,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1971,7,28,19710728,1971,Spain,"1,015","41,76",,provided,3572951.3655289|2117609.99781674,41.76,1.015
+ULB_RL_1214507,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,2,,1971,,,19710000,,Spain,"0,96667","41,8",,provided,3569440.17725853|2122493.4739285,41.8,0.96667
+IB_bees_ES_RL_62718,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,1979,7,30,30-07-1979;22-07-1979,1979,Spain,"-0,072","38,587",1000,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+IB_bees_ES_RL_62719,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,2,,1979,7,30,30-07-1979;22-07-1979,1979,Spain,"-0,072","38,587",1000,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+PR_Megachilidae_RL_37705,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,,1,,1979,7,30,19790730,1979,Spain,"-0,072","38,587",,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+PR_Megachilidae_RL_37706,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1979,7,30,19790730,1979,Spain,"-0,072","38,587",,provided,3440510.54703749|1780691.13786032,38.587,-0.072
+PR_Megachilidae_RL_37830,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1979,7,30,19790730,1979,Spain,"-0,0910468","38,58101",,provided,3438777.64813313|1780254.57366444,38.58101,-0.0910468
+PR_Megachilidae_RL_37831,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,2,,1979,7,30,19790730,1979,Spain,"-0,0910468","38,58101",,provided,3438777.64813313|1780254.57366444,38.58101,-0.0910468
+ULB_RL_1214498,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,3,,1979,,,19790000,,Spain,"-0,091","38,58100965",,provided,3438781.70821748|1780253.99406621,38.58100965,-0.091
+AM_Osmiini_RL_3102,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1984,9,12,12/09/1984,,Spain,"-6,66935","40,61973",,not_provided,2916711.98359614|2102306.8997128,40.61973,-6.66935
+AM_Osmiini_RL_3097,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1987,6,20,20/06/1987,,Spain,"-5,45107","36,43175",,not_provided,2933559.69863386|1625150.92038815,36.43175,-5.45107
+AM_Osmiini_RL_14024,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,1987,7,28,28/07/1987,,Spain,"-0,00757","38,7715",,not_provided,3448515.40901855|1800178.4084567,38.7715,-0.00757
+AM_Osmiini_RL_3070,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1987,7,28,28/07/1987,,Spain,"-0,00757","38,7715",,not_provided,3448515.40901855|1800178.4084567,38.7715,-0.00757
+AM_Osmiini_RL_3099,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1988,6,23,23/06/1988,,Spain,"-3,56545","37,67868",,not_provided,3122330.55199758|1728933.57030307,37.67868,-3.56545
+PR_Megachilidae_RL_37783,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1988,8,20,19880820,1988,Spain,"-5,464","40,12",,provided,3006297.94973749|2026285.09393508,40.12,-5.464
+PR_Megachilidae_RL_37784,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,1988,8,20,19880820,1988,Spain,"-5,371","40,14",,provided,3014489.36677638|2026851.82588615,40.14,-5.371
+PR_Megachilidae_RL_37785,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1988,8,20,19880820,1988,Spain,"-5,371","40,14",,provided,3014489.36677638|2026851.82588615,40.14,-5.371
+PR_Megachilidae_RL_37787,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,1,,1988,8,20,19880820,1988,Spain,"-5,173","40,171",,provided,3031687.19167025|2026831.88401769,40.171,-5.173
+AM_Osmiini_RL_3098,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1989,6,20,20/06/1989,,Spain,"-0,18451","38,96796",,not_provided,3435808.70825585|1823760.69027095,38.96796,-0.18451
+AM_Osmiini_RL_3194,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,1989,7,21,21/07/1989,,Spain,"-0,00757","38,7715",,not_provided,3448515.40901855|1800178.4084567,38.7715,-0.00757
+AM_Osmiini_RL_14034,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,1991,9,14,8.-14.9.1991,1991,Spain,"3,032184","41,81445",,not_provided,3740789.19752643|2105856.92191651,41.81445,3.032184
+AM_Osmiini_RL_3201,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,1991,9,14,8.-14.9.1991,1991,Spain,"3,032184","41,81445",,not_provided,3740789.19752643|2105856.92191651,41.81445,3.032184
+AM_Osmiini_RL_3203,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2000,5,7,07/05/2000,,Spain,"0,921975","41,09356",,not_provided,3557067.21386226|2045203.60583408,41.09356,0.921975
+AM_Osmiini_RL_3202,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,2,,2005,2,10,10/02/2005,,Spain,"-0,95626","37,81801",,not_provided,3352863.7082374|1707171.56352024,37.81801,-0.95626
+AM_Osmiini_RL_3096,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2007,5,8,8.5.2007,,Spain,"-6,13987","36,68154",,not_provided,2877811.61025184|1664966.27182524,36.68154,-6.13987
+AM_Osmiini_RL_14032,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,3,,2007,6,10,10.6.2007,,Spain,"-3,42072","36,77688",,provided,3119501.75399405|1628405.03601995,36.77688,-3.42072
+AM_Osmiini_RL_3195,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,7,,2007,6,10,10.6.2007,,Spain,"-3,42072","36,77688",,provided,3119501.75399405|1628405.03601995,36.77688,-3.42072
+AM_Osmiini_RL_3196,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,2007,6,16,16.6.2007,,Spain,"-3,62275","36,93791",,provided,3104416.2149898|1649130.17819182,36.93791,-3.62275
+AM_Osmiini_RL_3077,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2008,7,11,11.7.2008,,Spain,"-6,48011","37,13387",,not_provided,2857385.85799803|1720463.34771663,37.13387,-6.48011
+AM_Osmiini_RL_3084,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2008,7,16,16.7.2008,,Spain,"-5,77359","36,77369",,not_provided,2911881.60834887|1668140.09361169,36.77369,-5.77359
+IB_bees_ES_RL_62655,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,2008,9,15,15-09-2008;15-09-2008,2008,Spain,"-2,843","42,51",1000,provided,3267865.33659586|2246176.65333966,42.51,-2.843
+IB_bees_ES_RL_88470,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,5,,2008,9,15,15-09-2008;15-09-2008,2008,Spain,"-2,843","42,51",1000,provided,3267865.33659586|2246176.65333966,42.51,-2.843
+PR_Megachilidae_RL_37823,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2008,9,15,20080915,2008,Spain,"-2,843","42,51",,provided,3267865.33659586|2246176.65333966,42.51,-2.843
+PR_Megachilidae_RL_37824,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,5,,2008,9,15,20080915,2008,Spain,"-2,843","42,51",,provided,3267865.33659586|2246176.65333966,42.51,-2.843
+ADD_BDT_1588,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2009,5,30,,2009,Spain,"-4,79891","38,89804",,provided,3038193.33262055|1881859.53865858,38.89804,-4.79891
+IB_bees_ES_RL_62657,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,11,,2009,9,15,15-09-2009;15-09-2009,2009,Spain,"-2,644","42,454",1000,provided,3283038.19972782|2237272.90653218,42.454,-2.644
+IB_bees_ES_RL_88471,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,8,,2009,9,15,15-09-2009;15-09-2009,2009,Spain,"-2,644","42,454",1000,provided,3283038.19972782|2237272.90653218,42.454,-2.644
+PR_Megachilidae_RL_37821,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,11,,2009,9,15,20090915,2009,Spain,"-2,644","42,454",,provided,3283038.19972782|2237272.90653218,42.454,-2.644
+PR_Megachilidae_RL_37822,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,M,8,,2009,9,15,20090915,2009,Spain,"-2,644","42,454",,provided,3283038.19972782|2237272.90653218,42.454,-2.644
+AM_Osmiini_RL_3071,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2010,8,13,13.8.2010,,Spain,"-4,95944","36,78666",,provided,2983792.99946778|1654953.15714432,36.78666,-4.95944
+AM_Osmiini_RL_3072,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2010,8,5,5.8.2010,,Spain,"-4,88361","36,70611",,provided,2988953.91092492|1644880.11742927,36.70611,-4.88361
+AM_Osmiini_RL_3092,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2010,8,5,5.8.2010,,Spain,"-4,8775","36,69527",,provided,2989288.48763015|1643596.06986577,36.69527,-4.8775
+AM_Osmiini_RL_3076,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2010,8,6,6.8.2010,,Spain,"-4,80083","36,6975",,provided,2996097.25521129|1642509.64367986,36.6975,-4.80083
+AM_Osmiini_RL_3073,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2010,8,7,7.8.2010,,Spain,"-4,80333","36,76944",,provided,2997227.93367795|1650371.08180473,36.76944,-4.80333
+AM_Osmiini_RL_3094,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2011,7,22,22.7.2011,,Spain,"-6,24972","37,10944",,provided,2876992.32269246|1713434.17244659,37.10944,-6.24972
+AM_Osmiini_RL_3093,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,2,,2011,7,25,25.7.2011,,Spain,"-6,67222","37,60777",,provided,2850733.18396081|1775520.38524693,37.60777,-6.67222
+AM_Osmiini_RL_3075,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2011,7,26,26.7.2011,,Spain,"-6,76222","37,41583",,provided,2838816.22693538|1756459.11479838,37.41583,-6.76222
+AM_Osmiini_RL_3083,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2011,7,29,29.7.2011,,Spain,"-6,71638","37,24638",,provided,2839175.33253602|1737208.91982189,37.24638,-6.71638
+AM_Osmiini_RL_14033,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,5,,2011,7,30,27.-30.7.2011,2011,Spain,"3,107214","42,18872",,provided,3750532.90811986|2146578.69044175,42.18872,3.107214
+AM_Osmiini_RL_3200,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,4,,2011,7,30,27.-30.7.2011,2011,Spain,"3,107214","42,18872",,provided,3750532.90811986|2146578.69044175,42.18872,3.107214
+AM_Osmiini_RL_3088,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2015,6,10,10.6.2015,,Spain,"-6,61777","37,92305",,provided,2862187.38040204|1808655.47490336,37.92305,-6.61777
+AM_Osmiini_RL_3085,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2015,6,13,13.6.2015,,Spain,"-6,62305","37,89222",,provided,2861071.79132367|1805413.62336984,37.89222,-6.62305
+AM_Osmiini_RL_3086,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2015,6,13,13.6.2015,,Spain,"-6,62305","37,89222",,provided,2861071.79132367|1805413.62336984,37.89222,-6.62305
+AM_Osmiini_RL_3087,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2015,6,19,19.6.2015,,Spain,"-6,36888","37,28472",,provided,2870246.24067271|1734696.39171684,37.28472,-6.36888
+AM_Osmiini_RL_3079,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,6,14,14.6.2016,,Spain,"-4,45666","36,66666",,provided,3025925.61978861|1633275.70294569,36.66666,-4.45666
+AM_Osmiini_RL_3080,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,5,,2016,6,14,14.6.2016,,Spain,"-4,45666","36,66666",,provided,3025925.61978861|1633275.70294569,36.66666,-4.45666
+AM_Osmiini_RL_3074,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2016,6,17,17.6.2016,,Spain,"-4,26833","36,99305",,provided,3048495.19984577|1665620.76349464,36.99305,-4.26833
+AM_Osmiini_RL_3078,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2016,6,7,7.6.2016,,Spain,"-4,45666","36,66666",,provided,3025925.61978861|1633275.70294569,36.66666,-4.45666
+AM_Osmiini_RL_3081,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,3,,2016,6,7,7.6.2016,,Spain,"-4,45666","36,66666",,provided,3025925.61978861|1633275.70294569,36.66666,-4.45666
+AM_Osmiini_RL_3082,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,2,2.6.2017,,Spain,"-6,36888","37,28472",,provided,2870246.24067271|1734696.39171684,37.28472,-6.36888
+AM_Osmiini_RL_3091,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2017,6,6,6.6.2017,,Spain,"-5,18055","36,835",,provided,2965248.42983863|1664091.16403103,36.835,-5.18055
+AM_Osmiini_RL_3089,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2018,5,30,30.5.2018,,Spain,"-2,22444","36,98778",,provided,3228812.51189386|1633505.76968834,36.98778,-2.22444
+AM_Osmiini_RL_3090,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2018,6,2,2.6.2018,,Spain,"-2,235","36,98555",,provided,3227843.24999509|1633412.91291997,36.98555,-2.235
+ADD_BDT_469,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,Achillea ageratum,2019,7,17,,,Spain,"-3,972272","40,651068",,provided,3141292.32625054|2059590.32485379,40.651068,-3.972272
+IB_bees_ES_RL_62839,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,Achillea ageratum,2019,7,17,17-07-2019;17-07-2019,2019,Spain,"-3,972","40,651",1000,provided,3141313.72584103|2059578.65525358,40.651,-3.972
+PR_Megachilidae_RL_37792,BDFGM_Megachilidae_2023,John Macaroni,Heriades rubicola,F,1,,2019,7,17,20190717,2019,Spain,"-3,972","40,651",,provided,3141313.72584103|2059578.65525358,40.651,-3.972
+ADD_BDT_470,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2021,6,7,,,Spain,"-3,524244","37,160314",,provided,3116945.31653767|1671799.38508924,37.160314,-3.524244
+AM_Osmiini_RL_3104,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2021,6,7,07/06/2021,,Spain,"-3,52424","37,16031",,provided,3116945.59942002|1671798.88639904,37.16031,-3.52424
+ADD_BDT_472,ADD_PULSE_2024,John Macaroni,Heriades rubicola,M,1,,2021,7,11,,,Spain,"-3,204293","40,32153",,provided,3199560.15909357|2011907.85300537,40.32153,-3.204293
+AM_Osmiini_RL_3106,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,M,1,,2021,7,11,11/07/2021,,Spain,"-3,20429","40,32153",,provided,3199560.41096459|2011907.80857044,40.32153,-3.20429
+ADD_BDT_471,ADD_PULSE_2024,John Macaroni,Heriades rubicola,F,1,,2021,7,4,,,Spain,"-3,361505","37,237742",,provided,3132589.52433359|1677693.5485618,37.237742,-3.361505
+AM_Osmiini_RL_3105,MullerA_Osmiini_2023,John Macaroni,Heriades rubicola,F,1,,2021,7,4,04/07/2021,,Spain,"-3,3615","37,23774",,provided,3132589.92981591|1677693.25297484,37.23774,-3.3615
+ADD_BDT_1587,ADD_PULSE_2024,John Macaroni,Heriades rubicola,,1,,,,,,,Spain,"-2,702233","42,887291",,not_provided,3285859.38434851|2285557.32417086,42.887291,-2.702233
+IB_bees_ES_RL_62581,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,,,,20/08/1988,,Spain,"-5,371","40,14",,provided,3014489.36677638|2026851.82588615,40.14,-5.371
+IB_bees_ES_RL_62582,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,F,1,,,,,20/08/1988,,Spain,"-5,371","40,14",,provided,3014489.36677638|2026851.82588615,40.14,-5.371
+IB_bees_ES_RL_62583,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,,,,20/08/1988,,Spain,"-5,173","40,171",,provided,3031687.19167025|2026831.88401769,40.171,-5.173
+IB_bees_ES_RL_62584,BartomeusI_Iberia_2023,John Macaroni,Heriades rubicola,M,1,,,,,20/08/1988,,Spain,"-5,464","40,12",,provided,3006297.94973749|2026285.09393508,40.12,-5.464
+GBIF_bees_SZ_RL_164151,GBIF_Switzerlands_2023,John Macaroni,Heriades rubicola,F,1,,2019,8,14,20190814,,Switzerland,"7,6047","47,5581",3535,provided,4140644.51445152|2718972.30577062,47.5581,7.6047
+GBIF_bees_SZ_RL_5965,GBIF_Switzerlands_2023,John Macaroni,Heriades rubicola,F,1,,2019,8,14,20190814,,Switzerland,"7,6047","47,5581",3535,provided,4140644.51445152|2718972.30577062,47.5581,7.6047
+GBIF_bees_SZ_RL_38530,GBIF_Switzerlands_2023,John Macaroni,Heriades rubicola,F,1,,2020,8,19,20200819,,Switzerland,"8,95216","45,88392",3535,provided,4239557.84545548|2530696.4635491,45.88392,8.95216
+GBIF_bees_SZ_RL_123045,GBIF_Switzerlands_2023,John Macaroni,Heriades rubicola,F,1,,2020,8,5,20200805,,Switzerland,"8,95216","45,88392",3535,provided,4239557.84545548|2530696.4635491,45.88392,8.95216
+GBIF_bees_SZ_RL_233177,GBIF_Switzerlands_2023,John Macaroni,Heriades rubicola,F,1,,2020,9,17,20200917,,Switzerland,"8,95216","45,88392",3535,provided,4239557.84545548|2530696.4635491,45.88392,8.95216
+GBIF_bees_SZ_RL_11553,GBIF_Switzerlands_2023,John Macaroni,Heriades rubicola,F,1,,2021,8,30,20210830,,Switzerland,"7,6047","47,5581",3535,provided,4140644.51445152|2718972.30577062,47.5581,7.6047
+ULB_RL_1214508,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2006,7,26,20060726,,U.K. of Great Britain and Northern Ireland,"-2,27060644354759","50,7362978485564",1000,provided,3459403.18974354|3141887.55397768,50.7362978485564,-2.27060644354759
+ULB_RL_1214509,MarshallL_ULBSTEPPlus_2023,John Macaroni,Heriades rubicola,,1,,2016,8,6,20160806,,U.K. of Great Britain and Northern Ireland,"5,55006540690118e-05","51,4748930480818",1000,provided,3628724.22751684|3199094.46378139,51.4748930480818,5.55006540690118e-05
+RU2_LIT_bees_RL_4220,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,1,,1936,8,16,19360816,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1649,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,1,,1939,8,16,19390816,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1654,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,2,,1998,7,10,19980710;19980705,1998,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4225,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,2,,1998,7,10,19980710;19980705,1998,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1653,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2004,7,13,20040713,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4224,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2004,7,13,20040713,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1646,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2005,7,12,20050712,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4217,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2005,7,12,20050712,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1647,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,3,,2005,7,14,20050714,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4218,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,3,,2005,7,14,20050714,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1650,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2008,7,1,20080701,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4221,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2008,8,16,20080816,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1648,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2010,7,12,20100712,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4219,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2010,7,12,20100712,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1644,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,3,,2011,8,29,20110829,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1645,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,1,,2011,8,29,20110829,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4215,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,3,,2011,8,29,20110829,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4216,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,1,,2011,8,29,20110829,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1651,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2016,7,24,20160724,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_1652,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,4,,2016,7,24,20160724,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4222,Russia2_literature_2023,John Macaroni,Heriades rubicola,F,1,,2016,7,24,20160724,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333
+RU2_LIT_bees_RL_4223,Russia2_literature_2023,John Macaroni,Heriades rubicola,M,4,,2016,7,24,20160724,,Ukraine,"34,58333333","45,33333333",,provided,6211179.40133981|2785282.90948633,45.33333333,34.58333333

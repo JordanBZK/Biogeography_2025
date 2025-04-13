@@ -1,0 +1,303 @@
+# Library ----
+# Load required libraries from an external script
+source("./library.R", echo = FALSE)
+
+# Import ----
+source('install_packages.R')
+source("./scripts/function.R", echo = FALSE)
+
+# Load the dataset from the CSV file with proper encoding and delimiters
+my_dataset <- "Bombus_alpinus.csv"
+my_dataset <- "Megachile_sculpturalis.csv"
+
+df <- fread(paste0("./data/dataset/", my_dataset), header = TRUE, 
+            sep = ",", dec = ".", strip.white = FALSE, encoding = "Latin-1")
+
+# Create a backup of the original dataset
+df0 <- df
+
+
+# Overview ----
+## Summary ----
+# Summary of each field of the dataset
+view(dfSummary(df))
+
+## Missing data ----
+# Visualizing missing data
+visdat::vis_dat(df)
+
+# Show the number of missing values (value = "") in each column
+# NA means missing values
+# >0 means the number of missing values 
+# NA is different from 0
+(empty_values <- apply(df, 2, function(x) sum(x == "")))
+
+# Show the number of missing values (value = NA) in each column
+(NA_values <- apply(df, 2, function(x) sum(is.na(x))))
+
+
+# Metadata ----
+# Identify file names associated with missing metadata values
+(datasetNames <- df %>% filter(is.na(datasetName))     %>% pull(datasetName) %>%  unique() )
+(datasetNames <- df %>% filter(is.na(datasetProvider)) %>% pull(datasetName) %>%  unique() )
+(datasetNames <- df %>% filter(is.na(occurrenceID))    %>% pull(datasetName) %>%  unique() )
+
+# Display frequency tables including missing values
+table(df$datasetName,      useNA = "always")
+table(df$datasetProvider,  useNA = "always")
+
+# Specimen data ----
+## scientificName ----
+# Check for missing values in scientificName fields
+(sum(is.na(df$scientificName)))
+
+## occurrenceID ----
+### occurrenceID NA ----
+# It is essential that the dataset has no duplicates, as the following codes may not work as expected
+# Check for missing occurrenceID values
+(sum(is.na(df$occurrenceID)) )
+# Identify file names with missing occurrenceID values
+(datasetNames <- df %>% filter(is.na(occurrenceID)) %>% pull(datasetName) )
+
+### occurrenceID duplicated ----
+# Identify duplicated occurrenceID values (both first and subsequent occurrences)
+duplicates <- duplicated(df$occurrenceID) | duplicated(df$occurrenceID, fromLast = TRUE) # first and next occurence of duplicated values
+
+# Extract duplicated values along with their file names
+duplicated_values <- df[duplicates, c("occurrenceID")] %>%  # extract from df the duplicated values and select two columns
+  arrange(occurrenceID) # Sort by occurrenceID
+
+# Display data entries with duplicated occurrenceIDs
+duplicated_values
+
+# List of unique files containing duplicated occurrenceIDs
+(unique(duplicated_values$datasetName)) # unique values of datasetName
+
+
+# Date ----
+## date type ----
+# Check if date contains any non-integer values (floats or strings)
+check_integers(df, startYear)
+
+check_integers(df, endYear)
+check_integers(df, endMonth)
+check_integers(df, endDay)
+
+
+## Year ----
+# histogram of the distribution of years
+# Change binwidth to your needs
+# binwidth = width of bar
+ggplot(df, aes(x = endYear)) +
+  geom_histogram(binwidth = 20, fill = "#CC99FF", color = "black", alpha = 0.7, na.rm = TRUE) + 
+  labs(title = "Distribution of Years", x = "Year", y = "Frequency") +
+  theme_minimal()
+
+# Check the minimum and maximum values
+min_threshold_year <- 1900
+max_threshold_year <- 2025
+check_value_range(df, c("startYear", "endYear"), 
+                  min_threshold = min_threshold_year, max_threshold = max_threshold_year)
+
+# Check extreme values of years
+year_check <- df %>%
+  filter(endYear < min_threshold_year | endYear > max_threshold_year) %>% # Check extreme values
+  select(occurrenceID, datasetName, endYear, endMonth, endDay) %>% 
+  arrange(desc(endYear))
+
+## Month ----
+# histogram of the distribution of months
+ggplot(df, aes(x = factor(endMonth))) +
+  geom_bar(fill = "#CCFF99", color = "black", alpha = 0.7) +
+  labs(title = "Distribution of Months", x = "Month", y = "Frequency") +
+  theme_minimal()
+
+# Check the minimum and maximum values
+min_threshold_month <- 1
+max_threshold_month <- 12
+check_value_range(df, c("endMonth"), 
+                  min_threshold = min_threshold_month, max_threshold = max_threshold_month)
+
+# Check extreme values of month
+month_check <- df %>%
+  filter(endMonth > max_threshold_month) %>% 
+  select(occurrenceID, datasetName, endYear, endMonth, endDay) %>% 
+  arrange(desc(endYear))
+
+## Day ----
+# histogram of the distribution of days
+ggplot(df, aes(x = factor(endDay))) +
+  geom_bar(fill = "#FFFF66", color = "black", alpha = 0.7) +
+  labs(title = "Distribution of Days", x = "Day", y = "Frequency") +
+  theme_minimal()
+
+# Check the minimum and maximum values
+min_threshold_day <- 1
+max_threshold_day <- 31
+check_value_range(df, c("endDay"), 
+                  min_threshold = min_threshold_day, max_threshold = max_threshold_day)
+
+
+
+
+# Coordinate ----
+## Coordinate NA ----
+(sum(is.na(df$decimalLatitude)) )
+(sum(is.na(df$decimalLongitude)) )
+
+
+### Convert to numeric ----
+### This step ensures that coordinate values are numeric before spatial data processing.
+### It helps detect incorrect formatting, such as commas (",") instead of decimal points ("."), 
+### which could cause issues during data wrangling.
+
+#### Detect values lost after conversion ----
+# Count the number of NA values in decimalLatitude and decimalLongitude before conversion
+na_before_latitude <- sum(is.na(df$decimalLatitude))
+na_before_longitude <- sum(is.na(df$decimalLongitude))
+
+# Convert coordinates to numeric
+df2 <- df %>%
+  mutate(
+    decimalLatitude = as.numeric(decimalLatitude),
+    decimalLongitude = as.numeric(decimalLongitude)
+  )
+
+# Count the number of NA values after conversion
+na_after_latitude <- sum(is.na(df2$decimalLatitude))
+na_after_longitude <- sum(is.na(df2$decimalLongitude))
+
+# Calculate how many values were transformed into NA due to conversion issues
+na_converted_latitude <- na_after_latitude - na_before_latitude
+na_converted_longitude <- na_after_longitude - na_before_longitude
+
+# Display the number of values lost during conversion
+cat("Number of values transformed into NA for LATITUDE: ", na_converted_latitude, "\n")
+cat("Number of values transformed into NA for LONGITUDE: ", na_converted_longitude, "\n")
+
+# Check if there are incorrect characters
+df_no_numerique <- df[!grepl("^[0-9.]+$", df$decimalLatitude), ]
+table(df_no_numerique$decimalLatitude)
+
+
+#### conversion ----
+# Convert the decimal separator “,” to “.”
+# Save occurrenceID before conversion
+occurrenceID_before <- df %>%
+  filter(is.na(decimalLatitude) | is.na(decimalLongitude)) %>%
+  select(occurrenceID) %>% 
+  as.data.frame()
+
+# Execute the code below when you are sure you will not lose information
+# Convert columns to numeric
+df <- df %>%
+  mutate(
+    decimalLatitude = gsub(",", ".", decimalLatitude), # Replace commas with dots (if not we get NA values)
+    decimalLongitude = gsub(",", ".",decimalLongitude),
+    decimalLatitude = as.numeric(decimalLatitude), # as.numeric() ignore float numbers with commas
+    decimalLongitude = as.numeric(decimalLongitude)
+  )
+
+# NA values after conversion
+occurrenceID_after <- df %>%
+  filter(is.na(decimalLatitude) | is.na(decimalLongitude)) %>%
+  select(occurrenceID) %>% 
+  as.data.frame()
+
+# Check occurrenceID, if data were lost
+occurrenceID_diff <- anti_join(occurrenceID_after, occurrenceID_before, by = "occurrenceID")
+occurrenceID_diff
+
+# Create a new dataframe with the occurrenceIDs that have been lost
+df_occurrenceID_diff <- df[df$occurrenceID %in% occurrenceID_diff$occurrenceID, ]
+# Show the DB names of the lost occurrenceIDs
+unique(df_occurrenceID_diff$datasetName)
+
+
+## Overview of coordinate ----
+# This code visualizes the distribution of the coordinates
+# Vline show the limits of the study scope
+
+### latitude plot ----
+# Create a dataframe counting occurrences of each unique latitude
+latitude_distribution <- as.data.frame(table(df$decimalLatitude))
+colnames(latitude_distribution) <- c("decimalLatitude", "Frequency")
+
+# Latitude distribution plot
+ggplot(latitude_distribution, aes(x = as.numeric(as.character(decimalLatitude)), y = Frequency)) +
+  geom_bar(stat = "identity", fill = "lightcoral", color = "lightcoral") +
+  # Add vertical lines to show study area boundaries
+  # 81°N corresponds to Svalbard and Jan Mayen Islands
+  # 14°N corresponds to Cape Verde
+  geom_vline(xintercept = c(14, 81), color = "red", linetype = "dashed", size = 1) + 
+  theme_minimal() +
+  labs(title = "Latitude distribution", x = "Latitude", y = "Frequency") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+# Check the minimum and maximum values
+min_threshold_latitude <- -90
+max_threshold_latitude <- 90
+check_value_range(df, c("decimalLatitude"), 
+                  min_threshold = min_threshold_latitude, max_threshold = max_threshold_latitude)
+
+### longitude plot ----
+# Create a dataframe counting occurrences of each unique longitude
+longitude_distribution <- as.data.frame(table(df$decimalLongitude))
+colnames(longitude_distribution) <- c("decimalLongitude", "Frequency")
+
+# Longitude distribution plot
+ggplot(longitude_distribution, aes(x = as.numeric(as.character(decimalLongitude)), y = Frequency)) +
+  geom_bar(stat = "identity", fill = "#97DEF0", color = "#97DEF0") +
+  # Add vertical lines to show study area boundaries
+  # -32° corresponds to the Azores
+  # 70° corresponds to Arkhangelsk Oblast
+  geom_vline(xintercept = c(-32, 70), color = "blue", linetype = "dashed", size = 1) + 
+  theme_minimal() +
+  labs(title = "Longitude distribution", x = "Longitude", y = "Frequency") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+# Check the minimum and maximum values
+min_threshold_longitude <- -180
+max_threshold_longitude <- 180
+check_value_range(df, c("decimalLongitude"), 
+                  min_threshold = min_threshold_longitude, max_threshold = max_threshold_longitude)
+
+
+# Coordinates provided ----
+(sum(is.na(df$manualGeoreferencing)) )
+cat("Percentage of NA (manualGeoreferencing):\n", sum(is.na(df$manualGeoreferencing))/ nrow(df)*100, "% \n")
+table(df$manualGeoreferencing, useNA = "always")
+
+
+
+# Country ----
+# Frequencies of countries
+country <- as.data.frame(table(df$country)) %>%
+  rename(country = Var1, FREQUENCY = Freq) %>%
+  arrange(desc(FREQUENCY), country)
+
+# Reorder the factor levels of country based on FREQUENCY
+country$country <- factor(country$country, levels = country$country)
+
+# plot
+ggplot(country, aes(x = country, y = FREQUENCY, fill = country)) +
+  geom_bar(stat = "identity") +  # Use frequencies as values for bar heights
+  labs(title = "Number of rows per country",  # Title of the plot
+       x = "Country",  # X-axis label
+       y = "Number of rows") +  # Y-axis label
+  geom_text(aes(label = FREQUENCY), vjust = -0.5, color = "black", size = 3) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "none")
+
+# Export ----
+# Check if rows were deleted
+nrow(df0) - nrow(df)
+
+# Export with fwrite
+# fwrite(df, paste0("./output/.....", Sys.Date(), ".csv"),
+#        sep = ";", dec = ".", row.names = FALSE)
+
+# Remove objects from memory
+rm(list = ls())
+gc()

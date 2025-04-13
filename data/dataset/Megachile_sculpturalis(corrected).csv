@@ -1,0 +1,172 @@
+occurrenceID,datasetName,datasetProvider,scientificName,sex,individualCountEnd,plantScientificName,endYear,endMonth,endDay,verbatimEventDate,startYear,country,decimalLatitude,decimalLongitude,coordinateUncertaintyInMetersEnd,manualGeoreferencing,geometry
+PR_Megachilidae_RL_79621,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,1,,2008,7,2,2008/7/2;2008/7/2,2008,France,43.33333,5.48333,,provided,3953965.45259384|2258284.99089033
+PR_Megachilidae_RL_79622,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,1,,2008,7,2,2008/7/2;2008/7/2,2008,France,43.33333,5.48333,,provided,3953965.45259384|2258284.99089033
+ULB_RL_1424243,MarshallL_ULBSTEPPlus_2023,ULB,Megachile sculpturalis,,2,,2008,,,2008/NA/NA;NA/NA/NA,,France,43.33333,5.48333,,provided,3953965.45259384|2258284.99089033
+ADDm_MA_404,ADD_PULSE_2024,MA Colln.,Megachile sculpturalis,F,1,,2013,7,18,NA;NA,,France,43.297,5.575,,provided,3961182.0985883|2253821.43684712
+PR_Megachilidae_RL_79658,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,1,,2016,7,10,2016/7/10;2016/7/10,2016,France,43.30778,6.309166,,provided,4020875.78033397|2251789.52500379
+UNIPD_bee_RL_4261,CappellariA_Italy_2023,Andree Cappellari & Daria Corcos & Lorenzo Marini,Megachile sculpturalis,,1,Carduus personata,2018,7,13,2018/07/13;NA,,Italy,46.202528,11.664278,50,provided,4449587.40741467|2566932.31710959
+SURMZ_bees_RL_6765,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,M,1,Carduus personata,2018,7,17,2018/7/17;2018/7/10,2018,Italy,46.202528,11.664278,100,provided,4449587.40741467|2566932.31710959
+PR_Megachilidae_RL_79648,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,3,,2018,8,20,2018/8/20;2018/8/20,2018,Italy,41.92981,12.50228,,provided,4529264.09570188|2095281.17157274
+SURMZ_bees_RL_6769,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,3,,2018,8,20,2018/8/20;NA/NA/NA,,Italy,41.929815,12.502277,100,provided,4529263.82907056|2095281.71639959
+UNIPD_bee_RL_4260,CappellariA_Italy_2023,Andree Cappellari & Lorenzo Marini,Megachile sculpturalis,,7,Buddleja davidii,2019,7,9,2019/07/09;NA,,Italy,45.649502,11.7196,50,provided,4455220.73732473|2505652.79813274
+PR_Megachilidae_RL_79643,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,5,,2020,7,10,2020/7/10;2020/7/10,2020,Italy,41.91456,12.48916,,provided,4528224.28278986|2093558.11693558
+PR_Megachilidae_RL_79644,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,7,,2020,7,10,2020/7/10;2020/7/10,2020,Italy,41.91456,12.48916,,provided,4528224.28278986|2093558.11693558
+SURMZ_bees_RL_6773,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,5,,2020,7,10,2020/7/10;NA/NA/NA,,Italy,41.914559,12.489164,100,provided,4528224.6190466|2093558.01729457
+SURMZ_bees_RL_6774,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,M,7,,2020,7,10,2020/7/10;NA/NA/NA,,Italy,41.914559,12.489164,100,provided,4528224.6190466|2093558.01729457
+PR_Megachilidae_RL_79641,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,3,,2020,7,8,2020/7/8;2020/7/8,2020,Italy,41.91456,12.48916,,provided,4528224.28278986|2093558.11693558
+PR_Megachilidae_RL_79642,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,6,,2020,7,8,2020/7/8;2020/7/8,2020,Italy,41.91456,12.48916,,provided,4528224.28278986|2093558.11693558
+SURMZ_bees_RL_6771,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,3,,2020,7,8,2020/7/8;NA/NA/NA,,Italy,41.914559,12.489164,100,provided,4528224.6190466|2093558.01729457
+SURMZ_bees_RL_6772,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,M,6,,2020,7,8,2020/7/8;NA/NA/NA,,Italy,41.914559,12.489164,100,provided,4528224.6190466|2093558.01729457
+PR_Megachilidae_RL_79649,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,2,,2020,8,8,2020/8/8;2020/8/8,2020,Italy,41.92981,12.50228,,provided,4529264.09570188|2095281.17157274
+SURMZ_bees_RL_6770,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,2,,2020,8,8,2020/8/8;NA/NA/NA,,Italy,41.929815,12.502277,100,provided,4529263.82907056|2095281.71639959
+PR_Megachilidae_RL_79645,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,1,,2021,6,29,2021/6/29;2021/6/29,2021,Italy,41.91456,12.48916,,provided,4528224.28278986|2093558.11693558
+PR_Megachilidae_RL_79646,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,7,,2021,6,29,2021/6/29;2021/6/29,2021,Italy,41.91456,12.48916,,provided,4528224.28278986|2093558.11693558
+SURMZ_bees_RL_6775,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,1,,2021,6,29,2021/6/29;NA/NA/NA,,Italy,41.914559,12.489164,100,provided,4528224.6190466|2093558.01729457
+SURMZ_bees_RL_6776,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,M,7,,2021,6,29,2021/6/29;NA/NA/NA,,Italy,41.914559,12.489164,100,provided,4528224.6190466|2093558.01729457
+MS_bees_IT_RL_1866,SelisM_Italy_2023,Marco Selis,Megachile sculpturalis,M,1,,2021,7,26,2021/7/26;NA/NA/NA,,Italy,42.3338,12.1518,500,provided,4498916.03026872|2139084.46392436
+PR_Megachilidae_RL_79656,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,1,,2021,7,26,2021/7/26;2021/7/26,2021,Italy,42.3338,12.1518,,provided,4498916.03026872|2139084.46392436
+MS_bees_IT_RL_1867,SelisM_Italy_2023,Marco Selis,Megachile sculpturalis,M,1,,2021,7,28,2021/7/28;NA/NA/NA,,Italy,42.4724,13.0095,500,provided,4569224.49451359|2156847.58346306
+PR_Megachilidae_RL_79657,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,1,,2021,7,28,2021/7/28;2021/7/28,2021,Italy,42.4724,13.0095,,provided,4569224.49451359|2156847.58346306
+SURMZ_bees_RL_6766,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,4,,2021,7,3,2021/7/3;2021/6/28,2021,Italy,41.902198,12.582673,100,provided,4536049.41346851|2092452.16458725
+SURMZ_bees_RL_6767,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,M,11,,2021,7,3,2021/7/3;2021/6/28,2021,Italy,41.902198,12.582673,100,provided,4536049.41346851|2092452.16458725
+PR_Megachilidae_RL_79640,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,2,,2022,6,19,2022/6/19;2022/6/19,2022,Italy,41.9022,12.58267,,provided,4536049.15674535|2092452.37727246
+SURMZ_bees_RL_6768,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,2,,2022,6,19,2022/6/19;NA/NA/NA,,Italy,41.902198,12.582673,100,provided,4536049.41346851|2092452.16458725
+PR_Megachilidae_RL_79647,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,3,,2022,7,21,2022/7/21;2022/7/21,2022,Italy,41.91456,12.48916,,provided,4528224.28278986|2093558.11693558
+SURMZ_bees_RL_6777,MeiM_Sapienza_2023,Maurizio Mei,Megachile sculpturalis,F,3,,2022,7,21,2022/7/21;NA/NA/NA,,Italy,41.914559,12.489164,100,provided,4528224.6190466|2093558.01729457
+PR_Megachilidae_RL_79638,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,4,,,,,NA/NA/NA;NA/NA/NA,,Italy,41.9022,12.58267,,provided,4536049.15674535|2092452.37727246
+PR_Megachilidae_RL_79639,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,11,,,,,NA/NA/NA;NA/NA/NA,,Italy,41.9022,12.58267,,provided,4536049.15674535|2092452.37727246
+SM_bees_SR_RL_621,StojnicS_Serbia_2023,Sonja Stojnic,Megachile sculpturalis,M,1,,2017,,,2017/NA/NA;NA/NA/NA,,Serbia,44.80461,20.48321,500,provided,5148791.82067401|2468573.06059094
+SM_bees_SR_RL_622,StojnicS_Serbia_2023,Sonja Stojnic,Megachile sculpturalis,F,1,,2019,7,20,2019/7/20;NA/NA/NA,,Serbia,45.36797,19.53803,500,provided,5067046.67149346|2520668.2344212
+SM_bees_SR_RL_623,StojnicS_Serbia_2023,Sonja Stojnic,Megachile sculpturalis,M,1,,2019,7,20,2019/7/20;NA/NA/NA,,Serbia,45.36797,19.53803,500,provided,5067046.67149346|2520668.2344212
+ADDm_AG_402,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,F,1,,2016,8,11,NA;NA,,Slovenia,46.41157,13.724182,,provided,4607514.26678341|2595885.08320539
+ADDm_AG_408,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,F,1,,2018,7,25,NA;NA,,Slovenia,46.065431,14.504062,,provided,4669673.13189026|2560830.99885597
+ADDm_AG_409,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,M,1,,2018,7,25,NA;NA,,Slovenia,46.065431,14.504062,,provided,4669673.13189026|2560830.99885597
+ADDm_AG_410,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,M,1,,2018,7,25,NA;NA,,Slovenia,46.065431,14.504062,,provided,4669673.13189026|2560830.99885597
+ADDm_AG_403,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,F,1,Styphnolobium japonicum,2018,7,31,NA;NA,,Slovenia,45.954908,13.649479,,provided,4604162.21038237|2544947.07637243
+ADDm_AG_404,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,F,1,Styphnolobium japonicum,2018,7,31,NA;NA,,Slovenia,45.954908,13.649479,,provided,4604162.21038237|2544947.07637243
+ADDm_AG_405,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,M,1,Styphnolobium japonicum,2018,7,31,NA;NA,,Slovenia,45.954908,13.649479,,provided,4604162.21038237|2544947.07637243
+ADDm_AG_406,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,M,1,Styphnolobium japonicum,2018,7,31,NA;NA,,Slovenia,45.954908,13.649479,,provided,4604162.21038237|2544947.07637243
+ADDm_AG_407,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,M,1,Styphnolobium japonicum,2018,7,31,NA;NA,,Slovenia,45.954908,13.649479,,provided,4604162.21038237|2544947.07637243
+ADDm_AG_411,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,F,1,Lavandula sp.,2019,7,,NA;NA,,Slovenia,46.252597,13.597897,,provided,4598629.139133|2577771.14989452
+ADDm_AG_412,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,,1,,2020,4,9,NA;NA,,Slovenia,46.169394,14.68425,,provided,4682903.70435959|2573216.60402619
+ADDm_AG_413,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,,1,,2020,4,9,NA;NA,,Slovenia,46.169394,14.68425,,provided,4682903.70435959|2573216.60402619
+ADDm_AG_414,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,,1,,2020,4,9,NA;NA,,Slovenia,46.169394,14.68425,,provided,4682903.70435959|2573216.60402619
+ADDm_AG_415,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,,1,,2020,4,9,NA;NA,,Slovenia,46.169394,14.68425,,provided,4682903.70435959|2573216.60402619
+ADDm_AG_416,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,,1,,2020,4,9,NA;NA,,Slovenia,46.169394,14.68425,,provided,4682903.70435959|2573216.60402619
+ADDm_AG_417,ADD_PULSE_2024,AG Colln.,Megachile sculpturalis,,1,,2020,4,9,NA;NA,,Slovenia,46.169394,14.68425,,provided,4682903.70435959|2573216.60402619
+ADDm_FO_337,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,F,1,Parkinsonia aculeata,2020,6,28,NA;NA,,Spain,39.409509,3.254009,,provided,3737480.21025986|1839129.37587476
+ADDm_FO_338,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,M,1,Parkinsonia aculeata,2020,7,11,NA;NA,,Spain,39.409509,3.254009,,provided,3737480.21025986|1839129.37587476
+ADDm_FO_339,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,M,1,Parkinsonia aculeata,2020,7,11,NA;NA,,Spain,39.409509,3.254009,,provided,3737480.21025986|1839129.37587476
+ADDm_FO_340,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,M,1,Parkinsonia aculeata,2020,7,12,NA;NA,,Spain,39.409509,3.254009,,provided,3737480.21025986|1839129.37587476
+ADDm_FO_341,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,M,1,Parkinsonia aculeata,2020,7,12,NA;NA,,Spain,39.409509,3.254009,,provided,3737480.21025986|1839129.37587476
+ADDm_FO_342,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,F,1,Styphnolobium japonicum,2020,7,21,NA;NA,,Spain,39.573596,2.613409,,provided,3683855.9117193|1862326.44739339
+ADDm_FO_343,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,F,1,Styphnolobium japonicum,2020,7,21,NA;NA,,Spain,39.573596,2.613409,,provided,3683855.9117193|1862326.44739339
+ADDm_FO_344,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,M,1,Styphnolobium japonicum,2020,7,21,NA;NA,,Spain,39.573596,2.613409,,provided,3683855.9117193|1862326.44739339
+ADDm_FO_345,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,F,1,,2020,7,25,NA;NA,,Spain,39.851101,3.120609,,provided,3729992.55809419|1888778.17370007
+ADDm_FO_346,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,M,1,Parkinsonia aculeata,2020,7,25,NA;NA,,Spain,39.7338403,2.9246457,,provided,3712112.33562803|1877413.94912658
+ADDm_FO_347,ADD_PULSE_2024,Ribas-Marqués & Díaz-Calafat. 2020,Megachile sculpturalis,,1,Styphnolobium japonicum / Vitex agnus-castus,2020,8,5,NA;NA,,Spain,39.764349,2.709067,,provided,3693917.85095901|1882524.51753989
+PR_Megachilidae_RL_79650,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2018,7,16,2018/7/16;2018/7/16,2018,Spain,41.95,2.63,,provided,3708775.8510297|2123985.80211746
+PR_Megachilidae_RL_79651,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2018,7,16,2018/7/16;2018/7/16,2018,Spain,41.958,2.64,,provided,3709683.74675988|2124786.97032434
+PR_Megachilidae_RL_79652,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2018,7,17,2018/7/17;2018/7/17,2018,Spain,41.983,2.618,,provided,3708114.4261826|2127722.62996435
+ADDm_JB_563,ADD_PULSE_2024,ADD_PULSE_2024,Megachile sculpturalis,F,1,,2018,7,23,NA;NA,,Spain,41.680583,2.483464,,provided,3693895.3315035|2095482.29880923
+PR_Megachilidae_RL_79634,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2018,8,31,2018/8/31;2018/8/31,2018,Spain,41.861,2.664,,provided,3710701.47667546|2113895.3347481
+PR_Megachilidae_RL_79635,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,1,,2018,8,31,2018/8/31;2018/8/31,2018,Spain,41.861,2.664,,provided,3710701.47667546|2113895.3347481
+PR_Megachilidae_RL_79636,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2019,6,15,2019/6/15;2019/6/15,2019,Spain,41.861,2.664,,provided,3710701.47667546|2113895.3347481
+PR_Megachilidae_RL_79637,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,M,1,,2019,6,15,2019/6/15;2019/6/15,2019,Spain,41.861,2.664,,provided,3710701.47667546|2113895.3347481
+PR_Megachilidae_RL_79623,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2019,6,29,2019/6/29;2019/6/29,2019,Spain,41.371,2.162,,provided,3663895.9461832|2064095.32284327
+ADDm_FO_354,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,M,1,,2019,7,1,NA;NA,,Spain,41.565446,2.227884,,provided,3671442.66198119|2084951.92014941
+PR_Megachilidae_RL_79629,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2019,7,12,2019/7/12;2019/7/12,2019,Spain,41.652,2.383,,provided,3685250.19113186|2093171.58913249
+PR_Megachilidae_RL_79630,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2019,7,12,2019/7/12;2019/7/12,2019,Spain,41.652,2.383,,provided,3685250.19113186|2093171.58913249
+PR_Megachilidae_RL_79631,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2019,7,17,2019/7/17;2019/7/17,2019,Spain,41.663,2.526,,provided,3697252.61338359|2093191.53466428
+ADDm_FO_355,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2019,7,21,NA;NA,,Spain,42.183714,2.488314,,provided,3699443.86674138|2150920.53181713
+ADDm_FO_356,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2019,7,21,NA;NA,,Spain,42.183714,2.488314,,provided,3699443.86674138|2150920.53181713
+ADDm_FO_357,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2019,7,21,NA;NA,,Spain,42.183714,2.488314,,provided,3699443.86674138|2150920.53181713
+ADDm_FO_358,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2019,7,21,NA;NA,,Spain,42.183714,2.488314,,provided,3699443.86674138|2150920.53181713
+ADDm_FO_359,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2019,7,21,NA;NA,,Spain,42.183714,2.488314,,provided,3699443.86674138|2150920.53181713
+PR_Megachilidae_RL_79653,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2019,7,22,2019/7/22;2019/7/22,2019,Spain,42.022,2.824,,provided,3725539.5087812|2130373.98607307
+ADDm_FO_365,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,M,1,,2020,6,13,NA;NA,,Spain,41.672441,2.785441,,provided,3718920.9061329|2092126.54811405
+ADDm_FO_361,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2020,6,15,NA;NA,,Spain,41.672441,2.785441,,provided,3718920.9061329|2092126.54811405
+ADDm_FO_363,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2020,7,30,NA;NA,,Spain,41.986335,2.825901,,provided,3725348.02728278|2126424.83287468
+ADDm_FO_366,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,M,1,Origanum vulgare,2020,7,6,NA;NA,,Spain,41.912484,0.960251,,provided,3570291.5523308|2134939.82480345
+ADDm_FO_360,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,Vitex agnus-castus,2020,8,11,NA;NA,,Spain,41.98925,3.11011,,provided,3748896.83397821|2124546.37387868
+ADDm_FO_364,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,Clinopodium nepeta,2020,9,6,NA;NA,,Spain,41.978382,2.820119,,provided,3724791.80549226|2125593.25203317
+PR_Megachilidae_RL_79626,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,6,24,2021/6/24;2021/6/24,2021,Spain,41.402,2.142,,provided,3662555.41292734|2067684.95193888
+ADDm_FO_352,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,7,27,NA;NA,,Spain,41.593323,2.54352,,provided,3698004.71922705|2085365.50091905
+ADDm_FO_353,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,7,27,NA;NA,,Spain,41.593323,2.54352,,provided,3698004.71922705|2085365.50091905
+PR_Megachilidae_RL_79627,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,7,28,2021/7/28;2021/7/28,2021,Spain,41.486,2.072,,provided,3657615.18392177|2077552.35306896
+PR_Megachilidae_RL_79628,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,7,28,2021/7/28;2021/7/28,2021,Spain,41.486,2.072,,provided,3657615.18392177|2077552.35306896
+ADDm_FO_348,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,17,NA;NA,,Spain,41.495746,2.034642,,provided,3654607.38543215|2078954.95340163
+ADDm_FO_349,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,17,NA;NA,,Spain,41.495746,2.034642,,provided,3654607.38543215|2078954.95340163
+ADDm_FO_350,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,17,NA;NA,,Spain,41.495746,2.034642,,provided,3654607.38543215|2078954.95340163
+ADDm_FO_351,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,17,NA;NA,,Spain,41.495746,2.034642,,provided,3654607.38543215|2078954.95340163
+PR_Megachilidae_RL_79632,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,8,17,2021/8/17;2021/8/17,2021,Spain,41.859,2.662,,provided,3710515.72284573|2113690.95702128
+PR_Megachilidae_RL_79633,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,8,17,2021/8/17;2021/8/17,2021,Spain,41.859,2.662,,provided,3710515.72284573|2113690.95702128
+ADDm_FO_368,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,20,NA;NA,,Spain,42.828767,-1.590606,,provided,3374658.63219256|2264466.65638337
+ADDm_FO_369,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,20,NA;NA,,Spain,42.828767,-1.590606,,provided,3374658.63219256|2264466.65638337
+PR_Megachilidae_RL_79654,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,8,20,2021/8/20;2021/8/20,2021,Spain,42.231,1.204,,provided,3594248.09894663|2167624.23691058
+PR_Megachilidae_RL_79655,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,8,20,2021/8/20;2021/8/20,2021,Spain,42.231,1.204,,provided,3594248.09894663|2167624.23691058
+ADDm_FO_367,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,22,NA;NA,,Spain,42.929642,-1.244991,,provided,3404194.8988971|2271256.31256729
+ADDm_FO_370,ADD_PULSE_2024,Ortiz-Sánchez & Baquero 2021,Megachile sculpturalis,F,1,,2021,8,22,NA;NA,,Spain,42.828767,-1.590606,,provided,3374658.63219256|2264466.65638337
+PR_Megachilidae_RL_79624,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,,1,,2021,9,20,2021/9/20;2021/9/20,2021,Spain,41.386,2.182,,provided,3665724.42077655|2065574.38116156
+PR_Megachilidae_RL_79625,BDFGM_Megachilidae_2023,Pierre Rasmont,Megachile sculpturalis,F,1,,2021,9,20,2021/9/20;2021/9/20,2021,Spain,41.386,2.182,,provided,3665724.42077655|2065574.38116156
+IB_bees_ES_RL_53314,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,42.022,2.824,,provided,3725539.5087812|2130373.98607307
+IB_bees_ES_RL_76435,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.486,2.072,,provided,3657615.18392177|2077552.35306896
+IB_bees_ES_RL_76436,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.859,2.662,,provided,3710515.72284573|2113690.95702128
+IB_bees_ES_RL_76438,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,42.231,1.204,,provided,3594248.09894663|2167624.23691058
+IB_bees_ES_RL_76439,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,F,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.386,2.182,,provided,3665724.42077655|2065574.38116156
+IB_bees_ES_RL_76454,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,M,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.861,2.664,,provided,3710701.47667546|2113895.3347481
+IB_bees_ES_RL_76455,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.652,2.383,,provided,3685250.19113186|2093171.58913249
+IB_bees_ES_RL_76469,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.95,2.63,,provided,3708775.8510297|2123985.80211746
+IB_bees_ES_RL_76471,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,F,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.861,2.664,,provided,3710701.47667546|2113895.3347481
+IB_bees_ES_RL_77136,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.861,2.664,7,provided,3710701.47667546|2113895.3347481
+IB_bees_ES_RL_77141,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.486,2.072,6,provided,3657615.18392177|2077552.35306896
+IB_bees_ES_RL_77150,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.861,2.664,7,provided,3710701.47667546|2113895.3347481
+IB_bees_ES_RL_77153,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.983,2.618,11216,provided,3708114.4261826|2127722.62996435
+IB_bees_ES_RL_77168,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.371,2.162,65,provided,3663895.9461832|2064095.32284327
+IB_bees_ES_RL_77169,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.402,2.142,14,provided,3662555.41292734|2067684.95193888
+IB_bees_ES_RL_77170,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,42.231,1.204,185,provided,3594248.09894663|2167624.23691058
+IB_bees_ES_RL_77173,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.958,2.64,12000,provided,3709683.74675988|2124786.97032434
+IB_bees_ES_RL_77180,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.652,2.383,20,provided,3685250.19113186|2093171.58913249
+IB_bees_ES_RL_77182,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.859,2.662,,provided,3710515.72284573|2113690.95702128
+IB_bees_ES_RL_77187,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.663,2.526,5,provided,3697252.61338359|2093191.53466428
+IB_bees_ES_RL_77189,BartomeusI_Iberia_2023,Ignasi Bartomeus,Megachile sculpturalis,,1,,,,,NA/NA/NA;NA/NA/NA,,Spain,41.386,2.182,1115,provided,3665724.42077655|2065574.38116156
+GBIF_bees_SZ_RL_44455,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,M,1,,2010,7,27,2010/7/27;NA/NA/NA,,Switzerland,46.14764,8.72648,10000,provided,4222499.66426655|2560242.84245818
+GBIF_bees_SZ_RL_382028,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2012,7,1,2012/7/1;NA/NA/NA,,Switzerland,46.11121,8.76442,3535,provided,4225369.30063555|2556149.31243438
+GBIF_bees_SZ_RL_355373,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2014,7,18,2014/7/18;NA/NA/NA,,Switzerland,45.97386,8.95465,3535,provided,4239885.81186639|2540676.92988115
+GBIF_bees_SZ_RL_67026,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2015,7,12,2015/7/12;NA/NA/NA,,Switzerland,46.87719,8.6521,3535,provided,4218163.18102682|2641346.8553489
+GBIF_bees_SZ_RL_93286,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2015,7,12,2015/7/12;NA/NA/NA,,Switzerland,47.37317,8.53098,3535,provided,4209980.10822706|2696608.61669588
+GBIF_bees_SZ_RL_139314,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2016,8,10,2016/8/10;NA/NA/NA,,Switzerland,46.11821,7.01824,3535,provided,4090307.84206951|2560756.37677109
+GBIFCH_00265778,ADD_PULSE_2024,Thulier Joffrey & Bastien De Tandt & Shawn Lemaire,Megachile sculpturalis,F,1,,2016,8,28,,,Switzerland,46.177494,7.191479,,provided,4103942.13649924|2566812.86359085
+GBIF_bees_SZ_RL_27331,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2018,6,25,2018/6/25;NA/NA/NA,,Switzerland,46.74846,7.66765,3535,provided,4142644.05721216|2628917.77191799
+GBIF_bees_SZ_RL_251881,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2018,6,28,2018/6/28;NA/NA/NA,,Switzerland,46.47747,6.88523,3535,provided,4081630.70166294|2601039.93695581
+GBIF_bees_SZ_RL_408668,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2018,7,10,2018/7/10;NA/NA/NA,,Switzerland,46.20113,6.11068,3535,provided,4020618.80569584|2573195.33925376
+GBIF_bees_SZ_RL_239348,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2018,7,12,2018/7/12;NA/NA/NA,,Switzerland,46.52087,6.62414,3535,provided,4061792.04049113|2606731.86771536
+GBIF_bees_SZ_RL_409774,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2018,7,9,2018/7/9;NA/NA/NA,,Switzerland,46.1554,8.83023,3535,provided,4230536.42777244|2560972.50216676
+GBIF_bees_SZ_RL_4909,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2018,8,7,2018/8/7;NA/NA/NA,,Switzerland,46.74846,7.66765,3535,provided,4142644.05721216|2628917.77191799
+GBIF_bees_SZ_RL_150712,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2019,6,28,2019/6/28;NA/NA/NA,,Switzerland,45.97471,8.89015,3535,provided,4234882.67961058|2540843.73888785
+GBIF_bees_SZ_RL_119861,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2019,7,28,2019/7/28;NA/NA/NA,,Switzerland,46.33361,8.96468,3535,provided,4241198.04682621|2580603.2008715
+GBIF_bees_SZ_RL_143283,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,M,1,,2019,7,28,2019/7/28;NA/NA/NA,,Switzerland,45.92889,8.9534,3535,provided,4239721.50282449|2535686.63113249
+GBIF_bees_SZ_RL_377818,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2019,7,28,2019/7/28;NA/NA/NA,,Switzerland,45.92889,8.9534,3535,provided,4239721.50282449|2535686.63113249
+GBIF_bees_SZ_RL_184581,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,M,1,,2019,7,30,2019/7/30;NA/NA/NA,,Switzerland,46.78147,9.10834,3535,provided,4252845.86695517|2630190.95430888
+GBIF_bees_SZ_RL_438576,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,M,1,,2019,7,6,2019/7/6;NA/NA/NA,,Switzerland,46.20035,6.04591,3535,provided,4015617.38822574|2573372.66755911
+GBIFCH_00132640,ADD_PULSE_2024,Thulier Joffrey & Bastien De Tandt & Shawn Lemaire,Megachile sculpturalis,F,1,,2019,7,8,,,Switzerland,46.842983,6.686339,,provided,4068103.6298409|2642261.45086553
+GBIF_bees_SZ_RL_398670,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2019,7,8,2019/7/8;NA/NA/NA,,Switzerland,46.83615,6.68491,3535,provided,4067961.92333366|2641508.00570686
+GBIF_bees_SZ_RL_28587,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2019,7,9,2019/7/9;NA/NA/NA,,Switzerland,47.42034,8.26689,3535,provided,4190144.48056721|2702279.41960066
+GBIF_bees_SZ_RL_241832,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,,1,,2019,8,18,2019/8/18;NA/NA/NA,,Switzerland,46.19781,9.02566,3535,provided,4245708.08304388|2565462.87548277
+GBIF_bees_SZ_RL_365513,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,M,1,,2019,8,23,2019/8/23;NA/NA/NA,,Switzerland,46.95369,9.57362,3535,provided,4288515.05813493|2649002.99587384
+GBIF_bees_SZ_RL_240836,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2019,8,8,2019/8/8;NA/NA/NA,,Switzerland,47.37253,8.59717,3535,provided,4214980.35273748|2696440.54754241
+GBIF_bees_SZ_RL_421099,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,M,1,,2019,8,9,2019/8/9;NA/NA/NA,,Switzerland,46.47825,7.08055,3535,provided,4096635.14409163|2600516.89167621
+GBIF_bees_SZ_RL_299174,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2020,8,22,2020/8/22;NA/NA/NA,,Switzerland,45.97471,8.89015,3535,provided,4234882.67961058|2540843.73888785
+GBIF_bees_SZ_RL_416587,GBIF_Switzerlands_2023,Christophe Praz,Megachile sculpturalis,F,1,,2021,8,18,2021/8/18;NA/NA/NA,,Switzerland,45.97471,8.89015,3535,provided,4234882.67961058|2540843.73888785
+RU2_LIT_bees_RL_622,Russia2_literature_2023,Liuba Fedorova (UMONS),Megachile sculpturalis,F,4,,2019,9,2,2019/9/2;NA/NA/NA,,Ukraine,44.93694444,34.13527778,,provided,6191563.64038212|2731714.0729767
+RU_LIT_RL_10855,Russia_literature_2023,Liuba Fedorova (UMONS),Megachile sculpturalis,F,4,,2019,9,2,2019/9/2;NA/NA/NA,,Ukraine,44.936944,34.135278,,not_provided,6191563.67160231|2731714.03168523
+ADDm_VR_355,ADD_PULSE_2024,S.P. Ivanov,Megachile sculpturalis,,1,,2019,9,6,NA;NA,2019,Ukraine,44.5558,34.0757,,provided,6199946.714137|2689614.0440924
+RU2_LIT_bees_RL_623,Russia2_literature_2023,Liuba Fedorova (UMONS),Megachile sculpturalis,F,2,,2019,9,6,2019/9/6;NA/NA/NA,,Ukraine,44.93694444,34.13527778,,provided,6191563.64038212|2731714.0729767
+RU_LIT_RL_10856,Russia_literature_2023,Liuba Fedorova (UMONS),Megachile sculpturalis,F,2,,2019,9,6,2019/9/6;NA/NA/NA,,Ukraine,44.936944,34.135278,,not_provided,6191563.67160231|2731714.03168523
+RU2_LIT_bees_RL_624,Russia2_literature_2023,Liuba Fedorova (UMONS),Megachile sculpturalis,F,1,,2019,9,9,2019/9/9;NA/NA/NA,,Ukraine,44.93694444,34.13527778,,provided,6191563.64038212|2731714.0729767
+RU_LIT_RL_10857,Russia_literature_2023,Liuba Fedorova (UMONS),Megachile sculpturalis,F,1,,2019,9,9,2019/9/9;NA/NA/NA,,Ukraine,44.936944,34.135278,,not_provided,6191563.67160231|2731714.03168523
+ADDm_VR_360,ADD_PULSE_2024,"Mulenko et all., 2022",Megachile sculpturalis,F,1,,2018,6,1,NA;NA,,Ukraine,46.5752,30.4216,,provided,5865458.47325901|2821452.56902398
+ADDm_VR_358,ADD_PULSE_2024,"Mulenko et all., 2022",Megachile sculpturalis,F,1,,2022,7,27,NA;NA,,Ukraine,47.4844,35.8334,,provided,6223978.58211577|3045556.5270611
+ADDm_VR_359,ADD_PULSE_2024,"Mulenko et all., 2022",Megachile sculpturalis,F,1,,2022,7,27,NA;NA,,Ukraine,47.4844,35.8334,,provided,6223978.58211577|3045556.5270611
+ADDm_VR_356,ADD_PULSE_2024,"Ivanov, Fateryga, 2019",Megachile sculpturalis,F,1,,2022,7,28,NA;NA,,Ukraine,46.2616,30.4216,,provided,5874599.54099972|2787662.92163864
+ADDm_VR_357,ADD_PULSE_2024,"Ivanov, Fateryga, 2019",Megachile sculpturalis,F,1,,2022,7,28,NA;NA,,Ukraine,46.2616,30.4216,,provided,5874599.54099972|2787662.92163864

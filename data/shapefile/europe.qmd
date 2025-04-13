@@ -1,0 +1,55 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.36.1-Maidenhead">
+  <identifier>g2015_2014_0</identifier>
+  <parentidentifier></parentidentifier>
+  <language>ENG</language>
+  <type>dataset</type>
+  <title>The Global Administrative Unit Layers  - GAUL 2015</title>
+  <abstract>The Global Administrative Unit Layers (GAUL) is an initiative implemented by FAO within the AfricaFertilizer.org project.The GAUL compiles and disseminates the best available information on administrative units for all the countries in the world, providing a contribution to the standardization of the spatial dataset representing administrative units. The GAUL always maintains global layers with a unified coding system at country, first (e.g. departments) and second administrative levels (e.g. districts). Where data is available, it provides layers on a country by country basis down to third, fourth and lowers levels. The overall methodology consists in a) collecting the best available data from most reliable sources, b) establishing validation periods of the geographic features (when possible), c) adding selected data to the global layer based on the last country boundaries map provided by the UN Cartographic Unit (UNCS), d) generating codes using GAUL Coding System and e) distribute data to the users (see TechnicalArticleG2014.pdf).Because GAUL works at global level, unsettled territories are reported. The approach of GAUL is to deal with these areas in such a way to preserve national integrity for all disputing countries (see TechnicalArticleG2014.pdfand G2014_DisputedAreas.dbf).GAUL is released once a year and the target beneficiary of GAUL data is the UN community and other authorized international and national partners. GAUL keeps track of administrative units that has been changed, added or dismissed in the past for political causes. Changes implemented in different years are recorded in GAUL on different layers. For this reason the GAUL product is not a single layer but a group of layers, named "GAUL Set" (see ReleaseNoteGAUL2014.pdf).
+
+The Global Administrative Unit Layers (GAUL) aims at compiling and disseminating the most reliable spatial information on administrative units for all countries in the world.</abstract>
+  <keywords vocabulary="Search keys">
+    <keyword>sub national boundaries</keyword>
+    <keyword>GAUL</keyword>
+    <keyword>global</keyword>
+    <keyword>World</keyword>
+    <keyword>administrative</keyword>
+  </keywords>
+  <contact>
+    <name></name>
+    <organization></organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email></email>
+    <role></role>
+  </contact>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <constraints type="Limitations of use">Data might not be officially validated by authoritative national sources and cannot be distributed to the general public. A disclaimer should always accompany any use of GAUL data.The GAUL dataset is distributed to the United Nations and other authorized international and national institutions/agencies. FAO grants a license to use, download and print the materials contained in the GAUL dataset solely for non-commercial purposes and in accordance with the conditions specified in the data license. The full GAUL Data License document is available for downloading.</constraints>
+  <rights>Statistics Division (ESS) - Economic and Social Development Department (ES) - Food and Agriculture Organization of the United Nations (FAO)</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+      <srsid>3452</srsid>
+      <srid>4326</srid>
+      <authid>EPSG:4326</authid>
+      <description>WGS 84</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxx="180" miny="-89.90000200000000063" minx="-180" minz="0" maxz="0" maxy="83.62741900000000328" dimensions="2" crs="EPSG:4326"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
