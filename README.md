@@ -39,14 +39,9 @@ source('install_packages.R')
 To use the scripts, simply follow these steps:
 1. Clone or download the repository to your local machine.
 2. Install the required packages by running source(`install_packages.R`).
-3. Import the dataset(s): a test file is provided `test_data(50_rows).csv` to run the scripts. Otherwise, you can fill the `ToFill.xlsx` or the `ToFill_ToFill.csv` with your own data. Prepare your dataset according to the format described in metadata documentation (`Metadata_field_description` or `ToFill` files).
-4. Run the individual scripts in the same order. 
-    - `01_data_import.R`
-    - `02_quality_check.R`
-    - `03_scientificName_validation.R`
-    - `04_taxonomy_classification.R`
-    - `05_administrative_level.R`
-    - `06_batch_map.R`
+3. Prepare your dataset according to the format described in metadata documentation (`Metadata_field_description` or `ToFill` files).
+4. Run the script. 
+    - `quality_check.R`
 
 5. Modify the scripts as needed for your specific dataset or research requirements.
 
